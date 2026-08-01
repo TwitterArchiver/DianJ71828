@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2027574110122127837",
+    "created_at": "2026-02-28T02:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027574110122127837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EliFoca5201314…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/EliFoca5201314/status/2022987235508003171",
+          "start": 16,
+          "url": "https://t.co/S3dVrgbv0E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027574110122127837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022987235508003171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "艾瑞卡！你们的皇帝！回来了！！ https://t.co/S3dVrgbv0E"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3500,
+        "height": 720,
+        "media_key": "13_2022987177198784512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022987177198784512/img/06uHXJ4k8HA1k1TM.jpg",
+        "public_metrics": {
+          "view_count": 3173
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022987177198784512/vid/avc1/480x270/JZNxwTwV3yR_gWNC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022987177198784512/vid/avc1/640x360/4lpAqYBOuoet0P43.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022987177198784512/vid/avc1/1280x720/suO4Fs5C9ImKzbYM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022987177198784512/pl/ksVwynjPAgDnx6wx.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2027574110122127837",
+        "created_at": "2026-02-28T02:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027574110122127837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EliFoca5201314…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/EliFoca5201314/status/2022987235508003171",
+              "start": 16,
+              "url": "https://t.co/S3dVrgbv0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027574110122127837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022987235508003171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "艾瑞卡！你们的皇帝！回来了！！ https://t.co/S3dVrgbv0E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022987177198784512"
+          ]
+        },
+        "author_id": "2007357281160278017",
+        "conversation_id": "2022987235508003171",
+        "created_at": "2026-02-15T10:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022987235508003171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6j3eSgc5Ev",
+              "end": 30,
+              "expanded_url": "https://x.com/EliFoca5201314/status/2022987235508003171/video/1",
+              "media_key": "13_2022987177198784512",
+              "start": 7,
+              "url": "https://t.co/6j3eSgc5Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022987235508003171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 20310,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我可不可爱😋 https://t.co/6j3eSgc5Ev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 502,
+          "like_count": 11109,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2133
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T07:44:15.000Z",
+        "description": "🏳️‍⚧️身高158🏳️‍🌈/ #男娘 / #娼年 / #正太 #萝莉 /🚪52 /娼年系神侍美少年❤️/我一定会成为登峰造极的娼年系的【】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "男娘"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "娼年"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "正太"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "萝莉"
+              }
+            ]
+          }
+        },
+        "id": "2007357281160278017",
+        "location": "投喂52r🉑➕好友",
+        "name": "千葉芙卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007453964460273667/-37A4lME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 63,
+          "like_count": 13,
+          "listed_count": 9,
+          "media_count": 15,
+          "tweet_count": 25
+        },
+        "username": "EliFoca5201314",
+        "verified": true
+      }
+    ]
+  }
+}

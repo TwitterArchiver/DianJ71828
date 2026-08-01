@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2053063976347738357",
+    "created_at": "2026-05-09T10:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053063976347738357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053063976347738357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052665935379718454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 药娘哭话第七十三则：猛男行为\n\n问：哪些行为可以让自己更加男性化？\n\n答：穿小裙子，吃补佳乐，拆蛋装逼\n\n问：为什么？\n\n答：这样做了以后，就会不断有人对你说“一眼男”、“你永远都是男的”等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2053063976347738357",
+        "created_at": "2026-05-09T10:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053063976347738357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053063976347738357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052665935379718454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 药娘哭话第七十三则：猛男行为\n\n问：哪些行为可以让自己更加男性化？\n\n答：穿小裙子，吃补佳乐，拆蛋装逼\n\n问：为什么？\n\n答：这样做了以后，就会不断有人对你说“一眼男”、“你永远都是男的”等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2052665935379718454",
+        "created_at": "2026-05-08T08:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052665935379718454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052665935379718454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 12473,
+          "like_count": 318,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "药娘哭话第七十三则：猛男行为\n\n问：哪些行为可以让自己更加男性化？\n\n答：穿小裙子，吃补佳乐，拆蛋装逼\n\n问：为什么？\n\n答：这样做了以后，就会不断有人对你说“一眼男”、“你永远都是男的”等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 535,
+          "like_count": 12964,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 2539
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4393,
+          "following_count": 3360,
+          "like_count": 1278,
+          "listed_count": 18,
+          "media_count": 241,
+          "tweet_count": 1652
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

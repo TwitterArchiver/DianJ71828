@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1892956481835667639",
+    "created_at": "2025-02-23T09:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T10:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893593352806752315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561589948968468481",
+          "start": 0,
+          "username": "yyylong2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893593352806752315",
+    "in_reply_to_user_id": "1561589948968468481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892956481835667639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyylong2002 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1892956471379271680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkUh4aPWoAAuH_v.jpg",
+        "width": 1814
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1892956481835667639",
+        "created_at": "2025-02-23T09:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893593352806752315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561589948968468481",
+              "start": 0,
+              "username": "yyylong2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893593352806752315",
+        "in_reply_to_user_id": "1561589948968468481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892956481835667639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyylong2002 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892956471379271680"
+          ]
+        },
+        "author_id": "1561589948968468481",
+        "conversation_id": "1892956481835667639",
+        "created_at": "2025-02-21T15:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T16:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892956481835667639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDjceyysS4",
+              "end": 66,
+              "expanded_url": "https://x.com/yyylong2002/status/1892956481835667639/photo/1",
+              "media_key": "3_1892956471379271680",
+              "start": 43,
+              "url": "https://t.co/tDjceyysS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892956481835667639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13207,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直不怎么发露脸涩图的原因是颜值焦虑，总感觉自己没别人好看，在想整个容在露脸。 https://t.co/tDjceyysS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 177,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 213
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:44:01.000Z",
+        "description": "男娘，江浙沪线下，全国🉑飞。可爱脸年轻魅魔，吃药了所以身体摸起来很软很光滑，门槛99口令红包加vx，过门槛再问线下（喜欢龙龙的话可以帮龙龙转个推爱你喔❤️）对象：@BoHeDongGua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "BoHeDongGua"
+              }
+            ]
+          }
+        },
+        "id": "1561589948968468481",
+        "location": "江浙沪",
+        "name": "樱龙嘤龙喵",
+        "pinned_tweet_id": "1893533319125422267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613008764835368960/-wjnjyve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40306,
+          "following_count": 65,
+          "like_count": 92,
+          "listed_count": 207,
+          "media_count": 24,
+          "tweet_count": 370
+        },
+        "username": "yyylong2002",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2027292289723408426",
+    "created_at": "2026-02-28T01:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027554513234890963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1322444537415966720",
+          "start": 0,
+          "username": "cgefw_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027554513234890963",
+    "in_reply_to_user_id": "1322444537415966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027478527592042765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cgefw_1 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2027292289723408426",
+        "created_at": "2026-02-28T01:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027554513234890963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1322444537415966720",
+              "start": 0,
+              "username": "cgefw_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027554513234890963",
+        "in_reply_to_user_id": "1322444537415966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027478527592042765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cgefw_1 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322444537415966720",
+        "conversation_id": "2027292289723408426",
+        "created_at": "2026-02-27T20:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027478527592042765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027478527592042765",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027292289723408426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 早期按 200 100 吃的时候是这样的\n现在还有人按 100 或 50 吃...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 501,
+          "like_count": 11066,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2118
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-31T07:45:31.000Z",
+        "description": "EN/中文",
+        "id": "1322444537415966720",
+        "name": "cgefw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999534333812682752/YV2SK9zL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 409,
+          "like_count": 5486,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2201
+        },
+        "username": "cgefw_1",
+        "verified": false
+      }
+    ]
+  }
+}

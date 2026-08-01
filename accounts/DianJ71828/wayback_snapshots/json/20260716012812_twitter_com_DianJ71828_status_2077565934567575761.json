@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2077227929004830737",
+    "created_at": "2026-07-16T01:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077565934567575761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002873553792966658",
+          "start": 0,
+          "username": "Selenophile080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077565934567575761",
+    "in_reply_to_user_id": "2002873553792966658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077483879313875231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selenophile080 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2077227929004830737",
+        "created_at": "2026-07-16T01:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077565934567575761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002873553792966658",
+              "start": 0,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077565934567575761",
+        "in_reply_to_user_id": "2002873553792966658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077483879313875231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenophile080 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002873553792966658",
+        "conversation_id": "2077227929004830737",
+        "created_at": "2026-07-15T20:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077483879313875231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077483879313875231",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077227929004830737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 革新派诡秘😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 543,
+          "like_count": 12992,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 2655
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "HRT自2024.8.4/无证含糖/MTF/⚠️割手，自残，od，紫砂史，情绪崩溃⚠️，已逃离原生家庭，切割豹豹猫猫，许多精神分裂型迹象（疑似）\n预告：本人是˗ˋˏ꒰ঌ 超级 ✝︎ 病娇 ໒꒱ྀིˎˊ˗。\nINTJ-A转INFJ人格，最重要的人是：@FrostyStrings",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "Cynthia🍥",
+        "pinned_tweet_id": "2071420991365136607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076592113878441985/fklIDCLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 159,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}

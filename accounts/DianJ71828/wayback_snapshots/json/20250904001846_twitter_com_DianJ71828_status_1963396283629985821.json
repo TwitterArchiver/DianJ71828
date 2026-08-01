@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1963033004043075633",
+    "created_at": "2025-09-04T00:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T01:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963396283629985821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1334014250650484736",
+          "start": 0,
+          "username": "MisakiRisa_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963396283629985821",
+    "in_reply_to_user_id": "1334014250650484736",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963270435761750246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakiRisa_11 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1963033004043075633",
+        "created_at": "2025-09-04T00:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T01:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963396283629985821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1334014250650484736",
+              "start": 0,
+              "username": "MisakiRisa_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963396283629985821",
+        "in_reply_to_user_id": "1334014250650484736",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963270435761750246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakiRisa_11 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1334014250650484736",
+        "conversation_id": "1963033004043075633",
+        "created_at": "2025-09-03T15:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T16:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963270435761750246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963270435761750246",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963033004043075633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 阻止自残，我自己爽就行🖤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 317,
+          "like_count": 2552,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 617
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-02T05:59:25.000Z",
+        "description": "我的另一面🖤",
+        "id": "1334014250650484736",
+        "name": "莉莎",
+        "pinned_tweet_id": "1903049656529195353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924775543490412544/RSsniyTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 180,
+          "like_count": 1436,
+          "listed_count": 7,
+          "media_count": 36,
+          "tweet_count": 278
+        },
+        "username": "MisakiRisa_11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022953636494741547",
+    "created_at": "2026-02-15T08:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T09:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022953636494741547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1719681264461168641",
+          "start": 3,
+          "username": "beilinzhi"
+        },
+        {
+          "end": 25,
+          "id": "2013291448838610944",
+          "start": 15,
+          "username": "yyqx52000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022953636494741547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022905948705296544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beilinzhi: @yyqx52000 1.雌激素主要是给顺女用的\n2.不是所有药娘都是你们男娘雌堕来的 跨性别服用雌激素是一种治疗方式 \n3.只要正常吃不会导致寿命缩短"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022953636494741547",
+        "created_at": "2026-02-15T08:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022953636494741547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1719681264461168641",
+              "start": 3,
+              "username": "beilinzhi"
+            },
+            {
+              "end": 25,
+              "id": "2013291448838610944",
+              "start": 15,
+              "username": "yyqx52000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022953636494741547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022905948705296544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beilinzhi: @yyqx52000 1.雌激素主要是给顺女用的\n2.不是所有药娘都是你们男娘雌堕来的 跨性别服用雌激素是一种治疗方式 \n3.只要正常吃不会导致寿命缩短"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719681264461168641",
+        "conversation_id": "2022651368637632676",
+        "created_at": "2026-02-15T05:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022905948705296544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013291448838610944",
+              "start": 0,
+              "username": "yyqx52000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022905948705296544",
+        "in_reply_to_user_id": "2013291448838610944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1038,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022651368637632676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyqx52000 1.雌激素主要是给顺女用的\n2.不是所有药娘都是你们男娘雌堕来的 跨性别服用雌激素是一种治疗方式 \n3.只要正常吃不会导致寿命缩短"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 731,
+          "like_count": 9406,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1764
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T11:42:26.000Z",
+        "description": "05大学实习牲｜INFP？｜泛性恋｜0.5｜是个臭看番的｜家长不管党｜可互fo 私我｜猫猫老婆喵@Cryogenic3770ฅ^•ﻌ•^ฅ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Cryogenic3770"
+              }
+            ]
+          }
+        },
+        "id": "1719681264461168641",
+        "location": "青岛",
+        "name": "北林鸷",
+        "pinned_tweet_id": "1994453475925922145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015840876480888832/-3orralD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 256,
+          "like_count": 2790,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 284
+        },
+        "username": "beilinzhi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T16:44:29.000Z",
+        "description": "这里是优叶千香了，是一个神奇mtf的小号，希望揪住我的不要把我曝光出去💊\n从三岁开始就是抖m了，六岁开始更是不断的涌出雌堕的想法，应该是天生的吧，这十几年来一直在加深，会有自卑，生殖崇拜等现象，终于在16岁的时候接触了药娘，也是没有考虑就变了，还没有服侍过真正强大的男人呢😭\n但是吃过很多郭楠的精液，精液好吃😋",
+        "id": "2013291448838610944",
+        "name": "一只普普通通的♠️伪娘千香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013291557567242240/AyAgUxps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 33,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "username": "yyqx52000",
+        "verified": false
+      }
+    ]
+  }
+}

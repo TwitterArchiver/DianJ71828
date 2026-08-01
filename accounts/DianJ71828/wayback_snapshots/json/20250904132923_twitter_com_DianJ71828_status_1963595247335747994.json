@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963595240587083776"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1963595247335747994",
+    "created_at": "2025-09-04T13:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T14:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963595247335747994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OK5CYOHgG6",
+          "end": 78,
+          "expanded_url": "https://x.com/DianJ71828/status/1963595247335747994/photo/1",
+          "media_key": "3_1963595240587083776",
+          "start": 55,
+          "url": "https://t.co/OK5CYOHgG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963595247335747994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我:我要不要喷酒精消毒\n我妈:会留疤，不要\n我:那我光在爱心的地方喷！\n₍˄·͈༝·͈˄*₎◞ ̑̑天才猫猫 https://t.co/OK5CYOHgG6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963595240587083776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AXd73XQAAUmz-.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963595240587083776"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1963595247335747994",
+        "created_at": "2025-09-04T13:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T14:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963595247335747994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OK5CYOHgG6",
+              "end": 78,
+              "expanded_url": "https://x.com/DianJ71828/status/1963595247335747994/photo/1",
+              "media_key": "3_1963595240587083776",
+              "start": 55,
+              "url": "https://t.co/OK5CYOHgG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963595247335747994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我:我要不要喷酒精消毒\n我妈:会留疤，不要\n我:那我光在爱心的地方喷！\n₍˄·͈༝·͈˄*₎◞ ̑̑天才猫猫 https://t.co/OK5CYOHgG6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 340,
+          "like_count": 2650,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 672
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

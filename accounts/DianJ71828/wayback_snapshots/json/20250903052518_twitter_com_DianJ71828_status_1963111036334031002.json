@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1962885727043101049",
+    "created_at": "2025-09-03T05:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T06:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963111036334031002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963111036334031002",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962885727043101049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoynqi3 当吴京进了韩国部队be like:\n✌🏻️🥵✌🏻️💉\n      💦         🔞🖌️🔞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962885727043101049",
+        "created_at": "2025-09-03T05:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963111036334031002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963111036334031002",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962885727043101049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 当吴京进了韩国部队be like:\n✌🏻️🥵✌🏻️💉\n      💦         🔞🖌️🔞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "1962885727043101049",
+        "created_at": "2025-09-02T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962885727043101049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962885727043101049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 83605,
+          "like_count": 1582,
+          "quote_count": 14,
+          "reply_count": 41,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "吴京说自己可以给女性提供YY的情境。\n那个，吴京，你知道吗，其实真的有YY过你的大部分是同人女，她们喜欢看你被插得翻白眼，喜欢看你在军营里面被战友轮流干………\n我想你的男性自尊心并不接受这样的YY吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 306,
+          "like_count": 2427,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 596
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1936841747671249172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 175,
+          "like_count": 18174,
+          "listed_count": 8,
+          "media_count": 87,
+          "tweet_count": 4020
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

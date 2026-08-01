@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2073778948270596193",
+    "created_at": "2026-07-05T14:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073778948270596193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PatsKam/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/PatsKam/status/2073470905099878527",
+          "start": 6,
+          "url": "https://t.co/NGcFi5IKcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073778948270596193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073470905099878527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窝趣不早说 https://t.co/NGcFi5IKcg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2073778948270596193",
+        "created_at": "2026-07-05T14:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073778948270596193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PatsKam/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/PatsKam/status/2073470905099878527",
+              "start": 6,
+              "url": "https://t.co/NGcFi5IKcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073778948270596193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073470905099878527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝趣不早说 https://t.co/NGcFi5IKcg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792314129283190784",
+        "conversation_id": "2073470905099878527",
+        "created_at": "2026-07-04T18:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073470905099878527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073470905099878527",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 116612,
+          "like_count": 13354,
+          "quote_count": 37,
+          "reply_count": 145,
+          "retweet_count": 1990
+        },
+        "reply_settings": "everyone",
+        "text": "To shame a woman, they say she slept with too many men. To shame a man, they say he slept with men. So clearly society decided, sleeping with men is the embarrassing part."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 540,
+          "like_count": 12926,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2635
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T21:59:56.000Z",
+        "description": "New England to LA, 28. I lost a lot of weight. MBA graduate. Boston Sports. ☘️❤️💙💛 & LSU Tigers. 🐅 ✝️\n\nsubscribe for weight loss tips, recipes, & DMs.",
+        "id": "1792314129283190784",
+        "location": "United States",
+        "name": "Kam ✨",
+        "pinned_tweet_id": "2066979953095176474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072123028431884288/EuyrtB8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40590,
+          "following_count": 9196,
+          "like_count": 20272,
+          "listed_count": 45,
+          "media_count": 2949,
+          "tweet_count": 33772
+        },
+        "url": "",
+        "username": "PatsKam",
+        "verified": true
+      }
+    ]
+  }
+}

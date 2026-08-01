@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017128219808583680"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016919244311810551",
+    "created_at": "2026-01-30T06:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017128222736208194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001540643060109312",
+          "start": 0,
+          "username": "muyuanzhapian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qN1wRyp7De",
+          "end": 38,
+          "expanded_url": "https://x.com/DianJ71828/status/2017128222736208194/photo/1",
+          "media_key": "3_2017128219808583680",
+          "start": 15,
+          "url": "https://t.co/qN1wRyp7De"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017128222736208194",
+    "in_reply_to_user_id": "2001540643060109312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016949371863257533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muyuanzhapian https://t.co/qN1wRyp7De"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2017128219808583680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5HbcAbUAAom3O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017128219808583680"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016919244311810551",
+        "created_at": "2026-01-30T06:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017128222736208194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001540643060109312",
+              "start": 0,
+              "username": "muyuanzhapian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qN1wRyp7De",
+              "end": 38,
+              "expanded_url": "https://x.com/DianJ71828/status/2017128222736208194/photo/1",
+              "media_key": "3_2017128219808583680",
+              "start": 15,
+              "url": "https://t.co/qN1wRyp7De"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017128222736208194",
+        "in_reply_to_user_id": "2001540643060109312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016949371863257533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muyuanzhapian https://t.co/qN1wRyp7De"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001540643060109312",
+        "conversation_id": "2016919244311810551",
+        "created_at": "2026-01-29T18:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016949371863257533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016949371863257533",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016919244311810551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 你是出生，不分男女，论公母就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 550,
+          "like_count": 5518,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1201
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T06:30:58.000Z",
+        "description": "所长活全家了",
+        "id": "2001540643060109312",
+        "location": "布鲁克林厕所",
+        "name": "厕所所长🇺🇸🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006908836683350016/MD3nRNII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 166
+        },
+        "username": "muyuanzhapian",
+        "verified": false
+      }
+    ]
+  }
+}

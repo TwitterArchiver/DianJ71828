@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960728516867010733",
+    "created_at": "2025-08-28T16:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T17:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961097611559215486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1626984195817115649",
+          "start": 0,
+          "username": "ChristeneAshlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961097611559215486",
+    "in_reply_to_user_id": "1626984195817115649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960728516867010733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChristeneAshlee 太完美....♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1490,
+        "media_key": "3_1960622743885635585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWH_2va4AEkvNp.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960728516867010733",
+        "created_at": "2025-08-28T16:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961097611559215486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1626984195817115649",
+              "start": 0,
+              "username": "ChristeneAshlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961097611559215486",
+        "in_reply_to_user_id": "1626984195817115649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960728516867010733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChristeneAshlee 太完美....♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960622743885635585"
+          ]
+        },
+        "author_id": "1626984195817115649",
+        "conversation_id": "1960728516867010733",
+        "created_at": "2025-08-27T15:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960728516867010733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6HdQ36BUm",
+              "end": 32,
+              "expanded_url": "https://x.com/ChristeneAshlee/status/1960728516867010733/photo/1",
+              "media_key": "3_1960622743885635585",
+              "start": 9,
+              "url": "https://t.co/S6HdQ36BUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960728516867010733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 12490,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "硬起来了！🤪🤪🤪 https://t.co/S6HdQ36BUm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 215,
+          "like_count": 1790,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 347
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T16:37:23.000Z",
+        "description": "|MTF|✨|含🍥女|单亲、缺乏父爱|想变可爱捏✨|欢迎互fo☺️|",
+        "id": "1626984195817115649",
+        "location": "不夜城",
+        "name": "未央🍥🏳️‍⚧️(泌乳中～)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858795781240877056/bdJzs4fF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 327,
+          "like_count": 87,
+          "listed_count": 11,
+          "media_count": 36,
+          "tweet_count": 82
+        },
+        "username": "ChristeneAshlee",
+        "verified": false
+      }
+    ]
+  }
+}

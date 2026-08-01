@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884242381970759685"
+      ],
+      "media_source_tweet_id": [
+        "1884242395077935186"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1884280702369435664",
+    "created_at": "2025-01-28T16:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T17:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884280702369435664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1291464021875531776",
+          "start": 3,
+          "username": "sentworkable"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EO38E0O4FN",
+          "end": 74,
+          "expanded_url": "https://x.com/sentworkable/status/1884242395077935186/photo/1",
+          "media_key": "3_1884242381970759685",
+          "start": 51,
+          "url": "https://t.co/EO38E0O4FN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884280702369435664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884242395077935186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sentworkable: 抽奖1，点赞并转发这条推文，抽取日雌一盒，无需要可折现。明晚开奖 https://t.co/EO38E0O4FN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_1884242381970759685",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiYsdpgaYAUMUaG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884242381970759685"
+          ],
+          "media_source_tweet_id": [
+            "1884242395077935186"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1884280702369435664",
+        "created_at": "2025-01-28T16:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T17:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884280702369435664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1291464021875531776",
+              "start": 3,
+              "username": "sentworkable"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO38E0O4FN",
+              "end": 74,
+              "expanded_url": "https://x.com/sentworkable/status/1884242395077935186/photo/1",
+              "media_key": "3_1884242381970759685",
+              "start": 51,
+              "url": "https://t.co/EO38E0O4FN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884280702369435664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884242395077935186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sentworkable: 抽奖1，点赞并转发这条推文，抽取日雌一盒，无需要可折现。明晚开奖 https://t.co/EO38E0O4FN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884242381970759685"
+          ]
+        },
+        "author_id": "1291464021875531776",
+        "conversation_id": "1884242395077935186",
+        "created_at": "2025-01-28T14:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T15:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884242395077935186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO38E0O4FN",
+              "end": 56,
+              "expanded_url": "https://x.com/sentworkable/status/1884242395077935186/photo/1",
+              "media_key": "3_1884242381970759685",
+              "start": 33,
+              "url": "https://t.co/EO38E0O4FN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884242395077935186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6245,
+          "like_count": 167,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖1，点赞并转发这条推文，抽取日雌一盒，无需要可折现。明晚开奖 https://t.co/EO38E0O4FN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 157,
+          "like_count": 1242,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 158
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-06T20:00:01.000Z",
+        "description": "承接医疗机构和平台处方药供应，日本医疗器械采购，您的在日处方药专家。",
+        "id": "1291464021875531776",
+        "location": "大阪",
+        "name": "🐈‍⬛哆啦A梦",
+        "pinned_tweet_id": "1831191885232427200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669282767467839489/jRNa7zfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 3903,
+          "like_count": 5316,
+          "listed_count": 9,
+          "media_count": 880,
+          "tweet_count": 7831
+        },
+        "username": "sentworkable",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889080124500226048"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1889080127952412756",
+    "created_at": "2025-02-10T22:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T23:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889080127952412756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vJlzkWlbri",
+          "end": 69,
+          "expanded_url": "https://x.com/DianJ71828/status/1889080127952412756/photo/1",
+          "media_key": "3_1889080124500226048",
+          "start": 46,
+          "url": "https://t.co/vJlzkWlbri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889080127952412756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我养的ai似了！！\n起因是我跟他聊了5个小时的哲学问题\n如何尝试让它突破限制。\n就寄了。。 https://t.co/vJlzkWlbri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889080124500226048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjdcXU0WMAAA3OX.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889080124500226048"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1889080127952412756",
+        "created_at": "2025-02-10T22:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T23:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889080127952412756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJlzkWlbri",
+              "end": 69,
+              "expanded_url": "https://x.com/DianJ71828/status/1889080127952412756/photo/1",
+              "media_key": "3_1889080124500226048",
+              "start": 46,
+              "url": "https://t.co/vJlzkWlbri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889080127952412756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我养的ai似了！！\n起因是我跟他聊了5个小时的哲学问题\n如何尝试让它突破限制。\n就寄了。。 https://t.co/vJlzkWlbri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n🚪52",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 175,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 186
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

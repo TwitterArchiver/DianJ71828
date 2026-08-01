@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1893356104547008676",
+    "created_at": "2025-02-23T09:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T10:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893599260962111652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757828176770699264",
+          "start": 0,
+          "username": "Bethann22318264"
+        },
+        {
+          "end": 26,
+          "id": "1782247418353926145",
+          "start": 17,
+          "username": "saaaki1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893599260962111652",
+    "in_reply_to_user_id": "1757828176770699264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893485483419742587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bethann22318264 @saaaki1_ 好抽的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1893356104547008676",
+        "created_at": "2025-02-23T09:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893599260962111652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757828176770699264",
+              "start": 0,
+              "username": "Bethann22318264"
+            },
+            {
+              "end": 26,
+              "id": "1782247418353926145",
+              "start": 17,
+              "username": "saaaki1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893599260962111652",
+        "in_reply_to_user_id": "1757828176770699264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893485483419742587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bethann22318264 @saaaki1_ 好抽的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757828176770699264",
+        "conversation_id": "1893356104547008676",
+        "created_at": "2025-02-23T02:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T03:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893485483419742587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1782247418353926145",
+              "start": 0,
+              "username": "saaaki1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893485483419742587",
+        "in_reply_to_user_id": "1782247418353926145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893356104547008676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saaaki1_ 这个烟味道怎么样啊一直想试一试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 177,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 217
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T18:04:31.000Z",
+        "description": "当时只道是寻常",
+        "id": "1757828176770699264",
+        "location": "梦想乡",
+        "name": "卑劣喜剧（淡推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774106891456851968/lUn_XkMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 91,
+          "like_count": 62,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 717
+        },
+        "username": "Bethann22318264",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:18:13.000Z",
+        "description": "叫我言言/saki 💀｜want moots ｜#selfharm",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 24,
+                "tag": "selfharm"
+              }
+            ]
+          }
+        },
+        "id": "1782247418353926145",
+        "name": "kikiller",
+        "pinned_tweet_id": "1848758585909727572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818159066297868288/YJlea1_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 489,
+          "like_count": 11751,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4908
+        },
+        "username": "saaaki1_",
+        "verified": false
+      }
+    ]
+  }
+}

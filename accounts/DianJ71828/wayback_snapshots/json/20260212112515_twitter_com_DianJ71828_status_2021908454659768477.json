@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006294370463723520"
+      ],
+      "media_source_tweet_id": [
+        "2006295131838947736"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021908454659768477",
+    "created_at": "2026-02-12T11:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021908454659768477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1268669834700697602",
+          "start": 3,
+          "username": "uuccc123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XxtFVBYeVo",
+          "end": 94,
+          "expanded_url": "https://x.com/uuccc123/status/2006295131838947736/video/1",
+          "media_key": "13_2006294370463723520",
+          "start": 71,
+          "url": "https://t.co/XxtFVBYeVo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021908454659768477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006295131838947736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuccc123: 拉菲Bunny】救命，本来只想蹭蹭舒服一下的，结果一屁股坐到底……瞬间完蛋，直接从小废物变身成淫叫小喷泉了啦~~ https://t.co/XxtFVBYeVo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021908454659768477].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021908454659768477",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021908454659768477"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21176,
+        "height": 1440,
+        "media_key": "13_2006294370463723520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006294370463723520/img/IKgEDOD49A1goRqh.jpg",
+        "public_metrics": {
+          "view_count": 207866
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006294370463723520/vid/avc1/320x426/QeVgbhtDtsISGNRJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006294370463723520/vid/avc1/480x640/wBPbGcIMyjDTerN9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006294370463723520/vid/avc1/720x960/dNoHOqh4KrWpTpu9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006294370463723520/pl/Vmh2GISq0I4-H7sO.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006294370463723520"
+          ]
+        },
+        "author_id": "1268669834700697602",
+        "conversation_id": "2006295131838947736",
+        "created_at": "2025-12-31T09:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T10:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006295131838947736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxtFVBYeVo",
+              "end": 80,
+              "expanded_url": "https://x.com/uuccc123/status/2006295131838947736/video/1",
+              "media_key": "13_2006294370463723520",
+              "start": 57,
+              "url": "https://t.co/XxtFVBYeVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006295131838947736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4237,
+          "impression_count": 559921,
+          "like_count": 13005,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 1199
+        },
+        "reply_settings": "everyone",
+        "text": "拉菲Bunny】救命，本来只想蹭蹭舒服一下的，结果一屁股坐到底……瞬间完蛋，直接从小废物变身成淫叫小喷泉了啦~~ https://t.co/XxtFVBYeVo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 713,
+          "like_count": 8110,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1645
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T22:24:04.000Z",
+        "description": "一只(●'◡'●)臀部宽大の男娘，目测有明显のM倾向，喜欢玩大大の玩具~///推广请自辩~~\n\nSubscribe me=》：https://t.co/ZbgL8jev8c\n中國區訂閲=》https://t.co/yyAKblEazL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/kaka2348",
+                "end": 86,
+                "expanded_url": "http://patreon.com/kaka2348",
+                "start": 63,
+                "url": "https://t.co/ZbgL8jev8c"
+              },
+              {
+                "display_url": "t.me/uuuisuuBot",
+                "end": 117,
+                "expanded_url": "http://t.me/uuuisuuBot",
+                "start": 94,
+                "url": "https://t.co/yyAKblEazL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/uu2002",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/uu2002",
+                "start": 0,
+                "url": "https://t.co/AdGlsXv0Yd"
+              }
+            ]
+          }
+        },
+        "id": "1268669834700697602",
+        "location": "Sub me/訂閲→",
+        "name": "U+U",
+        "pinned_tweet_id": "2021826524039745610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893247268683436032/UO6Nnt_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181062,
+          "following_count": 158,
+          "like_count": 22,
+          "listed_count": 759,
+          "media_count": 16,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/AdGlsXv0Yd",
+        "username": "uuccc123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022830489099473061",
+    "created_at": "2026-02-15T00:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022830489099473061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553625577730428929",
+          "start": 3,
+          "username": "cyrs0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022830489099473061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022651823539253305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyrs0519: 不敢想象和女生的亲密，因为只要到了性的地步，就一定要面对身体结构的区别…在绝对的女体面前，任何“心理认同”都显得苍白…无论是攻还是受，又和普通“长发男”“四爱男”有什么区别呢？而我只想被当成一个普通女孩，作为女孩子拥有一段女孩子间的恋情…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022830489099473061",
+        "created_at": "2026-02-15T00:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022830489099473061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553625577730428929",
+              "start": 3,
+              "username": "cyrs0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022830489099473061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022651823539253305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyrs0519: 不敢想象和女生的亲密，因为只要到了性的地步，就一定要面对身体结构的区别…在绝对的女体面前，任何“心理认同”都显得苍白…无论是攻还是受，又和普通“长发男”“四爱男”有什么区别呢？而我只想被当成一个普通女孩，作为女孩子拥有一段女孩子间的恋情…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553625577730428929",
+        "conversation_id": "2022651823539253305",
+        "created_at": "2026-02-14T12:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022651823539253305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022651823539253305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2731,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "不敢想象和女生的亲密，因为只要到了性的地步，就一定要面对身体结构的区别…在绝对的女体面前，任何“心理认同”都显得苍白…无论是攻还是受，又和普通“长发男”“四爱男”有什么区别呢？而我只想被当成一个普通女孩，作为女孩子拥有一段女孩子间的恋情…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 728,
+          "like_count": 8932,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1737
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T06:16:29.000Z",
+        "description": "含糖三年，性别未知，是只野猫（？有🚪",
+        "id": "1553625577730428929",
+        "location": "北京",
+        "name": "漫天星白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822637324586610688/iI5EiNk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 259,
+          "like_count": 8291,
+          "listed_count": 18,
+          "media_count": 852,
+          "tweet_count": 4936
+        },
+        "username": "cyrs0519",
+        "verified": false
+      }
+    ]
+  }
+}

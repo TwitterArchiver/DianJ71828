@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2017519645209858061",
+    "created_at": "2026-01-31T08:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017519645209858061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SavannaMaf2574…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/SavannaMaf25749/status/2017424589979324421",
+          "start": 40,
+          "url": "https://t.co/KeJVtJ23C2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017519645209858061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017424589979324421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先，我这是引用，我就想问，一段基因表达出来的黑色皮肤，为什么会有人魅？🤔🤔🤔 https://t.co/KeJVtJ23C2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45069,
+        "height": 720,
+        "media_key": "7_2017424522505555971",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017424522505555971/pu/img/4AMcqDOMIUmlzVFW.jpg",
+        "public_metrics": {
+          "view_count": 2505
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017424522505555971/pu/vid/avc1/480x270/i1z4aM6l3leMvJSB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017424522505555971/pu/vid/avc1/640x360/pziV6iF9Z6iH8LS6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017424522505555971/pu/vid/avc1/1280x720/EQy8xKAStENV2o2g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017424522505555971/pu/pl/_5_-5n8c2s1EblHq.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2017519645209858061",
+        "created_at": "2026-01-31T08:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017519645209858061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SavannaMaf2574…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/SavannaMaf25749/status/2017424589979324421",
+              "start": 40,
+              "url": "https://t.co/KeJVtJ23C2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017519645209858061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017424589979324421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先，我这是引用，我就想问，一段基因表达出来的黑色皮肤，为什么会有人魅？🤔🤔🤔 https://t.co/KeJVtJ23C2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017424522505555971"
+          ]
+        },
+        "author_id": "1790566549444501504",
+        "conversation_id": "2017424589979324421",
+        "created_at": "2026-01-31T02:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017424589979324421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yR6JxkrjZ",
+              "end": 42,
+              "expanded_url": "https://x.com/SavannaMaf25749/status/2017424589979324421/video/1",
+              "media_key": "7_2017424522505555971",
+              "start": 19,
+              "url": "https://t.co/6yR6JxkrjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017424589979324421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 6820,
+          "like_count": 229,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是黑人的黄皮人妖性奴，那就转发 https://t.co/6yR6JxkrjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 604,
+          "like_count": 5831,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1265
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T02:15:18.000Z",
+        "description": "口令66留下联系方式➕你",
+        "id": "1790566549444501504",
+        "location": "置顶推广 真假自辨",
+        "name": "BBC♠️SMsissy",
+        "pinned_tweet_id": "2010999547540259105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932351279084589056/1XHUmh6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28764,
+          "following_count": 80,
+          "like_count": 9,
+          "listed_count": 111,
+          "media_count": 247,
+          "tweet_count": 283
+        },
+        "username": "SavannaMaf25749",
+        "verified": false
+      }
+    ]
+  }
+}

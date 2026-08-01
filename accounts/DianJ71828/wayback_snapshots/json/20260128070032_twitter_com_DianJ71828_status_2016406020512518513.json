@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2016406020512518513",
+    "created_at": "2026-01-28T07:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016406020512518513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1654908701772496896",
+          "start": 3,
+          "username": "tsumetaiame514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016406020512518513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015877348336308367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsumetaiame514: 我们有必要把斩杀线概念挪用到中国大陆的跨性别群体处境上，因为他们才真正面临被斩杀的风险\n他们有待法律保护，面临就业歧视，急需医疗保障，传统风险对冲机制，如家庭，能为普通人提供安全网，但对跨性别者常沦为压力源\n表面上看许多人死于自杀，实则是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2016406020512518513",
+        "created_at": "2026-01-28T07:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016406020512518513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1654908701772496896",
+              "start": 3,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016406020512518513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015877348336308367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsumetaiame514: 我们有必要把斩杀线概念挪用到中国大陆的跨性别群体处境上，因为他们才真正面临被斩杀的风险\n他们有待法律保护，面临就业歧视，急需医疗保障，传统风险对冲机制，如家庭，能为普通人提供安全网，但对跨性别者常沦为压力源\n表面上看许多人死于自杀，实则是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654908701772496896",
+        "conversation_id": "2015877348336308367",
+        "created_at": "2026-01-26T19:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015877348336308367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015877348336308367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1474,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我们有必要把斩杀线概念挪用到中国大陆的跨性别群体处境上，因为他们才真正面临被斩杀的风险\n他们有待法律保护，面临就业歧视，急需医疗保障，传统风险对冲机制，如家庭，能为普通人提供安全网，但对跨性别者常沦为压力源\n表面上看许多人死于自杀，实则是心理、社会压力和长期贫困叠加带来的结构性绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/家长放养👀/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 533,
+          "like_count": 5353,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1139
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "以上是明日的牺牲者。晚安",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "Ame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991954477931245568/aYlWGYxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4990,
+          "following_count": 1138,
+          "like_count": 19835,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 3764
+        },
+        "username": "tsumetaiame514",
+        "verified": false
+      }
+    ]
+  }
+}

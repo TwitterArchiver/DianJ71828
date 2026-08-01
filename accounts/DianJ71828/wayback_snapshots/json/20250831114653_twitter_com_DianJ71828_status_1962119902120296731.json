@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1961781391982756108",
+    "created_at": "2025-08-31T11:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962119902120296731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674607455735799809",
+          "start": 0,
+          "username": "AkiChooey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962119902120296731",
+    "in_reply_to_user_id": "1674607455735799809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961781391982756108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiChooey 学校是慈禧(所以慈禧是地雷妹)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1961781388736331776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzmlx3KaAAAqg3u.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1961781391982756108",
+        "created_at": "2025-08-31T11:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T12:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962119902120296731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674607455735799809",
+              "start": 0,
+              "username": "AkiChooey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962119902120296731",
+        "in_reply_to_user_id": "1674607455735799809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961781391982756108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiChooey 学校是慈禧(所以慈禧是地雷妹)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961781388736331776"
+          ]
+        },
+        "author_id": "1674607455735799809",
+        "conversation_id": "1961781391982756108",
+        "created_at": "2025-08-30T13:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961781391982756108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ls8vU7xr9Q",
+              "end": 49,
+              "expanded_url": "https://x.com/AkiChooey/status/1961781391982756108/photo/1",
+              "media_key": "3_1961781388736331776",
+              "start": 26,
+              "url": "https://t.co/ls8vU7xr9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961781391982756108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2772,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人家学校扩建我们学校又割地\n学校是有抑郁症吗天天割 https://t.co/ls8vU7xr9Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 254,
+          "like_count": 2037,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 459
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T02:35:15.000Z",
+        "description": "这里秋屿～很高兴认识你！丨可以喊咱秋秋    叶子🍃丨无情的弔图转发机器丨通信工程丨ENFP-A丨🥺@xiyuawa🥰丨一滩猫丨苦壁武汉大学生一只丨具体可私信捕捉（？）丨⚠️推止于推⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "xiyuawa"
+              }
+            ]
+          }
+        },
+        "id": "1674607455735799809",
+        "location": "武汉-青岛杂交",
+        "name": "禾🔥山与",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954507326880391168/vXtA7sYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 779,
+          "like_count": 1608,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 725
+        },
+        "username": "AkiChooey",
+        "verified": false
+      }
+    ]
+  }
+}

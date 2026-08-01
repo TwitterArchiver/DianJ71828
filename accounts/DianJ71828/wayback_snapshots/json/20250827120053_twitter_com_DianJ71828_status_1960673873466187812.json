@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960673867103657985",
+        "3_1960673857393844227"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960673873466187812",
+    "created_at": "2025-08-27T12:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960673873466187812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7RpyRtMEa",
+          "end": 39,
+          "expanded_url": "https://x.com/DianJ71828/status/1960673873466187812/photo/1",
+          "media_key": "3_1960673867103657985",
+          "start": 16,
+          "url": "https://t.co/m7RpyRtMEa"
+        },
+        {
+          "display_url": "pic.x.com/m7RpyRtMEa",
+          "end": 39,
+          "expanded_url": "https://x.com/DianJ71828/status/1960673873466187812/photo/1",
+          "media_key": "3_1960673857393844227",
+          "start": 16,
+          "url": "https://t.co/m7RpyRtMEa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960673873466187812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《药娘·前传》(当时写破防了) https://t.co/m7RpyRtMEa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960673867103657985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzW2fnka4AES-xG.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960673857393844227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzW2fDZa4AMP-Jt.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960673867103657985",
+            "3_1960673857393844227"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960673873466187812",
+        "created_at": "2025-08-27T12:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960673873466187812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7RpyRtMEa",
+              "end": 39,
+              "expanded_url": "https://x.com/DianJ71828/status/1960673873466187812/photo/1",
+              "media_key": "3_1960673867103657985",
+              "start": 16,
+              "url": "https://t.co/m7RpyRtMEa"
+            },
+            {
+              "display_url": "pic.x.com/m7RpyRtMEa",
+              "end": 39,
+              "expanded_url": "https://x.com/DianJ71828/status/1960673873466187812/photo/1",
+              "media_key": "3_1960673857393844227",
+              "start": 16,
+              "url": "https://t.co/m7RpyRtMEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960673873466187812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《药娘·前传》(当时写破防了) https://t.co/m7RpyRtMEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 185,
+          "like_count": 1647,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 271
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

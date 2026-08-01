@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1886182527179575339",
+    "created_at": "2025-02-02T22:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T23:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886182527179575339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886182527179575339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲爱的\n我们一样都是罪人\n杀死了生命\n我们都在毁灭自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1886182527179575339",
+        "created_at": "2025-02-02T22:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T23:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886182527179575339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886182527179575339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的\n我们一样都是罪人\n杀死了生命\n我们都在毁灭自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 159,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 169
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

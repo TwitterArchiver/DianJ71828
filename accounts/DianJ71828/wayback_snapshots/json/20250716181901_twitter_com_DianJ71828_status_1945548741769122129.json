@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1945548603105099777"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1945548741769122129",
+    "created_at": "2025-07-16T18:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T19:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945548741769122129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ZiHFj6CIz",
+          "end": 31,
+          "expanded_url": "https://x.com/DianJ71828/status/1945548741769122129/video/1",
+          "media_key": "7_1945548603105099777",
+          "start": 8,
+          "url": "https://t.co/2ZiHFj6CIz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945548741769122129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上我就这么玩 https://t.co/2ZiHFj6CIz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24642,
+        "height": 1280,
+        "media_key": "7_1945548603105099777",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1945548603105099777/pu/img/jhHScCx96rK20jKf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945548603105099777/pu/vid/avc1/320x568/u_jayVlfnAoLIPvh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945548603105099777/pu/vid/avc1/480x852/0OPRaPW5B9vLEyjW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945548603105099777/pu/vid/avc1/720x1280/M5OSUqb30nnYBQFr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1945548603105099777/pu/pl/OZM_-tj--SVwbSzK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1945548603105099777"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1945548741769122129",
+        "created_at": "2025-07-16T18:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T19:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945548741769122129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZiHFj6CIz",
+              "end": 31,
+              "expanded_url": "https://x.com/DianJ71828/status/1945548741769122129/video/1",
+              "media_key": "7_1945548603105099777",
+              "start": 8,
+              "url": "https://t.co/2ZiHFj6CIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945548741769122129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上我就这么玩 https://t.co/2ZiHFj6CIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 181,
+          "like_count": 1692,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 251
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

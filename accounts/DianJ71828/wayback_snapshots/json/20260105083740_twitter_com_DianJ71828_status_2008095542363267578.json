@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2008095542363267578",
+    "created_at": "2026-01-05T08:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T09:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008095542363267578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Etsuko827/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Etsuko827/status/2008007420791095381",
+          "start": 9,
+          "url": "https://t.co/2Uo8cCT0QP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008095542363267578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008007420791095381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "向前向后？向上！ https://t.co/2Uo8cCT0QP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2008095542363267578",
+        "created_at": "2026-01-05T08:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008095542363267578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Etsuko827/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Etsuko827/status/2008007420791095381",
+              "start": 9,
+              "url": "https://t.co/2Uo8cCT0QP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008095542363267578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008007420791095381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "向前向后？向上！ https://t.co/2Uo8cCT0QP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815416264770428928",
+        "conversation_id": "2008007420791095381",
+        "created_at": "2026-01-05T02:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008007420791095381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008007420791095381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23646,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有点好奇大家擦屁股的时候都是向前擦还是向后擦\n向前会把史带到前面很不卫生\n向后好像又不太顺手\n（迷思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 503,
+          "like_count": 4208,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 944
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T15:59:25.000Z",
+        "description": "cosplayer 梦游发电姬^感谢喜欢｜工作v238｜接正片/自拍/拍立得委托｜ ♡ Patreon: https://t.co/tKVfKb6BYG ♡ ♡淘宝：https://t.co/KLdb2jImUk ♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/ZhiYueEtsu_ko",
+                "end": 76,
+                "expanded_url": "http://www.patreon.com/c/ZhiYueEtsu_ko",
+                "start": 53,
+                "url": "https://t.co/tKVfKb6BYG"
+              },
+              {
+                "display_url": "m.tb.cn/h.7YnEneRmnTRL…",
+                "end": 106,
+                "expanded_url": "https://m.tb.cn/h.7YnEneRmnTRLfmI",
+                "start": 83,
+                "url": "https://t.co/KLdb2jImUk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/ZhiYueEtsu_ko",
+                "end": 23,
+                "expanded_url": "http://patreon.com/c/ZhiYueEtsu_ko",
+                "start": 0,
+                "url": "https://t.co/63666W5E7Q"
+              }
+            ]
+          }
+        },
+        "id": "1815416264770428928",
+        "name": "纸悦 Etsu_ko",
+        "pinned_tweet_id": "1998451933691199999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815416629813190657/QY61eLDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154695,
+          "following_count": 228,
+          "like_count": 4440,
+          "listed_count": 611,
+          "media_count": 364,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/63666W5E7Q",
+        "username": "Etsuko827",
+        "verified": false
+      }
+    ]
+  }
+}

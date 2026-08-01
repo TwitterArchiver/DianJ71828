@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1882388112795705555",
+    "created_at": "2025-01-25T06:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T07:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883039624224031105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690704170456887296",
+          "start": 0,
+          "username": "GHTR0716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883039624224031105",
+    "in_reply_to_user_id": "1690704170456887296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882980160804409487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GHTR0716 小学就开始玩了！玩到现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882388112795705555",
+        "created_at": "2025-01-25T06:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T07:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883039624224031105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690704170456887296",
+              "start": 0,
+              "username": "GHTR0716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883039624224031105",
+        "in_reply_to_user_id": "1690704170456887296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882980160804409487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GHTR0716 小学就开始玩了！玩到现在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690704170456887296",
+        "conversation_id": "1882388112795705555",
+        "created_at": "2025-01-25T02:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882980160804409487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882980160804409487",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882388112795705555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 转刀吗，真的好厉害!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 149,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 143
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T12:37:50.000Z",
+        "description": "可以叫我芦苇，07年，轻度抑郁症，社交能力差劲，喜欢吃🍫，爱玩电子游戏，最喜欢摸鱼💤\nWishing you a happy and healthy life!",
+        "id": "1690704170456887296",
+        "location": "jiang su",
+        "name": "LuWeiXD☕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881699263635427329/OFRFWhvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "GHTR0716",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1911817975990006190",
+    "created_at": "2025-04-20T06:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T07:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913847768113729951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624705678593134592",
+          "start": 0,
+          "username": "Ripperdoc2034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913847768113729951",
+    "in_reply_to_user_id": "1624705678593134592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911976947334488302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ripperdoc2034 因为我偶尔发癫一直偶尔。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1911817975990006190",
+        "created_at": "2025-04-20T06:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913847768113729951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624705678593134592",
+              "start": 0,
+              "username": "Ripperdoc2034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913847768113729951",
+        "in_reply_to_user_id": "1624705678593134592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911976947334488302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ripperdoc2034 因为我偶尔发癫一直偶尔。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624705678593134592",
+        "conversation_id": "1911817975990006190",
+        "created_at": "2025-04-15T02:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T03:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911976947334488302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911976947334488302",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911817975990006190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 主包身材这么好为什么fo这么少🤔\n不合理啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 183,
+          "like_count": 1880,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 234
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T09:43:55.000Z",
+        "description": "06年生，是不够优良的学术牛马与垃圾论文的难产机器/半吊子阴阳师，擅长阴宅风水山地寻龙/半吊子卦师，擅长财运姻缘六爻卦/带把的/泛性恋🏳️‍🌈/可爱妹妹@MXF0721（已退网）/\n黯黯阴霾，杀不用刀。万人不死，一人难逃——《推背图》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "MXF0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "JohnWilliams2034.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://JohnWilliams2034.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/DBPSj6IdTv"
+              }
+            ]
+          }
+        },
+        "id": "1624705678593134592",
+        "location": "奉天省 奉天城 奉天总督衙门口摆摊算命的",
+        "name": "空弦⛓️‍💥",
+        "pinned_tweet_id": "1911256162290598054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900766854106542082/zzK8Mu9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 204,
+          "like_count": 11813,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/DBPSj6IdTv",
+        "username": "Ripperdoc2034",
+        "verified": false
+      }
+    ]
+  }
+}

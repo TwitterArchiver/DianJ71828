@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2048993340050591748",
+    "created_at": "2026-05-01T00:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T01:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050015289346241010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048532878229647360",
+          "start": 0,
+          "username": "BurtscherE16182"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050015289346241010",
+    "in_reply_to_user_id": "2048532878229647360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049224564429803843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BurtscherE16182 好詭異"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2048993340050591748",
+        "created_at": "2026-05-01T00:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050015289346241010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048532878229647360",
+              "start": 0,
+              "username": "BurtscherE16182"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050015289346241010",
+        "in_reply_to_user_id": "2048532878229647360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049224564429803843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BurtscherE16182 好詭異"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048532878229647360",
+        "conversation_id": "2048993340050591748",
+        "created_at": "2026-04-28T20:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T21:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049224564429803843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049224564429803843",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048993340050591748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 小狗找主人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 538,
+          "like_count": 13002,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2528
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T22:41:15.000Z",
+        "description": "已入驻约p平台:👉https://t.co/IgXCBbxYSm只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/IgXCBbxYSm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 23,
+                "expanded_url": "http://d93g.top",
+                "start": 0,
+                "url": "https://t.co/IgXCBbxYSm"
+              }
+            ]
+          }
+        },
+        "id": "2048532878229647360",
+        "location": "附近2.88km",
+        "name": "芷珊🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049224696684769280/Ge3grdpZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/IgXCBbxYSm",
+        "username": "BurtscherE16182",
+        "verified": false
+      }
+    ]
+  }
+}

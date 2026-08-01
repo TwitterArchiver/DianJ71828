@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021810736864145658",
+    "created_at": "2026-02-12T14:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021951698894565489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1314404272503570434",
+          "start": 0,
+          "username": "interloper420"
+        },
+        {
+          "end": 30,
+          "id": "1983699884109918210",
+          "start": 15,
+          "username": "lenaofthebriar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021951698894565489",
+    "in_reply_to_user_id": "1314404272503570434",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021890392275530145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@interloper420 @lenaofthebriar Eat mysterious estradiol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2021810736864145658",
+        "created_at": "2026-02-12T14:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021951698894565489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1314404272503570434",
+              "start": 0,
+              "username": "interloper420"
+            },
+            {
+              "end": 30,
+              "id": "1983699884109918210",
+              "start": 15,
+              "username": "lenaofthebriar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021951698894565489",
+        "in_reply_to_user_id": "1314404272503570434",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021890392275530145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interloper420 @lenaofthebriar Eat mysterious estradiol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314404272503570434",
+        "conversation_id": "2021810736864145658",
+        "created_at": "2026-02-12T10:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021890392275530145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1983699884109918210",
+              "start": 0,
+              "username": "lenaofthebriar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021890392275530145",
+        "in_reply_to_user_id": "1983699884109918210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11638,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021810736864145658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lenaofthebriar How can I do this as a cis male?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 722,
+          "like_count": 8256,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1659
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T03:16:36.000Z",
+        "description": "Biddy bud",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Interloper96",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Interloper96",
+                "start": 0,
+                "url": "https://t.co/9tGkHbolPU"
+              }
+            ]
+          }
+        },
+        "id": "1314404272503570434",
+        "location": "yur mom",
+        "name": "_Interloperz_ ⌐╦╦═─",
+        "pinned_tweet_id": "1965420099097313786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925556836352032768/GgYPRyJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 182,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/9tGkHbolPU",
+        "username": "interloper420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T00:58:30.000Z",
+        "description": "Hedonist",
+        "id": "1983699884109918210",
+        "location": "The Woods, Hudson Valley",
+        "name": "Hawthorne Wife",
+        "pinned_tweet_id": "2021313224113639869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983700334481469440/tJsFsJzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 303,
+          "like_count": 2739,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 166
+        },
+        "username": "lenaofthebriar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1882388112795705555",
+    "created_at": "2025-01-25T06:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T07:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883040902467498063"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883040902467498063",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882388112795705555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶不对，8球之后不应该接短停嘛，我怎么上抛接了！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882388112795705555",
+        "created_at": "2025-01-25T06:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T07:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883040902467498063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883040902467498063",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882388112795705555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶不对，8球之后不应该接短停嘛，我怎么上抛接了！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1882388082177007616"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882388112795705555",
+        "created_at": "2025-01-23T11:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T12:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882388112795705555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wzx0FghRls",
+              "end": 84,
+              "expanded_url": "https://x.com/DianJ71828/status/1882388112795705555/video/1",
+              "media_key": "7_1882388082177007616",
+              "start": 61,
+              "url": "https://t.co/Wzx0FghRls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882388112795705555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我只是一只窥屏的老鼠\n靠药物和香烟短暂的脱离这个世界\n很痛苦\n苟延残喘的\n人果然是群居动物\n身边没有活人还真是受不了。。 https://t.co/Wzx0FghRls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 150,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 145
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

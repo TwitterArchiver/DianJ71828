@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022850443928383542",
+    "created_at": "2026-02-15T01:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022850443928383542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dingingcingkin…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/dingingcingking/status/2022393951580492157",
+          "start": 9,
+          "url": "https://t.co/CbV98Leujz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022850443928383542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022393951580492157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男人必须要骚（） https://t.co/CbV98Leujz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022850443928383542",
+        "created_at": "2026-02-15T01:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022850443928383542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dingingcingkin…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/dingingcingking/status/2022393951580492157",
+              "start": 9,
+              "url": "https://t.co/CbV98Leujz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022850443928383542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022393951580492157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男人必须要骚（） https://t.co/CbV98Leujz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1060084311502708736",
+        "conversation_id": "2022393951580492157",
+        "created_at": "2026-02-13T19:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022393951580492157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022393951580492157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 42496,
+          "like_count": 628,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些男的在我发男生是骚货那条推文底下破防了？在我下面说我一定是母狗啥的\n所以你们男的觉得骚也是一个贬义词吗？😅\n但在我的眼里只是个中性词吧，呃我挺喜欢那种骚货男的🤔男人不骚，女人不爱呃😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 731,
+          "like_count": 9214,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1752
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T08:19:30.000Z",
+        "description": "不接电报推广＇其他推广私聊合作  废话很多，偶尔掉落性感照片",
+        "id": "1060084311502708736",
+        "location": "  不知道",
+        "name": "dingingcingking",
+        "pinned_tweet_id": "1847176161048383688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627253477146755072/ggLGz0ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66191,
+          "following_count": 259,
+          "like_count": 21884,
+          "listed_count": 147,
+          "media_count": 1278,
+          "tweet_count": 16782
+        },
+        "username": "dingingcingking",
+        "verified": false
+      }
+    ]
+  }
+}

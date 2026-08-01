@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2008382391111577759",
+    "created_at": "2026-01-06T03:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008382391111577759"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008382391111577759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的好痛苦，看见她们亲密无间，我越是代入就越是痛苦，她们出生就能做到的事情我半辈子才能模仿，甚至做完手术我也是个失败品，我为什么要活着，一死了之好吗，但万一呢？我也可以像她们一样，但我现在很痛苦，我甚至找不到人亲疏，我要是发到朋友圈，她们鸟都不鸟我，都不和我玩了咋整啊呜呜😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2008382391111577759",
+        "created_at": "2026-01-06T03:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008382391111577759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008382391111577759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好痛苦，看见她们亲密无间，我越是代入就越是痛苦，她们出生就能做到的事情我半辈子才能模仿，甚至做完手术我也是个失败品，我为什么要活着，一死了之好吗，但万一呢？我也可以像她们一样，但我现在很痛苦，我甚至找不到人亲疏，我要是发到朋友圈，她们鸟都不鸟我，都不和我玩了咋整啊呜呜😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 504,
+          "like_count": 4255,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 963
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

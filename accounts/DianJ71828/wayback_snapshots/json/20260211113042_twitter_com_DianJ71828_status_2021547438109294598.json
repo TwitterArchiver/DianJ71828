@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021167513569234944"
+      ],
+      "media_source_tweet_id": [
+        "2021167818977292459"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021547438109294598",
+    "created_at": "2026-02-11T11:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021547438109294598"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "LINE",
+          "probability": 0.9676,
+          "start": 20,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "741970602",
+          "start": 3,
+          "username": "gracewang512"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LaJdVrecZX",
+          "end": 60,
+          "expanded_url": "https://x.com/gracewang512/status/2021167818977292459/photo/1",
+          "media_key": "3_2021167513569234944",
+          "start": 37,
+          "url": "https://t.co/LaJdVrecZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021547438109294598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021167818977292459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gracewang512: 毎日LINEしたら重くて引きますか？ https://t.co/LaJdVrecZX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2021167513569234944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyhJR3akAAsAs2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021167513569234944"
+          ],
+          "media_source_tweet_id": [
+            "2021167818977292459"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2021547438109294598",
+        "created_at": "2026-02-11T11:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021547438109294598"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "LINE",
+              "probability": 0.9676,
+              "start": 20,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "741970602",
+              "start": 3,
+              "username": "gracewang512"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LaJdVrecZX",
+              "end": 60,
+              "expanded_url": "https://x.com/gracewang512/status/2021167818977292459/photo/1",
+              "media_key": "3_2021167513569234944",
+              "start": 37,
+              "url": "https://t.co/LaJdVrecZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021547438109294598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021167818977292459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gracewang512: 毎日LINEしたら重くて引きますか？ https://t.co/LaJdVrecZX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021167513569234944"
+          ]
+        },
+        "author_id": "741970602",
+        "conversation_id": "2021167818977292459",
+        "created_at": "2026-02-10T10:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021167818977292459"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "LINE",
+              "probability": 0.9717,
+              "start": 2,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LaJdVrecZX",
+              "end": 42,
+              "expanded_url": "https://x.com/gracewang512/status/2021167818977292459/photo/1",
+              "media_key": "3_2021167513569234944",
+              "start": 19,
+              "url": "https://t.co/LaJdVrecZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021167818977292459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8815,
+          "like_count": 629,
+          "quote_count": 1,
+          "reply_count": 58,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "毎日LINEしたら重くて引きますか？ https://t.co/LaJdVrecZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 687,
+          "like_count": 7560,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1558
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-07T02:33:34.000Z",
+        "description": "HU",
+        "id": "741970602",
+        "name": "ゆみ",
+        "pinned_tweet_id": "2012440721949667641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973678697887748096/RnZ50hEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14704,
+          "following_count": 0,
+          "like_count": 536,
+          "listed_count": 12,
+          "media_count": 56,
+          "tweet_count": 178
+        },
+        "username": "gracewang512",
+        "verified": false
+      }
+    ]
+  }
+}

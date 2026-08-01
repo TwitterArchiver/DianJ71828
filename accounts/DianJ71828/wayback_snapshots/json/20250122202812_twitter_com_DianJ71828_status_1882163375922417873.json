@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1882156024616132641",
+    "created_at": "2025-01-22T20:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T21:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882163375922417873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1752648024453738496",
+          "start": 0,
+          "username": "AnAnzonHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882163375922417873",
+    "in_reply_to_user_id": "1752648024453738496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882156024616132641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnAnzonHH 不是？同情螃蟹？看乐了\n咋不同情胡萝卜～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882156024616132641",
+        "created_at": "2025-01-22T20:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T21:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882163375922417873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752648024453738496",
+              "start": 0,
+              "username": "AnAnzonHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882163375922417873",
+        "in_reply_to_user_id": "1752648024453738496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882156024616132641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnAnzonHH 不是？同情螃蟹？看乐了\n咋不同情胡萝卜～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882155993662111744",
+            "3_1882155994274557952",
+            "3_1882156013706715136",
+            "3_1882155994601713664"
+          ]
+        },
+        "author_id": "1752648024453738496",
+        "conversation_id": "1882156024616132641",
+        "created_at": "2025-01-22T19:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T20:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882156024616132641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctmjJ56ohl",
+              "end": 165,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1882156024616132641/photo/1",
+              "media_key": "3_1882155993662111744",
+              "start": 142,
+              "url": "https://t.co/ctmjJ56ohl"
+            },
+            {
+              "display_url": "pic.x.com/ctmjJ56ohl",
+              "end": 165,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1882156024616132641/photo/1",
+              "media_key": "3_1882155994274557952",
+              "start": 142,
+              "url": "https://t.co/ctmjJ56ohl"
+            },
+            {
+              "display_url": "pic.x.com/ctmjJ56ohl",
+              "end": 165,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1882156024616132641/photo/1",
+              "media_key": "3_1882156013706715136",
+              "start": 142,
+              "url": "https://t.co/ctmjJ56ohl"
+            },
+            {
+              "display_url": "pic.x.com/ctmjJ56ohl",
+              "end": 165,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1882156024616132641/photo/1",
+              "media_key": "3_1882155994601713664",
+              "start": 142,
+              "url": "https://t.co/ctmjJ56ohl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882156024616132641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是不是觉得我不会锤你？这下子必须得岁月史书了，看看你都看干过什么！\n\n同情巴勒斯坦，并且参加巴勒斯坦的抗仪活动，你怎么不直接去巴以战场？难道是因为喊口号不会出什么问题吗？\n\n还有同情螃蟹，你同情个头？你的跨性别姐妹都不知道被折磨成什么样子了？你跑去参加巴勒斯坦活动，你去同情螃蟹！ https://t.co/ctmjJ56ohl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 133,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 101
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T11:01:10.000Z",
+        "description": "我不知道我丟失了個什麽東西，我傷心了很久，我哭了很久，然後我給忘了，只是我知道那個東西很重要。\n后来我才知道我的内心已经破碎，还有什么能拯救我支离破碎的我呢，原来我丢失的，是我自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1989.64.com",
+                "end": 23,
+                "expanded_url": "http://1989.64.com",
+                "start": 0,
+                "url": "https://t.co/3D6ylYFOwn"
+              }
+            ]
+          }
+        },
+        "id": "1752648024453738496",
+        "location": "手枪星 ",
+        "name": "「暗中坏坏」🍥 🔪",
+        "pinned_tweet_id": "1871444039914144179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874775620129001472/51hEzyPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4006,
+          "following_count": 427,
+          "like_count": 75,
+          "listed_count": 14,
+          "media_count": 562,
+          "tweet_count": 2830
+        },
+        "url": "https://t.co/3D6ylYFOwn",
+        "username": "AnAnzonHH",
+        "verified": false
+      }
+    ]
+  }
+}

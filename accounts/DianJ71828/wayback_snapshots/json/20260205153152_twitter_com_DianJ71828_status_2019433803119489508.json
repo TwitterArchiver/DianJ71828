@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2019433803119489508",
+    "created_at": "2026-02-05T15:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T16:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019433803119489508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/r0x_ht/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/r0x_ht/status/2018893740107305267",
+          "start": 6,
+          "url": "https://t.co/ANqkTYBWiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019433803119489508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018893740107305267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁能接受？ https://t.co/ANqkTYBWiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2018893731676766208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASNJwPbQAAaw7e.jpg",
+        "width": 817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2019433803119489508",
+        "created_at": "2026-02-05T15:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019433803119489508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/r0x_ht/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/r0x_ht/status/2018893740107305267",
+              "start": 6,
+              "url": "https://t.co/ANqkTYBWiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019433803119489508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018893740107305267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能接受？ https://t.co/ANqkTYBWiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018893731676766208"
+          ]
+        },
+        "author_id": "1910749531161190400",
+        "conversation_id": "2018893740107305267",
+        "created_at": "2026-02-04T03:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018893740107305267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2deNumlvs",
+              "end": 43,
+              "expanded_url": "https://x.com/r0x_ht/status/2018893740107305267/photo/1",
+              "media_key": "3_2018893731676766208",
+              "start": 20,
+              "url": "https://t.co/E2deNumlvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018893740107305267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 364029,
+          "like_count": 1702,
+          "quote_count": 17,
+          "reply_count": 269,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我是有点不接受肚子大的男生的。。。。。 https://t.co/E2deNumlvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 630,
+          "like_count": 6261,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1361
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23573,
+          "following_count": 7,
+          "like_count": 307,
+          "listed_count": 47,
+          "media_count": 76,
+          "tweet_count": 154
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971899270652743681"
+      ],
+      "media_source_tweet_id": [
+        "1971899281549512799"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021894779479765498",
+    "created_at": "2026-02-12T10:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021894779479765498"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "4i"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "四爱"
+        },
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "第四爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1721532117023154176",
+          "start": 3,
+          "username": "Gateauyaolirong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ldYyE3PoaN",
+          "end": 87,
+          "expanded_url": "https://x.com/Gateauyaolirong/status/1971899281549512799/photo/1",
+          "media_key": "3_1971899270652743681",
+          "start": 64,
+          "url": "https://t.co/ldYyE3PoaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021894779479765498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971899281549512799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gateauyaolirong: 舌钉 乳环 胶衣 束腰 腿环 ✝️\n完全满足主人的喜好 💖\n#4i #四爱 #第四爱 https://t.co/ldYyE3PoaN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021894779479765498].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021894779479765498",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021894779479765498"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971899270652743681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12X8Ggb0AE-hk_.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971899270652743681"
+          ]
+        },
+        "author_id": "1721532117023154176",
+        "conversation_id": "1971899281549512799",
+        "created_at": "2025-09-27T11:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971899281549512799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "4i"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "四爱"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "第四爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ldYyE3PoaN",
+              "end": 66,
+              "expanded_url": "https://x.com/Gateauyaolirong/status/1971899281549512799/photo/1",
+              "media_key": "3_1971899270652743681",
+              "start": 43,
+              "url": "https://t.co/ldYyE3PoaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971899281549512799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 247469,
+          "like_count": 1431,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "舌钉 乳环 胶衣 束腰 腿环 ✝️\n完全满足主人的喜好 💖\n#4i #四爱 #第四爱 https://t.co/ldYyE3PoaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 713,
+          "like_count": 7970,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1632
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T14:17:07.000Z",
+        "description": "182 56 /小号 @parylr/ dom @lilithba1💕/ 自用梯子 https://t.co/2qC08wLciX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "parylr"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "lilithba1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "6.vip.v2ny.me/?path=register…",
+                "end": 65,
+                "expanded_url": "http://6.vip.v2ny.me?path=register&code=yrVAx1GM",
+                "start": 42,
+                "url": "https://t.co/2qC08wLciX"
+              }
+            ]
+          }
+        },
+        "id": "1721532117023154176",
+        "name": "摇粒绒蛋糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931613666635620352/70VwsxC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22851,
+          "following_count": 333,
+          "like_count": 2287,
+          "listed_count": 67,
+          "media_count": 102,
+          "tweet_count": 323
+        },
+        "username": "Gateauyaolirong",
+        "verified": true
+      }
+    ]
+  }
+}

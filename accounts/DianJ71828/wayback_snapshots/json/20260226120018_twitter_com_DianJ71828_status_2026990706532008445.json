@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026990706532008445",
+    "created_at": "2026-02-26T12:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026990706532008445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/me6pjHT2Rf2907…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/me6pjHT2Rf29076/status/2026978506824163514",
+          "start": 17,
+          "url": "https://t.co/3f8RaFYiX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026990706532008445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026978506824163514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭为啥要说我建模怪怪的呜呜呜呜 https://t.co/3f8RaFYiX4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026990706532008445",
+        "created_at": "2026-02-26T12:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026990706532008445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/me6pjHT2Rf2907…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/me6pjHT2Rf29076/status/2026978506824163514",
+              "start": 17,
+              "url": "https://t.co/3f8RaFYiX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026990706532008445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026978506824163514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭为啥要说我建模怪怪的呜呜呜呜 https://t.co/3f8RaFYiX4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2026978506824163514",
+        "created_at": "2026-02-26T11:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026978506824163514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_xingqiliu/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/_xingqiliu/status/2026705216754872401",
+              "start": 15,
+              "url": "https://t.co/RTgTa7vKHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026978506824163514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026705216754872401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭姐姐们怎么全是建模怪啊 https://t.co/RTgTa7vKHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 744,
+          "like_count": 10643,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2021
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：無\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的，開黃腔的那些，給我滾～～～",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2013151319121416284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 65,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1270
+        },
+        "username": "me6pjHT2Rf29076",
+        "verified": false
+      }
+    ]
+  }
+}

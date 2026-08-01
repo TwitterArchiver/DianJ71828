@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962841144901222400",
+        "3_1962841145563631616",
+        "3_1962841145748152320"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1962841148889993546",
+    "created_at": "2025-09-02T11:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962841148889993546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U9j0L3nLhm",
+          "end": 45,
+          "expanded_url": "https://x.com/DianJ71828/status/1962841148889993546/photo/1",
+          "media_key": "3_1962841144901222400",
+          "start": 22,
+          "url": "https://t.co/U9j0L3nLhm"
+        },
+        {
+          "display_url": "pic.x.com/U9j0L3nLhm",
+          "end": 45,
+          "expanded_url": "https://x.com/DianJ71828/status/1962841148889993546/photo/1",
+          "media_key": "3_1962841145563631616",
+          "start": 22,
+          "url": "https://t.co/U9j0L3nLhm"
+        },
+        {
+          "display_url": "pic.x.com/U9j0L3nLhm",
+          "end": 45,
+          "expanded_url": "https://x.com/DianJ71828/status/1962841148889993546/photo/1",
+          "media_key": "3_1962841145748152320",
+          "start": 22,
+          "url": "https://t.co/U9j0L3nLhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962841148889993546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天去剪这头发，你们觉得我能成功吗👉🏻👈🏻 https://t.co/U9j0L3nLhm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1409,
+        "media_key": "3_1962841144901222400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1pnyhbwAATOC6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1398,
+        "media_key": "3_1962841145563631616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1pn0_XUAAsufn.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1425,
+        "media_key": "3_1962841145748152320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1pn1rW4AAMWDO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962841144901222400",
+            "3_1962841145563631616",
+            "3_1962841145748152320"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962841148889993546",
+        "created_at": "2025-09-02T11:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962841148889993546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9j0L3nLhm",
+              "end": 45,
+              "expanded_url": "https://x.com/DianJ71828/status/1962841148889993546/photo/1",
+              "media_key": "3_1962841144901222400",
+              "start": 22,
+              "url": "https://t.co/U9j0L3nLhm"
+            },
+            {
+              "display_url": "pic.x.com/U9j0L3nLhm",
+              "end": 45,
+              "expanded_url": "https://x.com/DianJ71828/status/1962841148889993546/photo/1",
+              "media_key": "3_1962841145563631616",
+              "start": 22,
+              "url": "https://t.co/U9j0L3nLhm"
+            },
+            {
+              "display_url": "pic.x.com/U9j0L3nLhm",
+              "end": 45,
+              "expanded_url": "https://x.com/DianJ71828/status/1962841148889993546/photo/1",
+              "media_key": "3_1962841145748152320",
+              "start": 22,
+              "url": "https://t.co/U9j0L3nLhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962841148889993546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天去剪这头发，你们觉得我能成功吗👉🏻👈🏻 https://t.co/U9j0L3nLhm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 271,
+          "like_count": 2202,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 528
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

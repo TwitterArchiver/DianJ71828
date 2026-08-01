@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2016090573514670168",
+    "created_at": "2026-01-27T10:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016090573514670168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016090573514670168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实哪天我醒了，也没了困意，只是不想起床，被子里很暖和，似乎能包容我是所以焦虑与自我厌恶😞。\n到也希望睡过去不在起来，安详的离开💀。但一切总是如常。\n算了，爱你老枕，爱你老被，爱你老己，天天见👾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2016090573514670168",
+        "created_at": "2026-01-27T10:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016090573514670168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016090573514670168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实哪天我醒了，也没了困意，只是不想起床，被子里很暖和，似乎能包容我是所以焦虑与自我厌恶😞。\n到也希望睡过去不在起来，安详的离开💀。但一切总是如常。\n算了，爱你老枕，爱你老被，爱你老己，天天见👾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/家长放养👀/时不时鉴证(实则天天发情💓)/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 531,
+          "like_count": 5292,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1124
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

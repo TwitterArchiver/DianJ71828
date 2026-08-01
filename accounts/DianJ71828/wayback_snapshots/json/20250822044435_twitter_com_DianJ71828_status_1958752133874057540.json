@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1953229124991844404",
+    "created_at": "2025-08-22T04:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T05:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958752133874057540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1801195917707735040",
+          "start": 0,
+          "username": "htydd7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958752133874057540",
+    "in_reply_to_user_id": "1801195917707735040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953229124991844404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@htydd7 月月月"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 1280,
+        "media_key": "13_1953229001490653184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953229001490653184/img/5osCvP0p8q3sjYOD.jpg",
+        "public_metrics": {
+          "view_count": 195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953229001490653184/vid/avc1/320x568/RAxRaEPsJ8OajwQG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953229001490653184/vid/avc1/480x852/7Cfsb0ytP_1NvsKp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953229001490653184/vid/avc1/720x1280/h4odLGUEdIZh9sRw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953229001490653184/pl/1frU8uBktChgFNLM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1953229124991844404",
+        "created_at": "2025-08-22T04:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T05:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958752133874057540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1801195917707735040",
+              "start": 0,
+              "username": "htydd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958752133874057540",
+        "in_reply_to_user_id": "1801195917707735040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953229124991844404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@htydd7 月月月"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953229001490653184"
+          ]
+        },
+        "author_id": "1801195917707735040",
+        "conversation_id": "1953229124991844404",
+        "created_at": "2025-08-06T22:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T23:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953229124991844404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7uJ9o1Hl3",
+              "end": 39,
+              "expanded_url": "https://x.com/htydd7/status/1953229124991844404/video/1",
+              "media_key": "13_1953229001490653184",
+              "start": 16,
+              "url": "https://t.co/s7uJ9o1Hl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953229124991844404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 743,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长这样可以吸引小南梁和我贴贴吗 https://t.co/s7uJ9o1Hl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 179,
+          "like_count": 1615,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 256
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T10:12:43.000Z",
+        "description": "05/179cm/63.4kg持续减肥中🥰/生理性别♀️/暂时坐标：青岛市市北区／l死宅 ／喜强制爱INFP小蝴蝶",
+        "id": "1801195917707735040",
+        "location": "你心里",
+        "name": "小困🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958264255700209701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882672191059427328/f5eQhjbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 122,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 439
+        },
+        "username": "htydd7",
+        "verified": false
+      }
+    ]
+  }
+}

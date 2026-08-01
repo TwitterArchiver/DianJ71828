@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026661634564108669",
+    "created_at": "2026-02-25T14:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T15:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026661634564108669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2340920716",
+          "start": 3,
+          "username": "menghrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026661634564108669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026619729180504089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @menghrt: 未成年（&lt;18岁）完全独立去医院查性激素六项小办法\n\n1. 挂号选内分泌科（首选），或男科（MtF较合适）、妇科（FtM较常见），三甲医院基本都能做。\n2. 挂号时可直接说“查性激素六项”或“激素水平评估”，不想出柜就说“内分泌失调/复查激素”。\n3.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2026619719722401792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB__5cjbAAAgM6W.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026661634564108669",
+        "created_at": "2026-02-25T14:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026661634564108669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2340920716",
+              "start": 3,
+              "username": "menghrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026661634564108669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026619729180504089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @menghrt: 未成年（&lt;18岁）完全独立去医院查性激素六项小办法\n\n1. 挂号选内分泌科（首选），或男科（MtF较合适）、妇科（FtM较常见），三甲医院基本都能做。\n2. 挂号时可直接说“查性激素六项”或“激素水平评估”，不想出柜就说“内分泌失调/复查激素”。\n3.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026619719722401792"
+          ]
+        },
+        "author_id": "2340920716",
+        "conversation_id": "2026619729180504089",
+        "created_at": "2026-02-25T11:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026619729180504089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBT4hZfWzN",
+              "end": 185,
+              "expanded_url": "https://x.com/menghrt/status/2026619729180504089/photo/1",
+              "media_key": "3_2026619719722401792",
+              "start": 162,
+              "url": "https://t.co/NBT4hZfWzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026619729180504089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 511,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "未成年（&lt;18岁）完全独立去医院查性激素六项小办法\n\n1. 挂号选内分泌科（首选），或男科（MtF较合适）、妇科（FtM较常见），三甲医院基本都能做。\n2. 挂号时可直接说“查性激素六项”或“激素水平评估”，不想出柜就说“内分泌失调/复查激素”。\n3. 医生开单 → 缴费 → 抽血（多数空腹，早晨9-11点最佳）。 https://t.co/NBT4hZfWzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 741,
+          "like_count": 10419,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1944
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-13T09:03:52.000Z",
+        "description": "泥嚎我是檬檬🍋🍰08预备女大/同类欢迎和我互fo / 大号@mengmeng00715 / 需要心理糖果咨询🐧3639375672 TG:https://t.co/MGISaGUkKn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "mengmeng00715"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HRTMTF",
+                "end": 92,
+                "expanded_url": "http://t.me/HRTMTF",
+                "start": 69,
+                "url": "https://t.co/MGISaGUkKn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mengmeng715",
+                "end": 23,
+                "expanded_url": "https://t.me/mengmeng715",
+                "start": 0,
+                "url": "https://t.co/B8aqY9zjJn"
+              }
+            ]
+          }
+        },
+        "id": "2340920716",
+        "location": "药娘糖糖",
+        "name": "柠檬茶小蛋糕（糖商）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2013487132636004684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013481245536116736/qqzC8CDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 143,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/B8aqY9zjJn",
+        "username": "menghrt",
+        "verified": false
+      }
+    ]
+  }
+}

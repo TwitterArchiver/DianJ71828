@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2051974102257410537",
+    "created_at": "2026-05-09T10:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053063658796953737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043711489517715456",
+          "start": 0,
+          "username": "qiankang080621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053063658796953737",
+    "in_reply_to_user_id": "2043711489517715456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052325842353889713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiankang080621 现在这是这杯酒的名字了。()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2051974102257410537",
+        "created_at": "2026-05-09T10:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053063658796953737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043711489517715456",
+              "start": 0,
+              "username": "qiankang080621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053063658796953737",
+        "in_reply_to_user_id": "2043711489517715456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052325842353889713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiankang080621 现在这是这杯酒的名字了。()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043711489517715456",
+        "conversation_id": "2051974102257410537",
+        "created_at": "2026-05-07T09:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052325842353889713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052325842353889713",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051974102257410537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 虽然但是，老师，你这个很像铜硫酸溶液"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 535,
+          "like_count": 12960,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 2537
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T15:22:56.000Z",
+        "description": "本康♊️男♂️风向🌪人族😎温柔✨贤惠💫多才多艺🎮（划掉）动物爱好者🐭兼睡觉爱好者💤小政府主义者？？？👁‍🗨（无所谓）听摇滚的疯狍子🎧（犬儒牛*）小吃重度依赖🍽宅地生存学家🎓喜欢午夜🌙雨雪天气🌩🌨平等接受包容所有群体‍🩹💌💝任何人都有被爱的权利❤️❤️（贴脸除外👎）",
+        "id": "2043711489517715456",
+        "name": "千千康",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049497982740123648/b6gjq7xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 515
+        },
+        "username": "qiankang080621",
+        "verified": false
+      }
+    ]
+  }
+}

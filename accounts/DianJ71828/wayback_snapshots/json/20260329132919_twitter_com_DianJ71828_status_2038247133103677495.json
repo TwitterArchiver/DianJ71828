@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2038247133103677495",
+    "created_at": "2026-03-29T13:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038247133103677495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2038159702153179205",
+          "start": 10,
+          "url": "https://t.co/TPwVKgTAm2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038247133103677495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038159702153179205",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草！老资历！跪！ https://t.co/TPwVKgTAm2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2038247133103677495",
+        "created_at": "2026-03-29T13:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038247133103677495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2038159702153179205",
+              "start": 10,
+              "url": "https://t.co/TPwVKgTAm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038247133103677495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038159702153179205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草！老资历！跪！ https://t.co/TPwVKgTAm2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2038159702153179205",
+        "created_at": "2026-03-29T07:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038159702153179205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Swathy17531761…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Swathy17531761/status/2037783573114319213",
+              "start": 4,
+              "url": "https://t.co/XRWWT2IKtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038159702153179205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12501,
+          "like_count": 199,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037783573114319213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "金星. https://t.co/XRWWT2IKtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/遣唐使😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 526,
+          "like_count": 12591,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 2419
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 214,
+          "like_count": 6520,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1727
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

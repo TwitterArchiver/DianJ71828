@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072716356575981568"
+      ],
+      "media_source_tweet_id": [
+        "2072893094958424244"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072968453192102292",
+    "created_at": "2026-07-03T08:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072968453192102292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013776155166539776",
+          "start": 3,
+          "username": "l3010045822"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dU8TaRmukA",
+          "end": 51,
+          "expanded_url": "https://x.com/l3010045822/status/2072893094958424244/photo/1",
+          "media_key": "3_2072716356575981568",
+          "start": 28,
+          "url": "https://t.co/dU8TaRmukA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072968453192102292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072893094958424244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l3010045822: 阿b已经堕落至此了吗 https://t.co/dU8TaRmukA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2072716356575981568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPEi2nacAAZmj2.jpg",
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072716356575981568"
+          ],
+          "media_source_tweet_id": [
+            "2072893094958424244"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072968453192102292",
+        "created_at": "2026-07-03T08:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072968453192102292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013776155166539776",
+              "start": 3,
+              "username": "l3010045822"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU8TaRmukA",
+              "end": 51,
+              "expanded_url": "https://x.com/l3010045822/status/2072893094958424244/photo/1",
+              "media_key": "3_2072716356575981568",
+              "start": 28,
+              "url": "https://t.co/dU8TaRmukA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072968453192102292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072893094958424244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @l3010045822: 阿b已经堕落至此了吗 https://t.co/dU8TaRmukA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072716356575981568"
+          ]
+        },
+        "author_id": "2013776155166539776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072893094958424244",
+        "created_at": "2026-07-03T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072893094958424244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU8TaRmukA",
+              "end": 34,
+              "expanded_url": "https://x.com/l3010045822/status/2072893094958424244/photo/1",
+              "media_key": "3_2072716356575981568",
+              "start": 11,
+              "url": "https://t.co/dU8TaRmukA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072893094958424244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿b已经堕落至此了吗 https://t.co/dU8TaRmukA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 523,
+          "like_count": 12869,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 2612
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "生产日期：2004.5丨小证含糖丨 HRT since2026.1.17｜半个家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜亮点会放一些亲身实践，后期可能会更新自拍｜欢迎同类互fo（没看见的话私我私我喵）｜",
+        "id": "2013776155166539776",
+        "name": "琪露诺🍥（冰雪聪明版）",
+        "pinned_tweet_id": "2060153159570641397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 511,
+          "like_count": 1718,
+          "listed_count": 2,
+          "media_count": 718,
+          "tweet_count": 1498
+        },
+        "url": "",
+        "username": "l3010045822",
+        "verified": true
+      }
+    ]
+  }
+}

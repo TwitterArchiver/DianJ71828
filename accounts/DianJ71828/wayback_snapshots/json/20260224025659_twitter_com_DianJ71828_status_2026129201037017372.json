@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2025781874296275342",
+    "created_at": "2026-02-24T02:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026129201037017372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1707428789318488064",
+          "start": 0,
+          "username": "Ansssnix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026129201037017372",
+    "in_reply_to_user_id": "1707428789318488064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026009715478860246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ansssnix 谁问你了？我反感男性这帮神经病不代表我支持极端女权这帮精神病，傻逼二极管去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2025781874296275342",
+        "created_at": "2026-02-24T02:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026129201037017372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1707428789318488064",
+              "start": 0,
+              "username": "Ansssnix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026129201037017372",
+        "in_reply_to_user_id": "1707428789318488064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026009715478860246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ansssnix 谁问你了？我反感男性这帮神经病不代表我支持极端女权这帮精神病，傻逼二极管去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707428789318488064",
+        "conversation_id": "2025781874296275342",
+        "created_at": "2026-02-23T19:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026009715478860246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026009715478860246",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025781874296275342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 窦妞之前的观点是自己化妆打扮是在服美役 被规训了，现在又说别人不打扮是被规训了，拳路可逆？正反都要打，怎么说都是你的理🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 734,
+          "like_count": 9978,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1906
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T16:15:38.000Z",
+        "description": "猜你是：穷&丑&低学历&incel 窦妞",
+        "id": "1707428789318488064",
+        "name": "H.K.T.",
+        "pinned_tweet_id": "2013905648329556163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996252531270541312/geGaN7iI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 216
+        },
+        "username": "Ansssnix",
+        "verified": false
+      }
+    ]
+  }
+}

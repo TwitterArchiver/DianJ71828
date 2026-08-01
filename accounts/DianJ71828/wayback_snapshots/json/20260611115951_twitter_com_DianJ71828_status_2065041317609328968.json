@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2064611850944405761",
+    "created_at": "2026-06-11T11:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065041317609328968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908074660421570560",
+          "start": 0,
+          "username": "13CMdick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065041317609328968",
+    "in_reply_to_user_id": "1908074660421570560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064611850944405761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@13CMdick 活到头了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103839,
+        "height": 1920,
+        "media_key": "13_2020130942384578560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020130942384578560/img/NIjqiymCCyRQhR9g.jpg",
+        "public_metrics": {
+          "view_count": 521088
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020130942384578560/vid/avc1/720x1280/W8pwx4OMv50ZbfaA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020130942384578560/vid/avc1/1080x1920/Ar1dJJs8m6OgQaek.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020130942384578560/vid/avc1/480x852/nljDk8-_RW7Rui0q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020130942384578560/pl/V5Smu_q6ZvI3uNWY.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020130942384578560/vid/avc1/320x568/TOvlJO0cywKGPvTB.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2064611850944405761",
+        "created_at": "2026-06-11T11:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065041317609328968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908074660421570560",
+              "start": 0,
+              "username": "13CMdick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065041317609328968",
+        "in_reply_to_user_id": "1908074660421570560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064611850944405761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@13CMdick 活到头了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020130942384578560"
+          ],
+          "media_source_tweet_id": [
+            "2020131362045624596"
+          ]
+        },
+        "author_id": "1908074660421570560",
+        "conversation_id": "2064611850944405761",
+        "created_at": "2026-06-10T07:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064611850944405761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCDFJWBRXF",
+              "end": 23,
+              "expanded_url": "https://x.com/xuanzizuzong_x/status/2020131362045624596/video/1",
+              "media_key": "13_2020130942384578560",
+              "start": 0,
+              "url": "https://t.co/OCDFJWBRXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064611850944405761",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3301,
+          "impression_count": 73441,
+          "like_count": 6600,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OCDFJWBRXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 517,
+          "like_count": 12783,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 2559
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T08:30:31.000Z",
+        "description": "",
+        "id": "1908074660421570560",
+        "name": "15CM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944778179853352960/Ua1GC69I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 126,
+          "like_count": 2050,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 184
+        },
+        "username": "13CMdick",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2007721063220933106",
+    "created_at": "2026-01-06T03:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008378311546749019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1725944191686004736",
+          "start": 0,
+          "username": "yyyxihuan"
+        },
+        {
+          "end": 25,
+          "id": "1643842444746784773",
+          "start": 11,
+          "username": "chunye7355608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008378311546749019",
+    "in_reply_to_user_id": "1725944191686004736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008142557310836786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyxihuan @chunye7355608 我是女同，我特别向往！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2007721063220933106",
+        "created_at": "2026-01-06T03:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008378311546749019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1725944191686004736",
+              "start": 0,
+              "username": "yyyxihuan"
+            },
+            {
+              "end": 25,
+              "id": "1643842444746784773",
+              "start": 11,
+              "username": "chunye7355608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008378311546749019",
+        "in_reply_to_user_id": "1725944191686004736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008142557310836786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyxihuan @chunye7355608 我是女同，我特别向往！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725944191686004736",
+        "conversation_id": "2007721063220933106",
+        "created_at": "2026-01-05T11:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008142557310836786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1643842444746784773",
+              "start": 0,
+              "username": "chunye7355608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008142557310836786",
+        "in_reply_to_user_id": "1643842444746784773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007721063220933106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunye7355608 很想被长头发香香的女生抱着睡 在她怀里猛吸一口 香晕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 504,
+          "like_count": 4242,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 959
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T18:29:16.000Z",
+        "description": "树洞",
+        "id": "1725944191686004736",
+        "location": "Hong Kong",
+        "name": "悲伤留给6岁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758548406442819585/kYAZsmR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 128,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "username": "yyyxihuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T05:06:12.000Z",
+        "description": "去水族馆看海豚和企鹅｜麻酱妈：@Www1129800Www",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "Www1129800Www"
+              }
+            ]
+          }
+        },
+        "id": "1643842444746784773",
+        "location": "你的左后方",
+        "name": "春野",
+        "pinned_tweet_id": "1874392414615695716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992819418838257664/zp03DUHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 180,
+          "like_count": 3774,
+          "listed_count": 5,
+          "media_count": 392,
+          "tweet_count": 1943
+        },
+        "username": "chunye7355608",
+        "verified": false
+      }
+    ]
+  }
+}

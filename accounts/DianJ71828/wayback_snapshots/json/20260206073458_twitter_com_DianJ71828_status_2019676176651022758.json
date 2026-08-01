@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2019676176651022758",
+    "created_at": "2026-02-06T07:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T08:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019676176651022758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712569883387678720",
+          "start": 3,
+          "username": "Rin202361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019676176651022758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019537907938390363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin202361: 你们的主页会推难看的东西吗，x主页能不能像抖音小红书一样搞个精准点的大数据，是我平常不刷导致推这些的吗，我想看女同我真不想看鉴证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2019676176651022758",
+        "created_at": "2026-02-06T07:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019676176651022758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712569883387678720",
+              "start": 3,
+              "username": "Rin202361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019676176651022758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019537907938390363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin202361: 你们的主页会推难看的东西吗，x主页能不能像抖音小红书一样搞个精准点的大数据，是我平常不刷导致推这些的吗，我想看女同我真不想看鉴证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712569883387678720",
+        "conversation_id": "2019537907938390363",
+        "created_at": "2026-02-05T22:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T23:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019537907938390363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019537907938390363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15063,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们的主页会推难看的东西吗，x主页能不能像抖音小红书一样搞个精准点的大数据，是我平常不刷导致推这些的吗，我想看女同我真不想看鉴证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 633,
+          "like_count": 6338,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1373
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T20:44:26.000Z",
+        "description": "🚪188，稳定关系恋爱中 没有飞机/电报，只玩推，其它平台一律骗子，提问箱：https://t.co/2NC7j8oaoQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin0769018",
+                "end": 61,
+                "expanded_url": "https://ngl.link/rin0769018",
+                "start": 38,
+                "url": "https://t.co/2NC7j8oaoQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rintoy.taobao.com",
+                "end": 23,
+                "expanded_url": "http://rintoy.taobao.com",
+                "start": 0,
+                "url": "https://t.co/QlWi8rwI8O"
+              }
+            ]
+          }
+        },
+        "id": "1712569883387678720",
+        "location": "小霖的🍑→",
+        "name": "宝宝霖",
+        "pinned_tweet_id": "1939587178277073120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916991711135600640/ygiMwkTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113638,
+          "following_count": 3,
+          "like_count": 153,
+          "listed_count": 203,
+          "media_count": 286,
+          "tweet_count": 2270
+        },
+        "url": "https://t.co/QlWi8rwI8O",
+        "username": "Rin202361",
+        "verified": false
+      }
+    ]
+  }
+}

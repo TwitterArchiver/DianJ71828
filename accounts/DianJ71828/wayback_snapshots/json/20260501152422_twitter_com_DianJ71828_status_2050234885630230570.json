@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2050234885630230570",
+    "created_at": "2026-05-01T15:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050234885630230570"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050234885630230570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "俗话说天上一天，地下一年，按5000年的中华历史来算，天上的神仙岂不是只有十五六岁？嗯，所以牛郎织女不让恋爱的原因是未成年保护法。\n​算了，跟他废什么话呀？直接电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2050234885630230570",
+        "created_at": "2026-05-01T15:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050234885630230570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050234885630230570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俗话说天上一天，地下一年，按5000年的中华历史来算，天上的神仙岂不是只有十五六岁？嗯，所以牛郎织女不让恋爱的原因是未成年保护法。\n​算了，跟他废什么话呀？直接电"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 539,
+          "like_count": 13006,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2530
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

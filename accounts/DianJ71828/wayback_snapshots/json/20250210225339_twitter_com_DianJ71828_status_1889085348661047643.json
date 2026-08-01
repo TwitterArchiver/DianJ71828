@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1889085348661047643",
+    "created_at": "2025-02-10T22:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T23:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889085348661047643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnAnzonHH/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/AnAnzonHH/status/1888789668059377814",
+          "start": 17,
+          "url": "https://t.co/sUlG7yjYHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889085348661047643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888789668059377814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自我否定的路没有尽头，不过美美的 https://t.co/sUlG7yjYHR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1889085348661047643",
+        "created_at": "2025-02-10T22:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T23:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889085348661047643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnAnzonHH/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/AnAnzonHH/status/1888789668059377814",
+              "start": 17,
+              "url": "https://t.co/sUlG7yjYHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889085348661047643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888789668059377814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自我否定的路没有尽头，不过美美的 https://t.co/sUlG7yjYHR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888789654033575936",
+            "3_1888789655073763328"
+          ]
+        },
+        "author_id": "1752648024453738496",
+        "conversation_id": "1888789668059377814",
+        "created_at": "2025-02-10T03:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T04:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888789668059377814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CkG4uyUUn",
+              "end": 85,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1888789668059377814/photo/1",
+              "media_key": "3_1888789654033575936",
+              "start": 62,
+              "url": "https://t.co/8CkG4uyUUn"
+            },
+            {
+              "display_url": "pic.x.com/8CkG4uyUUn",
+              "end": 85,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1888789668059377814/photo/1",
+              "media_key": "3_1888789655073763328",
+              "start": 62,
+              "url": "https://t.co/8CkG4uyUUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888789668059377814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 587,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我再年轻十岁，没有那么强壮的肌肉和骨骼，那么我穿上这件衣服是刚好合适的，可惜没有如果，这种衣服显然也不是为我量身打造的 https://t.co/8CkG4uyUUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n🚪52",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 175,
+          "like_count": 1625,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 193
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T11:01:10.000Z",
+        "description": "我不知道我丟失了個什麽東西，我傷心了很久，我哭了很久，然後我給忘了，只是我知道那個東西很重要。\n后来我才知道我的内心已经破碎，还有什么能拯救我支离破碎的我呢，原来我丢失的，是我自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1989.64.com",
+                "end": 23,
+                "expanded_url": "http://1989.64.com",
+                "start": 0,
+                "url": "https://t.co/3D6ylYFOwn"
+              }
+            ]
+          }
+        },
+        "id": "1752648024453738496",
+        "location": "手枪星 ",
+        "name": "「暗中坏坏」🍥 🔪",
+        "pinned_tweet_id": "1871444039914144179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883533788782944256/xYEMjpWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4113,
+          "following_count": 452,
+          "like_count": 142,
+          "listed_count": 13,
+          "media_count": 624,
+          "tweet_count": 2984
+        },
+        "url": "https://t.co/3D6ylYFOwn",
+        "username": "AnAnzonHH",
+        "verified": false
+      }
+    ]
+  }
+}

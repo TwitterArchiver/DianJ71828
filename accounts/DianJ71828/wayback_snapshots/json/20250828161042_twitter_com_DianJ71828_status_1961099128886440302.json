@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960874239223062581",
+    "created_at": "2025-08-28T16:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T17:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961099128886440302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3387569464",
+          "start": 0,
+          "username": "UFP_YujunL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961099128886440302",
+    "in_reply_to_user_id": "3387569464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960874239223062581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UFP_YujunL 170已经哭了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960874239223062581",
+        "created_at": "2025-08-28T16:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961099128886440302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3387569464",
+              "start": 0,
+              "username": "UFP_YujunL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961099128886440302",
+        "in_reply_to_user_id": "3387569464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960874239223062581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UFP_YujunL 170已经哭了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3387569464",
+        "conversation_id": "1960874239223062581",
+        "created_at": "2025-08-28T01:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960874239223062581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960874239223062581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6079,
+          "like_count": 89,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "某些跨女祈祷自己变矮不如祈祷变窄。。。。我认识大部分顺女巴不得一米七以上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 216,
+          "like_count": 1794,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 352
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-22T15:56:17.000Z",
+        "description": "(被白月光删除失心疯版)如果我牺牲了,请用我的骨灰在火星乌托邦平原种下一棵胡杨树|阿弥陀🐑|新道教☯️神棍+真正的🪶←＝🐑🚪 少女感的妈 ENFP(功能型TJ)喜欢姐姐🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/i6anekrc/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/i6anekrc/",
+                "start": 0,
+                "url": "https://t.co/ScHXbCX0Zf"
+              }
+            ]
+          }
+        },
+        "id": "3387569464",
+        "location": "星际联邦地球多伦多不明生物研究所",
+        "name": "彧君姨姨#直女类似物",
+        "pinned_tweet_id": "1745632726252650789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959361264414605312/0Z2bVDLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13012,
+          "following_count": 808,
+          "like_count": 143995,
+          "listed_count": 46,
+          "media_count": 3744,
+          "tweet_count": 49883
+        },
+        "url": "https://t.co/ScHXbCX0Zf",
+        "username": "UFP_YujunL",
+        "verified": false
+      }
+    ]
+  }
+}

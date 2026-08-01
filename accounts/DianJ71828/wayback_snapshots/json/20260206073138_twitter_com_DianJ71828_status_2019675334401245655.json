@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019674932930834437",
+        "13_2019674932914040832"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2019675334401245655",
+    "created_at": "2026-02-06T07:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T08:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019675334401245655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LC6vtTlHLW",
+          "end": 39,
+          "expanded_url": "https://x.com/DianJ71828/status/2019675334401245655/video/1",
+          "media_key": "13_2019674932930834437",
+          "start": 16,
+          "url": "https://t.co/LC6vtTlHLW"
+        },
+        {
+          "display_url": "pic.x.com/LC6vtTlHLW",
+          "end": 39,
+          "expanded_url": "https://x.com/DianJ71828/status/2019675334401245655/video/1",
+          "media_key": "13_2019674932914040832",
+          "start": 16,
+          "url": "https://t.co/LC6vtTlHLW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019675334401245655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑的我想死。。。我家狗这个傻福 https://t.co/LC6vtTlHLW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34227,
+        "height": 1920,
+        "media_key": "13_2019674932930834437",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019674932930834437/img/LUFFZKt746pXEAv0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019674932930834437/vid/avc1/320x568/mfDujIwMADYev1mP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019674932930834437/vid/avc1/480x852/PjkxJ9a2CSK26bxN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019674932930834437/vid/avc1/720x1280/yZmJFBoNdxSwPKAl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019674932930834437/pl/md4OoRRFSs2uGopD.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 28181,
+        "height": 1920,
+        "media_key": "13_2019674932914040832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019674932914040832/img/TM9nNcoFMD3iaXTl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019674932914040832/vid/avc1/320x568/KyIY08063NXMmqZw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019674932914040832/vid/avc1/480x852/xMBnJSFk5aL3VERD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019674932914040832/vid/avc1/720x1280/_yDZfnj8U79OlOlA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019674932914040832/pl/S0qrAsbG8yZ9QWQJ.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019674932930834437",
+            "13_2019674932914040832"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2019675334401245655",
+        "created_at": "2026-02-06T07:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019675334401245655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LC6vtTlHLW",
+              "end": 39,
+              "expanded_url": "https://x.com/DianJ71828/status/2019675334401245655/video/1",
+              "media_key": "13_2019674932930834437",
+              "start": 16,
+              "url": "https://t.co/LC6vtTlHLW"
+            },
+            {
+              "display_url": "pic.x.com/LC6vtTlHLW",
+              "end": 39,
+              "expanded_url": "https://x.com/DianJ71828/status/2019675334401245655/video/1",
+              "media_key": "13_2019674932914040832",
+              "start": 16,
+              "url": "https://t.co/LC6vtTlHLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019675334401245655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑的我想死。。。我家狗这个傻福 https://t.co/LC6vtTlHLW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 632,
+          "like_count": 6334,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1371
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

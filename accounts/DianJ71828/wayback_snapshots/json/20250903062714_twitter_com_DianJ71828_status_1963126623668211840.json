@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1963062178992554146",
+    "created_at": "2025-09-03T06:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T07:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963126623668211840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963126623668211840",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963062178992554146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 一种大型仪式什么的₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_1963062005256093700",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz4yfjdbAAQvyBh.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1963062178992554146",
+        "created_at": "2025-09-03T06:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T07:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963126623668211840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963126623668211840",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963062178992554146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 一种大型仪式什么的₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963062005256093700"
+          ]
+        },
+        "author_id": "1741091789879308288",
+        "conversation_id": "1963062178992554146",
+        "created_at": "2025-09-03T02:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963062178992554146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZo01Nzjtz",
+              "end": 39,
+              "expanded_url": "https://x.com/zixinmiao2/status/1963062178992554146/photo/1",
+              "media_key": "3_1963062005256093700",
+              "start": 16,
+              "url": "https://t.co/mZo01Nzjtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963062178992554146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2155,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沙币学校，老子就不看，草他妈比 https://t.co/mZo01Nzjtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 311,
+          "like_count": 2482,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 605
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一个杂鱼填充物，中推第一锦依卫\ncoser/kiger/せいふくコン/写真撮影\n想和娃娃们贴贴\n欢迎大家扩列",
+        "id": "1741091789879308288",
+        "location": "上海 闵行区",
+        "name": "洛天依鲜榨母乳",
+        "pinned_tweet_id": "1947996301037334601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946796000896565248/ml-OsKJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4921,
+          "following_count": 1854,
+          "like_count": 11613,
+          "listed_count": 13,
+          "media_count": 209,
+          "tweet_count": 2582
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

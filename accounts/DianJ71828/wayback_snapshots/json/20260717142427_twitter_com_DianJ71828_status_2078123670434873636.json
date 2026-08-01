@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2078123670434873636",
+    "created_at": "2026-07-17T14:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078123670434873636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xio1766719oai/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xio1766719oai/status/2077791003541680556",
+          "start": 9,
+          "url": "https://t.co/V14aumcsMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078123670434873636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077791003541680556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草！！人外狂喜 https://t.co/V14aumcsMB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2078123670434873636",
+        "created_at": "2026-07-17T14:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078123670434873636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xio1766719oai/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xio1766719oai/status/2077791003541680556",
+              "start": 9,
+              "url": "https://t.co/V14aumcsMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078123670434873636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077791003541680556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草！！人外狂喜 https://t.co/V14aumcsMB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806877178333929472",
+        "conversation_id": "2077791003541680556",
+        "created_at": "2026-07-16T16:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077791003541680556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077791003541680556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 76345,
+          "like_count": 300,
+          "quote_count": 3,
+          "reply_count": 148,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到ai控制玩具的帖子了…我将加入人机恋这个圈子…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 558,
+          "like_count": 13008,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 2660
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T02:33:49.000Z",
+        "description": "我系一只小猫猫。\n@xyr060606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "xyr060606"
+              }
+            ]
+          }
+        },
+        "id": "1806877178333929472",
+        "location": "🚪88/188/388/520/1314 非入门私信不回",
+        "name": "絮语耳",
+        "pinned_tweet_id": "2039264031958249738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970489809358430208/-R4LNrUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7955,
+          "following_count": 7,
+          "like_count": 112,
+          "listed_count": 25,
+          "media_count": 40,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "xio1766719oai",
+        "verified": false
+      }
+    ]
+  }
+}

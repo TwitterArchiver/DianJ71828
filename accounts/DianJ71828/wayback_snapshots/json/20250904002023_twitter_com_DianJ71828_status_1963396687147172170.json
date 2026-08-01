@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1963033004043075633",
+    "created_at": "2025-09-04T00:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T01:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963396687147172170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783739407981228032",
+          "start": 0,
+          "username": "MasahiroV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963396687147172170",
+    "in_reply_to_user_id": "1783739407981228032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963229021824839728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasahiroV2 男的哭不属于做作，劳₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1963033004043075633",
+        "created_at": "2025-09-04T00:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T01:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963396687147172170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783739407981228032",
+              "start": 0,
+              "username": "MasahiroV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963396687147172170",
+        "in_reply_to_user_id": "1783739407981228032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963229021824839728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasahiroV2 男的哭不属于做作，劳₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783739407981228032",
+        "conversation_id": "1963033004043075633",
+        "created_at": "2025-09-03T13:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T14:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963229021824839728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963229021824839728",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963033004043075633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 我个人有一个比较奇怪的观念是只能忍受性别认同男的人自残，女的自残就跟男的哭一样属于做作，是不是属于比较保"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 317,
+          "like_count": 2556,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 620
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T06:06:38.000Z",
+        "description": "由于派系斗争问题，本账号不再经常讨论跨性别议题，仅用于讨论天启宗教等。愿主福安之。",
+        "id": "1783739407981228032",
+        "name": "神乐阪正太🏰ماساهيرو🕋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962222541097066497/XgD48r1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 399,
+          "like_count": 22582,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 6273
+        },
+        "username": "MasahiroV2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2069078164794642551",
+    "created_at": "2026-06-22T15:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069078164794642551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HNTINSSG/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/HNTINSSG/status/2068722986509906121",
+          "start": 7,
+          "url": "https://t.co/FvxOg7JmGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069078164794642551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068722986509906121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我活到头了？ https://t.co/FvxOg7JmGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15633,
+        "height": 756,
+        "media_key": "7_2007209898551947265",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007209898551947265/pu/img/JVomNi82hLLHgn_3.jpg",
+        "public_metrics": {
+          "view_count": 2081565
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007209898551947265/pu/vid/avc1/320x336/QNpJ9nfGIdoBhuHM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007209898551947265/pu/vid/avc1/480x504/SqGX58vdk3CG829P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007209898551947265/pu/vid/avc1/720x756/xOr7BZQUSGfr23tr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007209898551947265/pu/pl/PjEAPOKGldPOzbUe.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2069078164794642551",
+        "created_at": "2026-06-22T15:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069078164794642551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HNTINSSG/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/HNTINSSG/status/2068722986509906121",
+              "start": 7,
+              "url": "https://t.co/FvxOg7JmGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069078164794642551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068722986509906121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我活到头了？ https://t.co/FvxOg7JmGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007209898551947265"
+          ],
+          "media_source_tweet_id": [
+            "2007209914230538656"
+          ]
+        },
+        "author_id": "2028024047934816256",
+        "conversation_id": "2068722986509906121",
+        "created_at": "2026-06-21T15:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068722986509906121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7sN9bPOQf1",
+              "end": 27,
+              "expanded_url": "https://x.com/Themyster1ous01/status/2007209914230538656/video/1",
+              "media_key": "7_2007209898551947265",
+              "start": 4,
+              "url": "https://t.co/7sN9bPOQf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068722986509906121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5850,
+          "impression_count": 1032504,
+          "like_count": 13527,
+          "quote_count": 63,
+          "reply_count": 110,
+          "retweet_count": 645
+        },
+        "reply_settings": "following",
+        "text": "可能性 https://t.co/7sN9bPOQf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 523,
+          "like_count": 12830,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2592
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T08:30:25.000Z",
+        "description": "ヒカマーとも絡む\n鍵垢→@NKTINSSG\n避難用垢→@JOKERSKSG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "NKTINSSG"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "JOKERSKSG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "commons.nicovideo.jp/works/sm325047…",
+                "end": 23,
+                "expanded_url": "https://commons.nicovideo.jp/works/sm32504756",
+                "start": 0,
+                "url": "https://t.co/JS5QicPwQo"
+              }
+            ]
+          }
+        },
+        "id": "2028024047934816256",
+        "location": "偉大なるデカすぎるネクタイ(BB)元動画↓",
+        "name": "HNTINSSG(ホンタイナサスギ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039706373345492992/LDYUW686_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 183,
+          "like_count": 5129,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/JS5QicPwQo",
+        "username": "HNTINSSG",
+        "verified": false
+      }
+    ]
+  }
+}

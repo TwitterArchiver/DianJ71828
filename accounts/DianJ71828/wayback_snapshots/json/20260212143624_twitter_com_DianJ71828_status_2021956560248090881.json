@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021617366011150758",
+    "created_at": "2026-02-12T14:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021956560248090881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994789175997206530",
+          "start": 0,
+          "username": "zukeoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021956560248090881",
+    "in_reply_to_user_id": "1994789175997206530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021617366011150758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zukeoq きれい"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1346,
+        "media_key": "3_2021617360822738945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA46R1eaIAEaTr-.jpg",
+        "width": 1004
+      },
+      {
+        "height": 1508,
+        "media_key": "3_2021617360822767616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA46R1eakAAJLp0.jpg",
+        "width": 924
+      },
+      {
+        "height": 1375,
+        "media_key": "3_2021617360831234049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA46R1gbwAEv1kB.jpg",
+        "width": 890
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2021617360826925056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA46R1faAAANxjR.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2021617366011150758",
+        "created_at": "2026-02-12T14:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021956560248090881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994789175997206530",
+              "start": 0,
+              "username": "zukeoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021956560248090881",
+        "in_reply_to_user_id": "1994789175997206530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021617366011150758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zukeoq きれい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021617360822738945",
+            "3_2021617360822767616",
+            "3_2021617360831234049",
+            "3_2021617360826925056"
+          ]
+        },
+        "author_id": "1994789175997206530",
+        "conversation_id": "2021617366011150758",
+        "created_at": "2026-02-11T16:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021617366011150758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1bpbLzbEB",
+              "end": 39,
+              "expanded_url": "https://x.com/zukeoq/status/2021617366011150758/photo/1",
+              "media_key": "3_2021617360822738945",
+              "start": 16,
+              "url": "https://t.co/T1bpbLzbEB"
+            },
+            {
+              "display_url": "pic.x.com/T1bpbLzbEB",
+              "end": 39,
+              "expanded_url": "https://x.com/zukeoq/status/2021617366011150758/photo/1",
+              "media_key": "3_2021617360822767616",
+              "start": 16,
+              "url": "https://t.co/T1bpbLzbEB"
+            },
+            {
+              "display_url": "pic.x.com/T1bpbLzbEB",
+              "end": 39,
+              "expanded_url": "https://x.com/zukeoq/status/2021617366011150758/photo/1",
+              "media_key": "3_2021617360831234049",
+              "start": 16,
+              "url": "https://t.co/T1bpbLzbEB"
+            },
+            {
+              "display_url": "pic.x.com/T1bpbLzbEB",
+              "end": 39,
+              "expanded_url": "https://x.com/zukeoq/status/2021617366011150758/photo/1",
+              "media_key": "3_2021617360826925056",
+              "start": 16,
+              "url": "https://t.co/T1bpbLzbEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021617366011150758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 40066,
+          "like_count": 2415,
+          "quote_count": 19,
+          "reply_count": 12,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "愛してるの？(*´ω｀*)ᰔᩚ https://t.co/T1bpbLzbEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 722,
+          "like_count": 8320,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1662
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T15:23:09.000Z",
+        "description": "아르르 @qoekuz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "qoekuz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/6653004531/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/6653004531/",
+                "start": 0,
+                "url": "https://t.co/xOLdBRn1sV"
+              }
+            ]
+          }
+        },
+        "id": "1994789175997206530",
+        "name": "개수빈",
+        "pinned_tweet_id": "2021617366011150758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003516287092457472/BO_hXcGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 315,
+          "like_count": 5069,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/xOLdBRn1sV",
+        "username": "zukeoq",
+        "verified": false
+      }
+    ]
+  }
+}

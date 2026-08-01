@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1993725891524890624"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1993726022370681236",
+    "created_at": "2025-11-26T16:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993726022370681236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F66T7P9wbg",
+          "end": 31,
+          "expanded_url": "https://x.com/DianJ71828/status/1993726022370681236/video/1",
+          "media_key": "7_1993725891524890624",
+          "start": 8,
+          "url": "https://t.co/F66T7P9wbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993726022370681236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经o了六片了 https://t.co/F66T7P9wbg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4179,
+        "height": 1280,
+        "media_key": "7_1993725891524890624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1993725891524890624/pu/img/uH7palRNTAVB5JBy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993725891524890624/pu/vid/avc1/320x568/rI2IbvjFHM-Kf1bi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993725891524890624/pu/vid/avc1/480x852/XY99JO8qfPRlfB74.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993725891524890624/pu/vid/avc1/720x1280/VUHpqnnUr2FuP9Pk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1993725891524890624/pu/pl/TeRq4joHbxBkrITg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1993725891524890624"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1993726022370681236",
+        "created_at": "2025-11-26T16:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993726022370681236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F66T7P9wbg",
+              "end": 31,
+              "expanded_url": "https://x.com/DianJ71828/status/1993726022370681236/video/1",
+              "media_key": "7_1993725891524890624",
+              "start": 8,
+              "url": "https://t.co/F66T7P9wbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993726022370681236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经o了六片了 https://t.co/F66T7P9wbg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 528,
+          "like_count": 4270,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 935
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

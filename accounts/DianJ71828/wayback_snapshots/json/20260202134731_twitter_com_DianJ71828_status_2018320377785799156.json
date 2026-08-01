@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2018320331757551617"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2018320377785799156",
+    "created_at": "2026-02-02T13:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T14:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018320377785799156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xw72LPTsjb",
+          "end": 91,
+          "expanded_url": "https://x.com/DianJ71828/status/2018320377785799156/video/1",
+          "media_key": "7_2018320331757551617",
+          "start": 68,
+          "url": "https://t.co/xw72LPTsjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018320377785799156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "摸完各种各样的动物回家后.....\n可乐：什么味道都是什么味道啊？！😭😭😭你出去都干了什么口牙？！！😭😭😭你不是自愿的对吧！！！😭😭😭 https://t.co/xw72LPTsjb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12941,
+        "height": 720,
+        "media_key": "7_2018320331757551617",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018320331757551617/pu/img/X9eG18r9-9NMnWUU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018320331757551617/pu/vid/avc1/480x270/N1akgdKH-aY0M2_F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018320331757551617/pu/vid/avc1/640x360/cFoTNEqsXgpPYcSS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018320331757551617/pu/vid/avc1/1280x720/A1pNrcD0oxrKjDAk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018320331757551617/pu/pl/YYhrl-zFS2Y1DsCx.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018320331757551617"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2018320377785799156",
+        "created_at": "2026-02-02T13:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018320377785799156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xw72LPTsjb",
+              "end": 91,
+              "expanded_url": "https://x.com/DianJ71828/status/2018320377785799156/video/1",
+              "media_key": "7_2018320331757551617",
+              "start": 68,
+              "url": "https://t.co/xw72LPTsjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018320377785799156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摸完各种各样的动物回家后.....\n可乐：什么味道都是什么味道啊？！😭😭😭你出去都干了什么口牙？！！😭😭😭你不是自愿的对吧！！！😭😭😭 https://t.co/xw72LPTsjb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 618,
+          "like_count": 6100,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1330
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

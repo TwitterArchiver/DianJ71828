@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2017882127170499067",
+    "created_at": "2026-02-01T08:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T09:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017882127170499067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hazuki8964/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hazuki8964/status/2017843943522861111",
+          "start": 11,
+          "url": "https://t.co/DmhH96luOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017882127170499067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017843943522861111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中之国教育你又赢了😰 https://t.co/DmhH96luOw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2017882127170499067",
+        "created_at": "2026-02-01T08:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017882127170499067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hazuki8964/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hazuki8964/status/2017843943522861111",
+              "start": 11,
+              "url": "https://t.co/DmhH96luOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017882127170499067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017843943522861111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中之国教育你又赢了😰 https://t.co/DmhH96luOw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2017843943522861111",
+        "created_at": "2026-02-01T06:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017843943522861111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017843943522861111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6928,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "当我看到你牢⏰的低龄二次元看到名柯和我英联动应激成这样我就知道基本盘们这把还是稳了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 611,
+          "like_count": 5995,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1303
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好。@yoyori_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "yoyori_01"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "爱胡TV",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5841,
+          "following_count": 483,
+          "like_count": 11746,
+          "listed_count": 10,
+          "media_count": 260,
+          "tweet_count": 1971
+        },
+        "username": "hazuki8964",
+        "verified": false
+      }
+    ]
+  }
+}

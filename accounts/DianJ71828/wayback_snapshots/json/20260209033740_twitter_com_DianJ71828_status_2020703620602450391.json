@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2020703620602450391",
+    "created_at": "2026-02-09T03:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T04:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020703620602450391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yulingko_/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yulingko_/status/2020652647360102468",
+          "start": 11,
+          "url": "https://t.co/ntgA2hQRiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020703620602450391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020652647360102468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这宝贝的纯属天才！🥰 https://t.co/ntgA2hQRiZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2020703620602450391",
+        "created_at": "2026-02-09T03:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020703620602450391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yulingko_/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yulingko_/status/2020652647360102468",
+              "start": 11,
+              "url": "https://t.co/ntgA2hQRiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020703620602450391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020652647360102468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这宝贝的纯属天才！🥰 https://t.co/ntgA2hQRiZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "2020610837648732288",
+        "created_at": "2026-02-09T00:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T01:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020652647360102468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020652647360102468",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6942,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020610837648732288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 雌二醇都成软毒品了，那绝经妇女岂不是天天都在戒断反应😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 644,
+          "like_count": 6564,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1405
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "呼唤我的名字吧 晚餐铃",
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "1921841960538566873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019422693507072000/uoDDll_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 734,
+          "like_count": 70748,
+          "listed_count": 3,
+          "media_count": 761,
+          "tweet_count": 13121
+        },
+        "username": "yulingko_",
+        "verified": false
+      }
+    ]
+  }
+}

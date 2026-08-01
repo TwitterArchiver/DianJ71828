@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1961045647483895996",
+    "created_at": "2025-08-30T02:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T03:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961615575001743567"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "豪堪",
+          "probability": 0.5322,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893246006722199552",
+          "start": 0,
+          "username": "yy99080707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961615575001743567",
+    "in_reply_to_user_id": "1893246006722199552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961045647483895996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy99080707 豪堪🥵🥵🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69462,
+        "height": 1920,
+        "media_key": "13_1961045090392272896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961045090392272896/img/kLM7i97hJWZrVPCf.jpg",
+        "public_metrics": {
+          "view_count": 123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961045090392272896/vid/avc1/320x568/_7GRCacMqPxPj6bO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961045090392272896/vid/avc1/480x852/GkfPKApXJbPI7Glj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961045090392272896/vid/avc1/720x1280/7NfEGSUsjpAnvt8w.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961045090392272896/pl/fHbmVOoFTmSfXoXP.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1961045647483895996",
+        "created_at": "2025-08-30T02:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T03:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961615575001743567"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "豪堪",
+              "probability": 0.5322,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893246006722199552",
+              "start": 0,
+              "username": "yy99080707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961615575001743567",
+        "in_reply_to_user_id": "1893246006722199552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961045647483895996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy99080707 豪堪🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961045090392272896"
+          ]
+        },
+        "author_id": "1893246006722199552",
+        "conversation_id": "1961045647483895996",
+        "created_at": "2025-08-28T12:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961045647483895996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNTtV4yLnn",
+              "end": 38,
+              "expanded_url": "https://x.com/yy99080707/status/1961045647483895996/video/1",
+              "media_key": "13_1961045090392272896",
+              "start": 15,
+              "url": "https://t.co/iNTtV4yLnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961045647483895996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 246,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼尽全力无法战胜！败北！！！ https://t.co/iNTtV4yLnn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 225,
+          "like_count": 1867,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 396
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T10:26:49.000Z",
+        "description": "漪漪母犬，天下第一！\nV:     ii_yydss\nQ:    292345836",
+        "id": "1893246006722199552",
+        "name": "漪漪屁股不大",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961381395609296896/vxp8p0i5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 125,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 33
+        },
+        "username": "yy99080707",
+        "verified": false
+      }
+    ]
+  }
+}

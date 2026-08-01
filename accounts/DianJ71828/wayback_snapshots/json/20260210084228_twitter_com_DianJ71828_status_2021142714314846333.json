@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021063722060640256"
+      ],
+      "media_source_tweet_id": [
+        "2021063747117158502"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2021142714314846333",
+    "created_at": "2026-02-10T08:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T09:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021142714314846333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621759778614812677",
+          "start": 3,
+          "username": "maruko00o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y6DxVq3Ufg",
+          "end": 120,
+          "expanded_url": "https://x.com/maruko00o/status/2021063747117158502/photo/1",
+          "media_key": "3_2021063722060640256",
+          "start": 97,
+          "url": "https://t.co/Y6DxVq3Ufg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021142714314846333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021063747117158502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maruko00o: 回复下图提问：\n\n这种恐惧很正常，我在一开始以女装外出的时候也有过这种心理状态，我觉得对于跨性别 &amp; 喜爱跨性别装扮的人来说，多多少少都会经历这种阶段。… https://t.co/Y6DxVq3Ufg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1751,
+        "media_key": "3_2021063722060640256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxCv0XacAA4H1Q.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021063722060640256"
+          ],
+          "media_source_tweet_id": [
+            "2021063747117158502"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2021142714314846333",
+        "created_at": "2026-02-10T08:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021142714314846333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621759778614812677",
+              "start": 3,
+              "username": "maruko00o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6DxVq3Ufg",
+              "end": 120,
+              "expanded_url": "https://x.com/maruko00o/status/2021063747117158502/photo/1",
+              "media_key": "3_2021063722060640256",
+              "start": 97,
+              "url": "https://t.co/Y6DxVq3Ufg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021142714314846333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021063747117158502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maruko00o: 回复下图提问：\n\n这种恐惧很正常，我在一开始以女装外出的时候也有过这种心理状态，我觉得对于跨性别 &amp; 喜爱跨性别装扮的人来说，多多少少都会经历这种阶段。… https://t.co/Y6DxVq3Ufg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021063722060640256"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2021063747117158502",
+        "created_at": "2026-02-10T03:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T04:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021063747117158502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6DxVq3Ufg",
+              "end": 104,
+              "expanded_url": "https://x.com/maruko00o/status/2021063747117158502/photo/1",
+              "media_key": "3_2021063722060640256",
+              "start": 81,
+              "url": "https://t.co/Y6DxVq3Ufg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021063747117158502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回复下图提问：\n\n这种恐惧很正常，我在一开始以女装外出的时候也有过这种心理状态，我觉得对于跨性别 & 喜爱跨性别装扮的人来说，多多少少都会经历这种阶段。\n\n有个心理学概念叫「聚光灯效应」，我们总觉得周围的人在一直注意着，审视着自己，但事实上其实不然。路上的路人在你身上停留的时间，可能只有零点几秒，更不太可能一直盯着你看，一般来说大家其实是不会太在意周围人长什么样，穿什么服饰的。\n\n我们对自己的熟悉程度肯定是远超别人眼中的自己的。你认为自己「一眼男」，是因为你这一生都在看着自己的长相，也因此哪怕是一点点你认为「不该出现」的「男性细节」，都会被你在穿着社会所认为有异于你应该穿着的服装时被无限地放大。「有朋友认为挺像女性」，恰恰印证其实这些特征对于其他人来说，并不是非常显眼。\n\n另外，在我们不违法、不伤害别人的情况下，就算真的「被别人看穿」又能如何？会发生的事基本就是，别人发现这是一个在变装的人，然后继续去干自己要做的事情。\n\n「开启厚实脸皮」倒是没什么问题，但我们不用硬撑着这么去做，而是转变一下心态：你只是在穿自己喜欢的衣服，展示自己喜欢的审美，不需要为此感到羞愧。既然已经可以在深夜散步，不如尝试一下在更早的时间，慢慢到人更多的地方走动走动，我相信你会发现，其实真的没什么人会过分注意你，大胆出门就好。\n\n追求美的权力不应只留给无人的深夜。你，和我们每个人都值得在阳光下，向所有人自由地展示自己的美。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4220,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "回复下图提问：\n\n这种恐惧很正常，我在一开始以女装外出的时候也有过这种心理状态，我觉得对于跨性别 &amp; 喜爱跨性别装扮的人来说，多多少少都会经历这种阶段。 https://t.co/Y6DxVq3Ufg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 677,
+          "like_count": 7090,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1497
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37604,
+          "following_count": 932,
+          "like_count": 21666,
+          "listed_count": 210,
+          "media_count": 886,
+          "tweet_count": 5155
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

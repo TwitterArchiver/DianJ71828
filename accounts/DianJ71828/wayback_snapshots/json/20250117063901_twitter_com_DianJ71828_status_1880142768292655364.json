@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880142765343805440"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1880142768292655364",
+    "created_at": "2025-01-17T06:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T07:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880142768292655364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8cMOHtpc3z",
+          "end": 28,
+          "expanded_url": "https://x.com/DianJ71828/status/1880142768292655364/photo/1",
+          "media_key": "3_1880142765343805440",
+          "start": 5,
+          "url": "https://t.co/8cMOHtpc3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880142768292655364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽抽抽～ https://t.co/8cMOHtpc3z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1880142768292655364].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1880142768292655364",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1880142768292655364"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880142765343805440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gheb4jdWkAAgLqX.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "",
+        "id": "1880140645454725120",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

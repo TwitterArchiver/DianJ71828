@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1879521524656533694",
+    "created_at": "2025-01-17T07:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T08:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880154225046630757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491205591754473474",
+          "start": 0,
+          "username": "keshiwohaokun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880154225046630757",
+    "in_reply_to_user_id": "1491205591754473474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879521524656533694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keshiwohaokun 你觉得恨，却离不开～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1879521524656533694",
+        "created_at": "2025-01-17T07:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T08:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880154225046630757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491205591754473474",
+              "start": 0,
+              "username": "keshiwohaokun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880154225046630757",
+        "in_reply_to_user_id": "1491205591754473474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879521524656533694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keshiwohaokun 你觉得恨，却离不开～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491205591754473474",
+        "conversation_id": "1879521524656533694",
+        "created_at": "2025-01-15T13:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T14:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879521524656533694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879521524656533694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 54425,
+          "like_count": 1158,
+          "quote_count": 24,
+          "reply_count": 70,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "其实恨来恨去 你只是恨他没那么爱你吧\n其实恨来恨去 你只是恨他没那么爱你吧\n其实恨来恨去 你只是恨他没那么爱你吧\n其实恨来恨去 你只是恨他没那么爱你吧\n其实恨来恨去 你只是恨他没那么爱你吧\n其实恨来恨去 你只是恨他没那么爱你吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 60,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 13
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T00:21:40.000Z",
+        "description": "†女的，大概是活的 † sub｜ 日常推/文盲/自由散漫/不接推广 不接置顶/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=PT1iuT9D",
+                "start": 0,
+                "url": "https://t.co/TMKGn0r56g"
+              }
+            ]
+          }
+        },
+        "id": "1491205591754473474",
+        "location": "自用VPN↓",
+        "name": "可是我好困",
+        "pinned_tweet_id": "1828761484031394200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818981689731031040/CRhpHpuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30550,
+          "following_count": 553,
+          "like_count": 63019,
+          "listed_count": 67,
+          "media_count": 2691,
+          "tweet_count": 30183
+        },
+        "url": "https://t.co/TMKGn0r56g",
+        "username": "keshiwohaokun",
+        "verified": false
+      }
+    ]
+  }
+}

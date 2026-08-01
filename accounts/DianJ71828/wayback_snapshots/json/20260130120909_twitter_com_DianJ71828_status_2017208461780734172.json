@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2017087939067687207",
+    "created_at": "2026-01-30T12:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017208461780734172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "528322785",
+          "start": 0,
+          "username": "ABrger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017208461780734172",
+    "in_reply_to_user_id": "528322785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017087939067687207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABrger 窝趣，不然呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2017087936404271105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4iyooaMAEoF9N.png",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2017087939067687207",
+        "created_at": "2026-01-30T12:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017208461780734172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "528322785",
+              "start": 0,
+              "username": "ABrger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017208461780734172",
+        "in_reply_to_user_id": "528322785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017087939067687207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABrger 窝趣，不然呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017087936404271105"
+          ]
+        },
+        "author_id": "528322785",
+        "conversation_id": "2017087939067687207",
+        "created_at": "2026-01-30T04:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017087939067687207"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "mtf"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "跨女"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "跨性别"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "药娘"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1H5bIQn2Ao",
+              "end": 75,
+              "expanded_url": "https://x.com/ABrger/status/2017087939067687207/photo/1",
+              "media_key": "3_2017087936404271105",
+              "start": 52,
+              "url": "https://t.co/1H5bIQn2Ao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017087939067687207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们的声音是用什么方法变过来的 ？总不能是一直夹吧\n#mtf #跨女 #跨性别 #伪娘 #药娘 #男娘 https://t.co/1H5bIQn2Ao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 576,
+          "like_count": 5560,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1219
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-18T09:07:25.000Z",
+        "description": "❤微信： 1666245601\n❤TG客服: https://t.co/BYNpWiMEyR \n全球一站式药房：印度💊老挝💊孟加拉💊土耳其💊日本💊泰国💊欧美💊各种冷门药、常规药、处方药、靶向药、HRT糖、HIV糖",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/boyprep_bot",
+                "end": 46,
+                "expanded_url": "https://t.me/boyprep_bot",
+                "start": 23,
+                "url": "https://t.co/BYNpWiMEyR"
+              }
+            ]
+          }
+        },
+        "id": "528322785",
+        "location": "1km",
+        "name": "🍬可乐糖果店/💊商",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013826503692427266/n1RLbltY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 61,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 31
+        },
+        "username": "ABrger",
+        "verified": false
+      }
+    ]
+  }
+}

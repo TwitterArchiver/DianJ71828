@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2020928747306950841",
+    "created_at": "2026-02-10T15:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021246353255420037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1841754160338964480",
+          "start": 0,
+          "username": "3612996715LXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021246353255420037",
+    "in_reply_to_user_id": "1841754160338964480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021200753373872605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3612996715LXB 你看我鸟你不？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2020928747306950841",
+        "created_at": "2026-02-10T15:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021246353255420037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1841754160338964480",
+              "start": 0,
+              "username": "3612996715LXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021246353255420037",
+        "in_reply_to_user_id": "1841754160338964480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021200753373872605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3612996715LXB 你看我鸟你不？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841754160338964480",
+        "conversation_id": "2020928747306950841",
+        "created_at": "2026-02-10T12:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T13:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021200753373872605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021200753373872605",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020928747306950841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 结果被抓的时候就马上扯这是游戏中的专业术语，不敢承认的真实意思是什么？是不是引导人嗑药啊什么的，本质上就是一个小丑虚伪的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 680,
+          "like_count": 7173,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1518
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T08:17:22.000Z",
+        "description": "光锥《黑暗长夜的囚笼》记忆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "genderdysphoria.fyi/en/",
+                "end": 23,
+                "expanded_url": "https://genderdysphoria.fyi/en/",
+                "start": 0,
+                "url": "https://t.co/OoI8nxwQUj"
+              }
+            ]
+          }
+        },
+        "id": "1841754160338964480",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "1857450713854705931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021178769524789248/GCObebmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 35,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/OoI8nxwQUj",
+        "username": "3612996715LXB",
+        "verified": false
+      }
+    ]
+  }
+}

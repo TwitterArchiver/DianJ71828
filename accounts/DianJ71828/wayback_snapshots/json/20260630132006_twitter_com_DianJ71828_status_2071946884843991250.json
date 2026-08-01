@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2071640958622654485",
+    "created_at": "2026-06-30T13:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071946884843991250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763275603938054144",
+          "start": 0,
+          "username": "GlobalUpdates24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071946884843991250",
+    "in_reply_to_user_id": "1763275603938054144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071640958622654485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlobalUpdates24 或许西班牙政府是弱智。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2071640949512626176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_yd7HaYAAEw2c.jpg",
+        "width": 1200
+      },
+      {
+        "height": 594,
+        "media_key": "3_2071640949298802688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_yd6UbsAAUvlv.png",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2071640958622654485",
+        "created_at": "2026-06-30T13:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071946884843991250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763275603938054144",
+              "start": 0,
+              "username": "GlobalUpdates24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071946884843991250",
+        "in_reply_to_user_id": "1763275603938054144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071640958622654485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlobalUpdates24 或许西班牙政府是弱智。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071640949512626176",
+            "3_2071640949298802688"
+          ]
+        },
+        "author_id": "1763275603938054144",
+        "conversation_id": "2071640958622654485",
+        "created_at": "2026-06-29T17:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071640958622654485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3cbgM0HKU",
+              "end": 239,
+              "expanded_url": "https://x.com/GlobalUpdates24/status/2071640958622654485/photo/1",
+              "media_key": "3_2071640949512626176",
+              "start": 216,
+              "url": "https://t.co/j3cbgM0HKU"
+            },
+            {
+              "display_url": "pic.x.com/j3cbgM0HKU",
+              "end": 239,
+              "expanded_url": "https://x.com/GlobalUpdates24/status/2071640958622654485/photo/1",
+              "media_key": "3_2071640949298802688",
+              "start": 216,
+              "url": "https://t.co/j3cbgM0HKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071640958622654485",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1032,
+          "impression_count": 675059,
+          "like_count": 28649,
+          "quote_count": 361,
+          "reply_count": 460,
+          "retweet_count": 3063
+        },
+        "reply_settings": "everyone",
+        "text": "🚨BREAKING –\n\nSpain has made LGBTQ+ conversation therapy a criminal offence\n\nNow if you try to promote the \"cure\" of LGBTQ+ people through conversion therapy, you could face up to two years in jail, along with a fine https://t.co/j3cbgM0HKU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 521,
+          "like_count": 12839,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2601
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T18:51:01.000Z",
+        "description": "International affairs | Trends | Politics | Sports |\n\nReal-time updates from around the world",
+        "id": "1763275603938054144",
+        "location": "World",
+        "name": "Global UPDATES",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914690071699103744/rFPzWwSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101009,
+          "following_count": 808,
+          "like_count": 10108,
+          "listed_count": 261,
+          "media_count": 6262,
+          "tweet_count": 9173
+        },
+        "url": "",
+        "username": "GlobalUpdates24",
+        "verified": true
+      }
+    ]
+  }
+}

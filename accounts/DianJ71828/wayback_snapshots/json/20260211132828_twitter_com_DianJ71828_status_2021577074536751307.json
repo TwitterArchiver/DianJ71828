@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2020778478191431936",
+    "created_at": "2026-02-11T13:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021577074536751307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947618624945983488",
+          "start": 0,
+          "username": "tonghua_me"
+        },
+        {
+          "end": 28,
+          "id": "1616696567549034496",
+          "start": 12,
+          "username": "LovelyChino2013"
+        },
+        {
+          "end": 42,
+          "id": "1986828541930119168",
+          "start": 29,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021577074536751307",
+    "in_reply_to_user_id": "1947618624945983488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020818445391028572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghua_me @LovelyChino2013 @shigure07288 社会让你死你去死？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2020778478191431936",
+        "created_at": "2026-02-11T13:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021577074536751307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947618624945983488",
+              "start": 0,
+              "username": "tonghua_me"
+            },
+            {
+              "end": 28,
+              "id": "1616696567549034496",
+              "start": 12,
+              "username": "LovelyChino2013"
+            },
+            {
+              "end": 42,
+              "id": "1986828541930119168",
+              "start": 29,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021577074536751307",
+        "in_reply_to_user_id": "1947618624945983488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020818445391028572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghua_me @LovelyChino2013 @shigure07288 社会让你死你去死？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947618624945983488",
+        "conversation_id": "2020778478191431936",
+        "created_at": "2026-02-09T11:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020818445391028572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyChino2013"
+            },
+            {
+              "end": 30,
+              "id": "1986828541930119168",
+              "start": 17,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020818445391028572",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5353,
+          "like_count": 2,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020817127867883885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyChino2013 @shigure07288 所以我依然不支持lgbt 因为没有用处 不能给社会带来富足 反而很多变性让人短命 这些非常规用药是反人道的 是损害社会的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 691,
+          "like_count": 7643,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1567
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T11:24:11.000Z",
+        "description": "左派 托洛茨基主义者 支持托洛茨基的党内民主与半平台化 不是男娘 是猛男。反建制 反极端目田 反分离主义 反极端民族 理中客 不支持lgbt",
+        "id": "1947618624945983488",
+        "location": "距离你114514km",
+        "name": "童话",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010981148667838464/Rd34cbb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 94,
+          "like_count": 197,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1318
+        },
+        "username": "tonghua_me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社交恐惧\\历史学专业\\ Trotskyism ☭⁴\\异端托派（国资论）\\mtx🏳️‍⚧️🍥非二元？her？\\深柜\\含糖\\喜欢Lolita\\最爱DDLC&Just Yuri❤️芙兰秀秀，香风智乃，晓美焰，猫和老鼠\\苍钢\\幸德秋水\\梦核\\2013\\l'Incorruptible\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "佐賀県唐津市",
+        "name": "𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲🏳️‍⚧️🎀",
+        "pinned_tweet_id": "2015736133817422222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016547519480692736/M7IMr6tZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 1127,
+          "like_count": 38144,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 2955
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyChino2013",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|毛主义|左翼共产主义|民主社会主义|左翼民粹主义|反资本主义|平权主义|反激进女权|友跨",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🇻🇪🏳️‍🌈",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872933650059266/LBQYDyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 511,
+          "like_count": 1715,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 2361
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

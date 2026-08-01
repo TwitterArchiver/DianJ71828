@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022117142926422025",
+    "created_at": "2026-02-13T01:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022120036413100066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958507080450764800",
+          "start": 0,
+          "username": "ankh674186"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022120036413100066",
+    "in_reply_to_user_id": "1958507080450764800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022119666974699668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ankh674186 喵，我不在乎有没有鸡吧，但是看起来一定要是漂亮姐姐。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022117142926422025",
+        "created_at": "2026-02-13T01:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022120036413100066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958507080450764800",
+              "start": 0,
+              "username": "ankh674186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022120036413100066",
+        "in_reply_to_user_id": "1958507080450764800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022119666974699668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ankh674186 喵，我不在乎有没有鸡吧，但是看起来一定要是漂亮姐姐。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507080450764800",
+        "conversation_id": "2022117142926422025",
+        "created_at": "2026-02-13T01:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022119666974699668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022119666974699668",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022117142926422025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 感觉我是钢铁直男只想和漂亮姐姐4i，但女装之后就有时候会梦到和男娘互相草（不是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 722,
+          "like_count": 8499,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1693
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:31:04.000Z",
+        "description": "男 ｜现居🇨🇦 ｜欢迎互fo 私信骚扰捏 ｜点点关注吧谢谢了主包会给你看更多翘臀的",
+        "id": "1958507080450764800",
+        "name": "睡鼠dormouse",
+        "pinned_tweet_id": "2020727990796075207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016954650671427584/R4JO5MrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 166,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 70
+        },
+        "username": "ankh674186",
+        "verified": true
+      }
+    ]
+  }
+}

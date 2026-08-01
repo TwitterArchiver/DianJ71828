@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1973767876550238355",
+    "created_at": "2025-10-03T07:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T08:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974019049542537482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1819977611336163328",
+          "start": 0,
+          "username": "XZLT1206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974019049542537482",
+    "in_reply_to_user_id": "1819977611336163328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973767876550238355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XZLT1206 我朋友看破防了嗯对₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1973767876550238355",
+        "created_at": "2025-10-03T07:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974019049542537482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1819977611336163328",
+              "start": 0,
+              "username": "XZLT1206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974019049542537482",
+        "in_reply_to_user_id": "1819977611336163328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973767876550238355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XZLT1206 我朋友看破防了嗯对₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819977611336163328",
+        "conversation_id": "1973767876550238355",
+        "created_at": "2025-10-02T15:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973767876550238355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973767876550238355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜我是女孩子我要当可可爱爱的女孩子呜呜呜……要是我是女孩子的话就能更接近她了吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 423,
+          "like_count": 3085,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 762
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T06:04:26.000Z",
+        "description": "咱喵是女孩子哦！（只不过有把而已呜呜呜……）",
+        "id": "1819977611336163328",
+        "location": "Tokyo-to, Japan",
+        "name": "Yuki～nya",
+        "pinned_tweet_id": "1965637996289704377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889616857550008320/ob4VQLuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1299,
+          "like_count": 3297,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 452
+        },
+        "username": "XZLT1206",
+        "verified": false
+      }
+    ]
+  }
+}

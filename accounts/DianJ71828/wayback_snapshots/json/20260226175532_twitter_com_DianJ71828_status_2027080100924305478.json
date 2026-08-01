@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026940677746209026",
+    "created_at": "2026-02-26T17:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027080100924305478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828234384949891072",
+          "start": 0,
+          "username": "linglingml77780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027080100924305478",
+    "in_reply_to_user_id": "1828234384949891072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027012794462417187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linglingml77780 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026940677746209026",
+        "created_at": "2026-02-26T17:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027080100924305478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828234384949891072",
+              "start": 0,
+              "username": "linglingml77780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027080100924305478",
+        "in_reply_to_user_id": "1828234384949891072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027012794462417187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linglingml77780 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828234384949891072",
+        "conversation_id": "2026940677746209026",
+        "created_at": "2026-02-26T13:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027012794462417187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027012794462417187",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026940677746209026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 那感觉我运气还算好的，就只有推特登不上，现在一直在用网页版了(ಡωಡ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 748,
+          "like_count": 10746,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2047
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T00:53:58.000Z",
+        "description": "偶尔浏览推特，大部分时间在晚上",
+        "id": "1828234384949891072",
+        "location": "私立直江津高等学校3年1班、\n\n",
+        "name": "阿良良木历",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828234530697732096/o1RjqKNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 256,
+          "like_count": 13041,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1434
+        },
+        "username": "linglingml77780",
+        "verified": false
+      }
+    ]
+  }
+}

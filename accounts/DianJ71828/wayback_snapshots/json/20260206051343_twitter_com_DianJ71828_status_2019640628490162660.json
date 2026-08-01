@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2019640628490162660",
+    "created_at": "2026-02-06T05:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T06:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019640628490162660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bghtnya/status/2019634761426432465",
+          "start": 6,
+          "url": "https://t.co/KigJxnYFNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019640628490162660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019634761426432465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神秘三幻神 https://t.co/KigJxnYFNO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019634750231863296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcvGtea4AAfy1l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2019640628490162660",
+        "created_at": "2026-02-06T05:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019640628490162660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bghtnya/status/2019634761426432465",
+              "start": 6,
+              "url": "https://t.co/KigJxnYFNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019640628490162660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019634761426432465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神秘三幻神 https://t.co/KigJxnYFNO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019634750231863296"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019634761426432465",
+        "created_at": "2026-02-06T04:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019634761426432465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBtMmsngf8",
+              "end": 149,
+              "expanded_url": "https://x.com/bghtnya/status/2019634761426432465/photo/1",
+              "media_key": "3_2019634750231863296",
+              "start": 126,
+              "url": "https://t.co/XBtMmsngf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019634761426432465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "必须批评现在的跨圈具有软弱性，（冰主席作出重要指示），换句话说 现在的木桶饭对人太好了 总是作为好人 遇到困难就让步 遇到威胁就妥协。但是这样的性格换来的危害却是巨大的 比如互联网上对跨圈 也就一味的批判 ，不做任何反驳的情况下 这种批判只会越来越重 可以横向对比一下国外，相对来说中国的木桶饭还是太保守了，离武装起义这么遥远 连游行示威都没有过\n\n但事实上确是，好人不长命 王八活千年\n这个好人有必要一直当下去吗？正确的做法应该是哪里有压迫 哪里就该反抗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "必须批评现在的跨圈具有软弱性，（冰主席作出重要指示），换句话说 现在的木桶饭对人太好了 总是作为好人 遇到困难就让步 遇到威胁就妥协。但是这样的性格换来的危害却是巨大的 比如互联网上对跨圈 也就一味的批判 ，不做任何反驳的情况下 这种批判只会越来越重 https://t.co/XBtMmsngf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 629,
+          "like_count": 6275,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1364
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8839,
+          "following_count": 2064,
+          "like_count": 171991,
+          "listed_count": 18,
+          "media_count": 3708,
+          "tweet_count": 45121
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

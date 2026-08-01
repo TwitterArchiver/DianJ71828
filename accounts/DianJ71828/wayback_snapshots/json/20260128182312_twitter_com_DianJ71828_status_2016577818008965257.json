@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2016407638482035063",
+    "created_at": "2026-01-28T18:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T19:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016577818008965257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459356998097850370",
+          "start": 0,
+          "username": "Aequoia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016577818008965257",
+    "in_reply_to_user_id": "1459356998097850370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016504994376417322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aequoia1 我在青岛，感觉还好。不知道真上了社会会怎么样，唉，走一步看一步吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2016407638482035063",
+        "created_at": "2026-01-28T18:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016577818008965257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459356998097850370",
+              "start": 0,
+              "username": "Aequoia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016577818008965257",
+        "in_reply_to_user_id": "1459356998097850370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016504994376417322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aequoia1 我在青岛，感觉还好。不知道真上了社会会怎么样，唉，走一步看一步吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459356998097850370",
+        "conversation_id": "2016407638482035063",
+        "created_at": "2026-01-28T13:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016504994376417322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016504994376417322",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016407638482035063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 一些大城市还是比较包容的\n但是稍微保守一点的地方就差得不得了了\n如果有能力润尽量润"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/家长放养👀/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 533,
+          "like_count": 5396,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1151
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T03:06:53.000Z",
+        "description": "If you’ve chosen life, then choose to live.",
+        "id": "1459356998097850370",
+        "name": "Ich1noseyukI🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637329154960916480/-ulZkX_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 277,
+          "like_count": 3042,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 552
+        },
+        "username": "Aequoia1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960678706856517918",
+    "created_at": "2025-08-27T23:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T00:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960852392221831384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520156802368753664",
+          "start": 0,
+          "username": "sisiisablackcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960852392221831384",
+    "in_reply_to_user_id": "1520156802368753664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960678706856517918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisiisablackcat 不是，？你这家伙真的是人类吗？()"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 242,
+        "media_key": "3_1960678700036579331",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzW647pa4AMoGX_.jpg",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960678706856517918",
+        "created_at": "2025-08-27T23:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T00:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960852392221831384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520156802368753664",
+              "start": 0,
+              "username": "sisiisablackcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960852392221831384",
+        "in_reply_to_user_id": "1520156802368753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960678706856517918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisiisablackcat 不是，？你这家伙真的是人类吗？()"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960678700036579331"
+          ]
+        },
+        "author_id": "1520156802368753664",
+        "conversation_id": "1960678706856517918",
+        "created_at": "2025-08-27T12:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960678706856517918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFk7U7hQMN",
+              "end": 51,
+              "expanded_url": "https://x.com/sisiisablackcat/status/1960678706856517918/photo/1",
+              "media_key": "3_1960678700036579331",
+              "start": 28,
+              "url": "https://t.co/lFk7U7hQMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960678706856517918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 632,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次煮屎加了不少胡萝卜\n屎变得好甜\n不知道有没有关系（ https://t.co/lFk7U7hQMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 191,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 290
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "location": "阴暗的小窝",
+        "name": "肆肆肆肆丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929816592902418432/BVj7wg8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 311,
+          "like_count": 20791,
+          "listed_count": 8,
+          "media_count": 5389,
+          "tweet_count": 16143
+        },
+        "username": "sisiisablackcat",
+        "verified": false
+      }
+    ]
+  }
+}

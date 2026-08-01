@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960161558107169225",
+    "created_at": "2025-08-28T01:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T02:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960872777294209534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960872777294209534",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960161558107169225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 等等你这是什么炮？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960161558107169225",
+        "created_at": "2025-08-28T01:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960872777294209534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960872777294209534",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960161558107169225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 等等你这是什么炮？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "1960161558107169225",
+        "created_at": "2025-08-26T02:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T03:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960161558107169225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960161558107169225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "七夕找个炮友 要求年龄在18至25岁之间，身高160cm以上，体型符合北约标准（BMI不超过25，且不低于18.5），视力不低于0.8（或通过军事标准矫正），熟练掌握北约炮兵作战理论与实践，包括但不限于以下内容：\n 1. 掌握北约统一火炮战术与指挥用语，以及常见炮兵武器系统操作规程（如M777榴弹炮、PzH 2000自行火炮、HIMARS高机动火箭炮系统）。\n 2. 熟悉炮兵连队的战斗编组、火力覆盖策略和弹道分析。\n 3. 能够独立完成目标距离测定、方位判定、目标指示以及火力计划制定。\n 4. 精通弹道计算器和火力指挥系统（如AFATDS、IBC等）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 207385,
+          "like_count": 1142,
+          "quote_count": 11,
+          "reply_count": 94,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "七夕找个炮友 要求年龄在18至25岁之间，身高160cm以上，体型符合北约标准（BMI不超过25，且不低于18.5），视力不低于0.8（或通过军事标准矫正），熟练掌握北约炮兵作战理论与实践，包括但不限于以下内容：\n 1. 掌握北约统一火炮战术与指挥用语，以及常见炮兵武器系统操作规程（如M777榴弹炮、PzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 199,
+          "like_count": 1743,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 309
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76644,
+          "following_count": 622,
+          "like_count": 30223,
+          "listed_count": 244,
+          "media_count": 11808,
+          "tweet_count": 16649
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2027292289723408426",
+    "created_at": "2026-02-28T01:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027555611676942755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846942105324998658",
+          "start": 0,
+          "username": "qb9b2agkzg52143"
+        },
+        {
+          "end": 30,
+          "id": "1699985068721082368",
+          "start": 17,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027555611676942755",
+    "in_reply_to_user_id": "1846942105324998658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027403726051328048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qb9b2agkzg52143 @RX_Xron28390 666那不好意思😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2027292289723408426",
+        "created_at": "2026-02-28T01:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027555611676942755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846942105324998658",
+              "start": 0,
+              "username": "qb9b2agkzg52143"
+            },
+            {
+              "end": 30,
+              "id": "1699985068721082368",
+              "start": 17,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027555611676942755",
+        "in_reply_to_user_id": "1846942105324998658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027403726051328048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qb9b2agkzg52143 @RX_Xron28390 666那不好意思😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846942105324998658",
+        "conversation_id": "2027292289723408426",
+        "created_at": "2026-02-27T15:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027403726051328048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            },
+            {
+              "end": 25,
+              "id": "1699985068721082368",
+              "start": 12,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027403726051328048",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027401908860895352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 @RX_Xron28390 666我连个脏字都没带被认成在骂人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 501,
+          "like_count": 11080,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2125
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T15:51:43.000Z",
+        "description": "在？借点\n没钱吃草了",
+        "id": "1846942105324998658",
+        "name": "爱吃草的凉学姐",
+        "pinned_tweet_id": "2023092751068492087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021270537524379648/2Q6SIyU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 112,
+          "like_count": 7141,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3219
+        },
+        "username": "qb9b2agkzg52143",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人 /paradox社战犯/超级地球赛博斯坦指定冻肉 Anti-trans，德皇kaiser：@sanitf1 向伟大的BVVD，俄联邦致敬🇷🇺🇩🇪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑣𝑜𝑛 𝑉𝑒𝑟𝑑𝑢𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2006384462209142895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993498827278401536/FkldZrF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 113,
+          "like_count": 2494,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 2222
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      }
+    ]
+  }
+}

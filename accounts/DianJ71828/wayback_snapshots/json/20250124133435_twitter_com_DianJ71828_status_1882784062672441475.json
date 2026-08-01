@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1882782854536716586",
+    "created_at": "2025-01-24T13:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T14:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882784062672441475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729273790616817664",
+          "start": 0,
+          "username": "AkiHaneQvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882784062672441475",
+    "in_reply_to_user_id": "1729273790616817664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882782854536716586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiHaneQvQ 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882782854536716586",
+        "created_at": "2025-01-24T13:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T14:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882784062672441475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729273790616817664",
+              "start": 0,
+              "username": "AkiHaneQvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882784062672441475",
+        "in_reply_to_user_id": "1729273790616817664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882782854536716586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiHaneQvQ 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882782849990029312"
+          ]
+        },
+        "author_id": "1729273790616817664",
+        "conversation_id": "1882782854536716586",
+        "created_at": "2025-01-24T13:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T14:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882782854536716586"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "药娘"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "伪娘"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "femboy"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "mtf"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTxAHOepqc",
+              "end": 72,
+              "expanded_url": "https://x.com/AkiHaneQvQ/status/1882782854536716586/photo/1",
+              "media_key": "3_1882782849990029312",
+              "start": 49,
+              "url": "https://t.co/LTxAHOepqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882782854536716586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #药娘 #伪娘 #femboy #mtf #男の娘\n咗眼，鼡唻莣汜沵，祐眼，鼡唻汜炷沵⭐ https://t.co/LTxAHOepqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 143,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 140
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T22:59:42.000Z",
+        "description": "*想变好看的普通男娘\n                                                                 无门槛，不线下，不擅长社交，qq群:836737765\n  B站抖音同名",
+        "id": "1729273790616817664",
+        "location": "传火祭祀场",
+        "name": "秋羽Akihane",
+        "pinned_tweet_id": "1876173852218409002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878532076397572096/VCSHkcf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9447,
+          "following_count": 183,
+          "like_count": 1191,
+          "listed_count": 37,
+          "media_count": 22,
+          "tweet_count": 225
+        },
+        "username": "AkiHaneQvQ",
+        "verified": false
+      }
+    ]
+  }
+}

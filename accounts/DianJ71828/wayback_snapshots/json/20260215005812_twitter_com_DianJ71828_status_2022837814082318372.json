@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022837814082318372",
+    "created_at": "2026-02-15T00:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022837814082318372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ye_Redemption/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Ye_Redemption/status/2013463359094440322",
+          "start": 24,
+          "url": "https://t.co/OMYs59tOMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022837814082318372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013463359094440322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去我去，这个玩具感觉好牛逼啊！我想买。。。。 https://t.co/OMYs59tOMU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96650,
+        "height": 1068,
+        "media_key": "13_2013463120740597760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013463120740597760/img/sCbOpRX0w99sSewL.jpg",
+        "public_metrics": {
+          "view_count": 156891
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013463120740597760/vid/avc1/992x1068/akKGgSFFkKxBQD0v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013463120740597760/vid/avc1/480x516/luzvz-6w3zYKukh0.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013463120740597760/vid/avc1/320x344/eiPpDhCDXiQCClqB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013463120740597760/vid/avc1/720x774/oizkslRtsEJpHlw-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013463120740597760/pl/MirgIEN2MWFB5YD4.m3u8"
+          }
+        ],
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022837814082318372",
+        "created_at": "2026-02-15T00:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022837814082318372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ye_Redemption/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Ye_Redemption/status/2013463359094440322",
+              "start": 24,
+              "url": "https://t.co/OMYs59tOMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022837814082318372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013463359094440322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去我去，这个玩具感觉好牛逼啊！我想买。。。。 https://t.co/OMYs59tOMU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013463120740597760"
+          ]
+        },
+        "author_id": "1596767893",
+        "conversation_id": "2013463359094440322",
+        "created_at": "2026-01-20T04:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013463359094440322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1986048922272550912",
+              "start": 69,
+              "username": "DeanWtst84156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aBwRH2c9I",
+              "end": 107,
+              "expanded_url": "https://x.com/Ye_Redemption/status/2013463359094440322/video/1",
+              "media_key": "13_2013463120740597760",
+              "start": 84,
+              "url": "https://t.co/7aBwRH2c9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013463359094440322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3792,
+          "impression_count": 481975,
+          "like_count": 12294,
+          "quote_count": 2,
+          "reply_count": 66,
+          "retweet_count": 976
+        },
+        "reply_settings": "everyone",
+        "text": "🥵Wanna help me play this toy? Huh~ 🌹\nChudai🍑\n\n色色触手，点赞观看战败CG ♡ ♡ ♡\n玩具：@DeanWtst84156 https://t.co/7aBwRH2c9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 729,
+          "like_count": 9051,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1744
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-15T20:58:38.000Z",
+        "description": "Asian Femboy /Kpop Dancer❤️/18/男/ 😘完整视频：https://t.co/2wFTWBhejJ | Sub: https://t.co/rSxnc0HfiJ | https://t.co/zSZCSZDb4y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sdfkw.xyz//links/655B7009",
+                "end": 63,
+                "expanded_url": "https://www.sdfkw.xyz//links/655B7009",
+                "start": 40,
+                "url": "https://t.co/2wFTWBhejJ"
+              },
+              {
+                "display_url": "patreon.com/ReddieXieBao",
+                "end": 94,
+                "expanded_url": "http://patreon.com/ReddieXieBao",
+                "start": 71,
+                "url": "https://t.co/rSxnc0HfiJ"
+              },
+              {
+                "display_url": "fansly.com/Reddiepop",
+                "end": 120,
+                "expanded_url": "https://fansly.com/Reddiepop",
+                "start": 97,
+                "url": "https://t.co/zSZCSZDb4y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/YeRedemption",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/YeRedemption",
+                "start": 0,
+                "url": "https://t.co/aWO9uRb1H6"
+              }
+            ]
+          }
+        },
+        "id": "1596767893",
+        "location": "Sydney🇦🇺(wanna make friends)",
+        "name": "✨叶宝Reddie 🍃🔞",
+        "pinned_tweet_id": "2021797507001671981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926132824492396544/7Lzs0rLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180719,
+          "following_count": 568,
+          "like_count": 5189,
+          "listed_count": 842,
+          "media_count": 556,
+          "tweet_count": 4775
+        },
+        "url": "https://t.co/aWO9uRb1H6",
+        "username": "Ye_Redemption",
+        "verified": true
+      }
+    ]
+  }
+}

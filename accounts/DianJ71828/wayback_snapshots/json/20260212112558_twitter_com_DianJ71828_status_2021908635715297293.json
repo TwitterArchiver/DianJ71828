@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021527344238780416"
+      ],
+      "media_source_tweet_id": [
+        "2021527366192001066"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021908635715297293",
+    "created_at": "2026-02-12T11:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021908635715297293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1313647919908745220",
+          "start": 3,
+          "username": "7i__g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ALSVBQmISR",
+          "end": 34,
+          "expanded_url": "https://x.com/7i__g/status/2021527366192001066/photo/1",
+          "media_key": "3_2021527344238780416",
+          "start": 11,
+          "url": "https://t.co/ALSVBQmISR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021908635715297293",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021527366192001066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7i__g: https://t.co/ALSVBQmISR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1237,
+        "media_key": "3_2021527344238780416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3oaLkXYAAk9Tp.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021527344238780416"
+          ],
+          "media_source_tweet_id": [
+            "2021527366192001066"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2021908635715297293",
+        "created_at": "2026-02-12T11:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021908635715297293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1313647919908745220",
+              "start": 3,
+              "username": "7i__g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALSVBQmISR",
+              "end": 34,
+              "expanded_url": "https://x.com/7i__g/status/2021527366192001066/photo/1",
+              "media_key": "3_2021527344238780416",
+              "start": 11,
+              "url": "https://t.co/ALSVBQmISR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021908635715297293",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021527366192001066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7i__g: https://t.co/ALSVBQmISR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021527344238780416"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2021527366192001066",
+        "created_at": "2026-02-11T10:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021527366192001066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALSVBQmISR",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2021527366192001066/photo/1",
+              "media_key": "3_2021527344238780416",
+              "start": 0,
+              "url": "https://t.co/ALSVBQmISR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021527366192001066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 212190,
+          "like_count": 11403,
+          "quote_count": 197,
+          "reply_count": 45,
+          "retweet_count": 2207
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ALSVBQmISR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 713,
+          "like_count": 8113,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1646
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "name": "ًً",
+        "pinned_tweet_id": "2020143277861687409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11784,
+          "following_count": 191,
+          "like_count": 369932,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 3669
+        },
+        "username": "7i__g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2061789306373701650",
+    "created_at": "2026-06-02T12:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061789306373701650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1227uwu/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/1227uwu/status/2061300987911114899",
+          "start": 6,
+          "url": "https://t.co/uAamVXzXM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061789306373701650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061300987911114899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是口碑 https://t.co/uAamVXzXM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2061300977412739072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJs2UVXaEAA46If.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2061789306373701650",
+        "created_at": "2026-06-02T12:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061789306373701650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1227uwu/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/1227uwu/status/2061300987911114899",
+              "start": 6,
+              "url": "https://t.co/uAamVXzXM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061789306373701650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061300987911114899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是口碑 https://t.co/uAamVXzXM6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061300977412739072"
+          ]
+        },
+        "author_id": "1596794857179459584",
+        "conversation_id": "2061300987911114899",
+        "created_at": "2026-06-01T04:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061300987911114899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6qfK0yqt5",
+              "end": 123,
+              "expanded_url": "https://x.com/1227uwu/status/2061300987911114899/photo/1",
+              "media_key": "3_2061300977412739072",
+              "start": 100,
+              "url": "https://t.co/b6qfK0yqt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061300987911114899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 30955,
+          "like_count": 377,
+          "quote_count": 5,
+          "reply_count": 50,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "握草我被晶哥上门了，然后他给我的药盒拍照然后问我有没有过量使用的情况，我说没有我普瑞巴林一直是一天两粒睡前吃，然后他要看我手机翻我QQ空间，就看到了这条，问我“你还玩重度依赖？”就把我带去公安局了。 https://t.co/b6qfK0yqt5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 523,
+          "like_count": 12800,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 2555
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:15:49.000Z",
+        "description": "bpd｜asd｜泛性恋｜友跨｜自残🈶 | 精神状态不是很良好｜可以私信互fo但是我会查成分选择性回｜仅记录生活｜有需要可以陪你聊天不用钱",
+        "id": "1596794857179459584",
+        "name": "今天过得还好吗",
+        "pinned_tweet_id": "2060295656242299093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597873722852970498/Zq1iYwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 66,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 135
+        },
+        "username": "1227uwu",
+        "verified": false
+      }
+    ]
+  }
+}

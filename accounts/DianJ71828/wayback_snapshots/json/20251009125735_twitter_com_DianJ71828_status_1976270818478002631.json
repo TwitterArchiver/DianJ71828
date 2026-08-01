@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1976270818478002631",
+    "created_at": "2025-10-09T12:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T13:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976270818478002631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DrSunan2022422…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/DrSunan2022422/status/1976098485717086308",
+          "start": 22,
+          "url": "https://t.co/4hUXInrjdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976270818478002631",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976098485717086308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "容貌焦虑这一块₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/4hUXInrjdP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1976270818478002631",
+        "created_at": "2025-10-09T12:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976270818478002631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DrSunan2022422…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/DrSunan2022422/status/1976098485717086308",
+              "start": 22,
+              "url": "https://t.co/4hUXInrjdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976270818478002631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976098485717086308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "容貌焦虑这一块₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/4hUXInrjdP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529658600649539584",
+        "conversation_id": "1976098485717086308",
+        "created_at": "2025-10-09T01:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T02:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976098485717086308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/1976071428807197130",
+              "start": 5,
+              "url": "https://t.co/Whhldi5bBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976098485717086308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976071428807197130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是丑逼 https://t.co/Whhldi5bBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 499,
+          "like_count": 3821,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 875
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过女高 | 要素过多 | 啥都能聊 | | 业余喜欢写小说 |睿智的P社玩家 🏳‍⚧｜2026 SRS 手术准备中",
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "🍥MTF....Dr.Sunan🏳‍⚧🍥🐾",
+        "pinned_tweet_id": "1972638421824016459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 315,
+          "like_count": 17610,
+          "listed_count": 8,
+          "media_count": 174,
+          "tweet_count": 3356
+        },
+        "username": "DrSunan2022422",
+        "verified": false
+      }
+    ]
+  }
+}

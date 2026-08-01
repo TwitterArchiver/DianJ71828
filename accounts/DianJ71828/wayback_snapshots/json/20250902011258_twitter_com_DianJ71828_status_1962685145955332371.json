@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1962685145955332371",
+    "created_at": "2025-09-02T01:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T02:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962685145955332371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saoweve/status…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/saoweve/status/1962630869308580060",
+          "start": 41,
+          "url": "https://t.co/5u6qZ2ayeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962685145955332371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962630869308580060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和我做朋友的条件🍣\n1必须一直活着，不能似了🍟\n2就算似了，也要变成鬼👻来找我🍦 https://t.co/5u6qZ2ayeh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962685145955332371",
+        "created_at": "2025-09-02T01:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T02:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962685145955332371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saoweve/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/saoweve/status/1962630869308580060",
+              "start": 41,
+              "url": "https://t.co/5u6qZ2ayeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962685145955332371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962630869308580060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和我做朋友的条件🍣\n1必须一直活着，不能似了🍟\n2就算似了，也要变成鬼👻来找我🍦 https://t.co/5u6qZ2ayeh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1962630869308580060",
+        "created_at": "2025-09-01T21:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T22:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962630869308580060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962630869308580060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 693,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "和我做朋友的条件\n\n1、必须一直活着，不能似了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 268,
+          "like_count": 2185,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 516
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜男的 & 不翻车 & 不是男娘从未女装｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1960677477581512828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959236243205804032/-RNaW-TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5989,
+          "following_count": 409,
+          "like_count": 31942,
+          "listed_count": 16,
+          "media_count": 1895,
+          "tweet_count": 17295
+        },
+        "username": "saoweve",
+        "verified": true
+      }
+    ]
+  }
+}

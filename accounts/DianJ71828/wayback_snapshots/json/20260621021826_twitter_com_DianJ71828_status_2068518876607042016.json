@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2068302906181444049",
+    "created_at": "2026-06-21T02:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068518876607042016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684411421256466432",
+          "start": 0,
+          "username": "xiaomeinuya_GST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068518876607042016",
+    "in_reply_to_user_id": "1684411421256466432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068302906181444049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeinuya_GST 没有进行激素治疗，等于身体还留有男性的欲望，男性的能力，谁知道在睾酮的影响下会干出什么事情。\n我觉得这是危险的，虽然我嘴上会承认跨性别可以不hrt，但心里不会真的认为他是女生的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 446,
+        "media_key": "3_2068302900200435713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQWh4ZbcAEFOOt.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2068302906181444049",
+        "created_at": "2026-06-21T02:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068518876607042016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684411421256466432",
+              "start": 0,
+              "username": "xiaomeinuya_GST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068518876607042016",
+        "in_reply_to_user_id": "1684411421256466432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068302906181444049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeinuya_GST 没有进行激素治疗，等于身体还留有男性的欲望，男性的能力，谁知道在睾酮的影响下会干出什么事情。\n我觉得这是危险的，虽然我嘴上会承认跨性别可以不hrt，但心里不会真的认为他是女生的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068302900200435713"
+          ]
+        },
+        "author_id": "1684411421256466432",
+        "conversation_id": "2068302906181444049",
+        "created_at": "2026-06-20T12:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068302906181444049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGlYGCQiEn",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaomeinuya_GST/status/2068302906181444049/photo/1",
+              "media_key": "3_2068302900200435713",
+              "start": 8,
+              "url": "https://t.co/bGlYGCQiEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068302906181444049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2899,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不吃藥跨你媽呢 https://t.co/bGlYGCQiEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 519,
+          "like_count": 12821,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 2590
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 60kg 39码/INFP/hrt2026.02.10/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "location": "天安门",
+        "name": "顾诗钿.🍥",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 90,
+          "like_count": 18295,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1858
+        },
+        "url": "",
+        "username": "xiaomeinuya_GST",
+        "verified": false
+      }
+    ]
+  }
+}

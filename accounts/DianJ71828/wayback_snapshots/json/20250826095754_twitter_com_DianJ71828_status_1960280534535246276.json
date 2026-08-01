@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960280530622263296"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960280523319738734",
+    "created_at": "2025-08-26T09:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T10:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960280534535246276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GtRFCZPSRk",
+          "end": 33,
+          "expanded_url": "https://x.com/DianJ71828/status/1960280534535246276/photo/1",
+          "media_key": "3_1960280530622263296",
+          "start": 10,
+          "url": "https://t.co/GtRFCZPSRk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960280534535246276",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960280523319738734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那就别怪我追着杀了 https://t.co/GtRFCZPSRk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960280530622263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRQwa_asAAhXT2.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960280494794485760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRQuVhaMAArcve.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960280495809593344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRQuZTbgAA6DlA.jpg",
+        "width": 922
+      },
+      {
+        "height": 737,
+        "media_key": "3_1960280492634484737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRQuNebMAEjmAI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960280520237170688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRQv0TawAADS7z.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960280530622263296"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960280523319738734",
+        "created_at": "2025-08-26T09:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960280534535246276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtRFCZPSRk",
+              "end": 33,
+              "expanded_url": "https://x.com/DianJ71828/status/1960280534535246276/photo/1",
+              "media_key": "3_1960280530622263296",
+              "start": 10,
+              "url": "https://t.co/GtRFCZPSRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960280534535246276",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960280523319738734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那就别怪我追着杀了 https://t.co/GtRFCZPSRk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960280494794485760",
+            "3_1960280495809593344",
+            "3_1960280492634484737",
+            "3_1960280520237170688"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960280523319738734",
+        "created_at": "2025-08-26T09:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960280523319738734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJdvP5rvjH",
+              "end": 56,
+              "expanded_url": "https://x.com/DianJ71828/status/1960280523319738734/photo/1",
+              "media_key": "3_1960280494794485760",
+              "start": 33,
+              "url": "https://t.co/fJdvP5rvjH"
+            },
+            {
+              "display_url": "pic.x.com/fJdvP5rvjH",
+              "end": 56,
+              "expanded_url": "https://x.com/DianJ71828/status/1960280523319738734/photo/1",
+              "media_key": "3_1960280495809593344",
+              "start": 33,
+              "url": "https://t.co/fJdvP5rvjH"
+            },
+            {
+              "display_url": "pic.x.com/fJdvP5rvjH",
+              "end": 56,
+              "expanded_url": "https://x.com/DianJ71828/status/1960280523319738734/photo/1",
+              "media_key": "3_1960280492634484737",
+              "start": 33,
+              "url": "https://t.co/fJdvP5rvjH"
+            },
+            {
+              "display_url": "pic.x.com/fJdvP5rvjH",
+              "end": 56,
+              "expanded_url": "https://x.com/DianJ71828/status/1960280523319738734/photo/1",
+              "media_key": "3_1960280520237170688",
+              "start": 33,
+              "url": "https://t.co/fJdvP5rvjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960280523319738734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啧啧啧，就这点抗压能力就敢带着满脑子迂腐出来跟我对线？\n废物劳中 https://t.co/fJdvP5rvjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 182,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 265
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

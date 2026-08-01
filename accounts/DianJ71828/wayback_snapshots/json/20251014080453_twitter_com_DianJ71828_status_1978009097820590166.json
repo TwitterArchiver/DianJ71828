@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1978005621216817593",
+    "created_at": "2025-10-14T08:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978009097820590166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "Shadow01175"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978009097820590166",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978008014516060293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shadow01175 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1978005621216817593",
+        "created_at": "2025-10-14T08:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978009097820590166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "Shadow01175"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978009097820590166",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978008014516060293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shadow01175 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1978005621216817593",
+        "created_at": "2025-10-14T08:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978008014516060293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978008014516060293",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978005621216817593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 我也爱上你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 506,
+          "like_count": 4019,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 888
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "転生しよう\n💗世界上最好的猫猫@Guxislxnxy⛓️@zqtlovekris99 @GuiMengNya FF：@doreen129_Nox @Kazumasski Sub：@404DataError",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Guxislxnxy"
+              },
+              {
+                "end": 42,
+                "start": 28,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "GuiMengNya"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "doreen129_Nox"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "404DataError"
+              }
+            ]
+          }
+        },
+        "id": "1831984756432760832",
+        "location": "0.01km",
+        "name": "Shadow*",
+        "pinned_tweet_id": "1978007836522410296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970349329551679488/xAGw1Pkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 487,
+          "like_count": 11800,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1499
+        },
+        "username": "Shadow01175",
+        "verified": false
+      }
+    ]
+  }
+}

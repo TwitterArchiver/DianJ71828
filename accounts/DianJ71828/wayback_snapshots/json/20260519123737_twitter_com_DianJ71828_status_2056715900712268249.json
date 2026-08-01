@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2056620860489032151",
+    "created_at": "2026-05-19T12:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056715900712268249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721757660855545856",
+          "start": 0,
+          "username": "axezombile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056715900712268249",
+    "in_reply_to_user_id": "1721757660855545856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056620860489032151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axezombile 我吃。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2056620821574291456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqVvaObkAACXJP.jpg",
+        "width": 1919
+      },
+      {
+        "duration_ms": 16399,
+        "height": 720,
+        "media_key": "7_2056620801789747200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056620801789747200/pu/img/PrC_tyyohCkt0T51.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056620801789747200/pu/vid/avc1/480x270/GGBkT467LndjGO7N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056620801789747200/pu/vid/avc1/640x360/Cn8wpYE7LMroDWpR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056620801789747200/pu/vid/avc1/1280x720/s3ISlOASNSBkTWCc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056620801789747200/pu/pl/dFI6u1LLOjLQkVmI.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 20120,
+        "height": 570,
+        "media_key": "7_2056620815995846656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056620815995846656/pu/img/WQcSw-deg8Ptfm_7.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056620815995846656/pu/vid/avc1/606x270/now0cXF2mGmvfbJO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056620815995846656/pu/vid/avc1/808x360/TdrLdelEHi7a3Gbg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056620815995846656/pu/vid/avc1/1280x570/twYJv3UFo7ADKjJ5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056620815995846656/pu/pl/0d9OUJrazb859l2j.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2056620860489032151",
+        "created_at": "2026-05-19T12:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056715900712268249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721757660855545856",
+              "start": 0,
+              "username": "axezombile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056715900712268249",
+        "in_reply_to_user_id": "1721757660855545856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056620860489032151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axezombile 我吃。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056620821574291456",
+            "7_2056620801789747200",
+            "7_2056620815995846656"
+          ]
+        },
+        "author_id": "1721757660855545856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056620860489032151",
+        "created_at": "2026-05-19T06:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056620860489032151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXxOnJmGeC",
+              "end": 79,
+              "expanded_url": "https://x.com/axezombile/status/2056620860489032151/video/1",
+              "media_key": "3_2056620821574291456",
+              "start": 56,
+              "url": "https://t.co/mXxOnJmGeC"
+            },
+            {
+              "display_url": "pic.x.com/mXxOnJmGeC",
+              "end": 79,
+              "expanded_url": "https://x.com/axezombile/status/2056620860489032151/video/1",
+              "media_key": "7_2056620801789747200",
+              "start": 56,
+              "url": "https://t.co/mXxOnJmGeC"
+            },
+            {
+              "display_url": "pic.x.com/mXxOnJmGeC",
+              "end": 79,
+              "expanded_url": "https://x.com/axezombile/status/2056620860489032151/video/1",
+              "media_key": "7_2056620815995846656",
+              "start": 56,
+              "url": "https://t.co/mXxOnJmGeC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056620860489032151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不该泌乳的，还想再长大点的...呜呜૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა૮⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ა😭😭😭😭 https://t.co/mXxOnJmGeC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 532,
+          "like_count": 12827,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 2548
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T05:13:28.000Z",
+        "description": "☆宅♂☆｜不可爱，丑逼｜166/56｜04｜有证含糖｜不接单｜🚪，纸飞机我用不了｜巨蟹♋｜神经质人格｜特点:粘人｜没事干可以找我聊天૮ ºﻌºა｜(不定时上推特有没有小可爱找我聊天，是男妈妈我们有救了！)",
+        "id": "1721757660855545856",
+        "name": "这个柚子不甜",
+        "pinned_tweet_id": "2050738428535619762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053153035845775360/n2WDNZ0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 83,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 890
+        },
+        "username": "axezombile",
+        "verified": false
+      }
+    ]
+  }
+}

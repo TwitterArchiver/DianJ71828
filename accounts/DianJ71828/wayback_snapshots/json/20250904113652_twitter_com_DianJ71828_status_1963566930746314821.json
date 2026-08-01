@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1963566930746314821",
+    "created_at": "2025-09-04T11:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T12:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963566930746314821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zezhe463149/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/zezhe463149/status/1963255401736294426",
+          "start": 20,
+          "url": "https://t.co/kpyKq0x40T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963566930746314821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963255401736294426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "₍˄·͈༝·͈˄*₎◞ ̑̑猫猫考虑中 https://t.co/kpyKq0x40T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1963566930746314821",
+        "created_at": "2025-09-04T11:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963566930746314821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zezhe463149/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/zezhe463149/status/1963255401736294426",
+              "start": 20,
+              "url": "https://t.co/kpyKq0x40T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963566930746314821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963255401736294426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "₍˄·͈༝·͈˄*₎◞ ̑̑猫猫考虑中 https://t.co/kpyKq0x40T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867755654070349824",
+        "conversation_id": "1963255401736294426",
+        "created_at": "2025-09-03T14:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T15:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963255401736294426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963255401736294426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 490,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "介绍一个简单的死法，把绳子挂在衣柜门上，套住脖子，人背靠着衣柜滑下来，就能勒死自己，如果你感到害怕，就挣扎几下站起来，但你想死的话，就保持这个样子\n这个死法表达的是，自杀者心里的痛苦，远远大于死的恐惧或身体上的痛苦，你想，人被勒死该有多难受，还得忍住不去挣扎脱生，他该有多绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 330,
+          "like_count": 2607,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 655
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:17:45.000Z",
+        "description": "人格分裂症——z猪头s嘶哑h环线y一心/经常刷屏",
+        "id": "1867755654070349824",
+        "location": "乐园",
+        "name": "折言",
+        "pinned_tweet_id": "1962923586802368517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962728073511489536/CsYWyWrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 263,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1118
+        },
+        "username": "zezhe463149",
+        "verified": false
+      }
+    ]
+  }
+}

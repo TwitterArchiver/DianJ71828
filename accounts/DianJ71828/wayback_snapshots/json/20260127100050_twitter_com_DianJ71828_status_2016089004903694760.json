@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2016089004903694760",
+    "created_at": "2026-01-27T10:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016089004903694760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662723831533027329",
+          "start": 3,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016089004903694760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015968347893203050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loong001116: 性别二元厕所从设计那一步就没有考虑过隐私，底下的缝大的随便一低头就能看到，两个隔间之间甚至可以不费吹灰之力爬过去。男厕小便池方便大家互相观赏彼此的小鸡鸡，大部分女厕和外部洗手池之间虽然出于隐私考虑曲折拐弯，但方便了强奸犯作案，里面发生了什么外面…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2016089004903694760",
+        "created_at": "2026-01-27T10:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016089004903694760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662723831533027329",
+              "start": 3,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016089004903694760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015968347893203050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loong001116: 性别二元厕所从设计那一步就没有考虑过隐私，底下的缝大的随便一低头就能看到，两个隔间之间甚至可以不费吹灰之力爬过去。男厕小便池方便大家互相观赏彼此的小鸡鸡，大部分女厕和外部洗手池之间虽然出于隐私考虑曲折拐弯，但方便了强奸犯作案，里面发生了什么外面…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2015968347893203050",
+        "created_at": "2026-01-27T02:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015968347893203050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015968347893203050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "性别二元厕所从设计那一步就没有考虑过隐私，底下的缝大的随便一低头就能看到，两个隔间之间甚至可以不费吹灰之力爬过去。男厕小便池方便大家互相观赏彼此的小鸡鸡，大部分女厕和外部洗手池之间虽然出于隐私考虑曲折拐弯，但方便了强奸犯作案，里面发生了什么外面也看不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/家长放养👀/时不时鉴证(实则天天发情💓)/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 531,
+          "like_count": 5288,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1123
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "仅仅只是激进酷儿主义，亲酷儿的女权和男权我都会关注，介意可block",
+        "id": "1662723831533027329",
+        "location": "Mars",
+        "name": "8骟顺✂️9图直🔪6劳荣枝4(🏳️‍🌈🏳️‍⚧互fo)",
+        "pinned_tweet_id": "2011815268020830292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008924596767260672/WIx1CBN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1211,
+          "like_count": 4118,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 3055
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1928106205672509886",
+    "created_at": "2025-05-30T04:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T05:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928310608245440708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1228638724583374848",
+          "start": 0,
+          "username": "Plantie_uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928310608245440708",
+    "in_reply_to_user_id": "1228638724583374848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928106205672509886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plantie_uwu 腰围62算细吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1928106205672509886",
+        "created_at": "2025-05-30T04:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T05:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928310608245440708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1228638724583374848",
+              "start": 0,
+              "username": "Plantie_uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928310608245440708",
+        "in_reply_to_user_id": "1228638724583374848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928106205672509886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plantie_uwu 腰围62算细吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228638724583374848",
+        "conversation_id": "1928106205672509886",
+        "created_at": "2025-05-29T15:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T16:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928106205672509886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928106205672509886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1892,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "球球腰变细教程，为什么有些男娘臀腰比这么好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 180,
+          "like_count": 1772,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 240
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T11:14:49.000Z",
+        "description": "They/them",
+        "id": "1228638724583374848",
+        "location": "bed",
+        "name": "plantie✨💡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10124,
+          "following_count": 1746,
+          "like_count": 18983,
+          "listed_count": 37,
+          "media_count": 972,
+          "tweet_count": 5690
+        },
+        "username": "Plantie_uwu",
+        "verified": false
+      }
+    ]
+  }
+}

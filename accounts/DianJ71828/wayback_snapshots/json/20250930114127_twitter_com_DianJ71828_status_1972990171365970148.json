@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1972660033763647786",
+    "created_at": "2025-09-30T11:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T12:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972990171365970148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960695526808281094",
+          "start": 0,
+          "username": "waztt520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972990171365970148",
+    "in_reply_to_user_id": "1960695526808281094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972978538300260689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waztt520 主播是耐活王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1972660033763647786",
+        "created_at": "2025-09-30T11:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972990171365970148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960695526808281094",
+              "start": 0,
+              "username": "waztt520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972990171365970148",
+        "in_reply_to_user_id": "1960695526808281094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972978538300260689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waztt520 主播是耐活王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960695526808281094",
+        "conversation_id": "1972660033763647786",
+        "created_at": "2025-09-30T10:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972978538300260689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972978538300260689",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972660033763647786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 666还活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 406,
+          "like_count": 2856,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 701
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T13:27:14.000Z",
+        "description": "一直以为我是颜控，后来是胸控，再后来觉得自己是臀控，腿控，短裙控，，现在我发现了，我就是单纯好色不受控\n\nI always thought I was a beauty enthusiast, then a chest enthusiast, and then I felt like I was a butt ent",
+        "id": "1960695526808281094",
+        "location": "Singapore",
+        "name": "折纸大湿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960947808510599170/yu0whSlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 58,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "username": "waztt520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952412695149600768"
+      ],
+      "media_source_tweet_id": [
+        "1952412990151811291"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022163221512434079",
+    "created_at": "2026-02-13T04:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022163221512434079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898403141705682944",
+          "start": 3,
+          "username": "UU_Bigs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RfMugRpWgM",
+          "end": 48,
+          "expanded_url": "https://x.com/UU_Bigs/status/1952412990151811291/video/1",
+          "media_key": "13_1952412695149600768",
+          "start": 25,
+          "url": "https://t.co/RfMugRpWgM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022163221512434079",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9302
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952412990151811291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UU_Bigs: wataa~~~~😝😜 https://t.co/RfMugRpWgM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022163221512434079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022163221512434079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022163221512434079"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34533,
+        "height": 1440,
+        "media_key": "13_1952412695149600768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952412695149600768/img/qpRwoXZGox2LZ75l.jpg",
+        "public_metrics": {
+          "view_count": 1747468
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952412695149600768/vid/avc1/320x426/apBqPoTQ36FPOjsF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952412695149600768/vid/avc1/480x640/Cx2Hi2Z269MmgIA5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952412695149600768/vid/avc1/720x960/fpx8kMdZnrKM1SnB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952412695149600768/pl/Mvf-2BJMpnkOO27C.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952412695149600768"
+          ]
+        },
+        "author_id": "1898403141705682944",
+        "conversation_id": "1952412990151811291",
+        "created_at": "2025-08-04T16:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952412990151811291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfMugRpWgM",
+              "end": 35,
+              "expanded_url": "https://x.com/UU_Bigs/status/1952412990151811291/video/1",
+              "media_key": "13_1952412695149600768",
+              "start": 12,
+              "url": "https://t.co/RfMugRpWgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952412990151811291",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 32473,
+          "impression_count": 4914708,
+          "like_count": 89410,
+          "quote_count": 61,
+          "reply_count": 169,
+          "retweet_count": 9302
+        },
+        "reply_settings": "everyone",
+        "text": "wataa~~~~😝😜 https://t.co/RfMugRpWgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 725,
+          "like_count": 8662,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1705
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T15:59:24.000Z",
+        "description": "#Cosplay\n中文/English/日本語\nSubscribe me=》：https://t.co/0xeOzMCaJI\n中國區訂閲=》https://t.co/1eQ6WYyeNN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Cosplay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/kaka2348",
+                "end": 62,
+                "expanded_url": "http://patreon.com/kaka2348",
+                "start": 39,
+                "url": "https://t.co/0xeOzMCaJI"
+              },
+              {
+                "display_url": "goods.boboka.org/links/5E21E38C",
+                "end": 93,
+                "expanded_url": "https://goods.boboka.org/links/5E21E38C",
+                "start": 70,
+                "url": "https://t.co/1eQ6WYyeNN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/uu2002",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/uu2002",
+                "start": 0,
+                "url": "https://t.co/3XxUVxVlh4"
+              }
+            ]
+          }
+        },
+        "id": "1898403141705682944",
+        "location": "Sub me/訂閲→",
+        "name": "UㅅU",
+        "pinned_tweet_id": "1952412990151811291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916501661377507328/JPWLR1AJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358286,
+          "following_count": 234,
+          "like_count": 49,
+          "listed_count": 1196,
+          "media_count": 24,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/3XxUVxVlh4",
+        "username": "UU_Bigs",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

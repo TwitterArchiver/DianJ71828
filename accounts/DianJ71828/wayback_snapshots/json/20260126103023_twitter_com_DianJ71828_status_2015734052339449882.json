@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2015734007598620672"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2015734052339449882",
+    "created_at": "2026-01-26T10:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015734052339449882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zkno5Fpo39",
+          "end": 32,
+          "expanded_url": "https://x.com/DianJ71828/status/2015734052339449882/video/1",
+          "media_key": "7_2015734007598620672",
+          "start": 9,
+          "url": "https://t.co/zkno5Fpo39"
+        },
+        {
+          "display_url": "x.com/Phoenix5276518…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Phoenix52765181/status/2015659337029652579",
+          "start": 33,
+          "url": "https://t.co/RmD2O46UhD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015734052339449882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015659337029652579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "边牧这个炸鱼犬啊 https://t.co/zkno5Fpo39 https://t.co/RmD2O46UhD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16462,
+        "height": 1280,
+        "media_key": "7_2015734007598620672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015734007598620672/pu/img/o-6OAfuBixcCvsrk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015734007598620672/pu/vid/avc1/320x568/iGj7VUlX0mBO9_V3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015734007598620672/pu/vid/avc1/480x852/CQfzv63jSwgwhvd7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015734007598620672/pu/vid/avc1/720x1280/Ubkaq-mo4k_DZuS5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015734007598620672/pu/pl/C9yGZwj8uTCQ2mNJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015734007598620672"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2015734052339449882",
+        "created_at": "2026-01-26T10:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015734052339449882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkno5Fpo39",
+              "end": 32,
+              "expanded_url": "https://x.com/DianJ71828/status/2015734052339449882/video/1",
+              "media_key": "7_2015734007598620672",
+              "start": 9,
+              "url": "https://t.co/zkno5Fpo39"
+            },
+            {
+              "display_url": "x.com/Phoenix5276518…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Phoenix52765181/status/2015659337029652579",
+              "start": 33,
+              "url": "https://t.co/RmD2O46UhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015734052339449882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015659337029652579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "边牧这个炸鱼犬啊 https://t.co/zkno5Fpo39 https://t.co/RmD2O46UhD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599423448471642112",
+        "conversation_id": "2015611901401600424",
+        "created_at": "2026-01-26T05:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015659337029652579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589022641511632896",
+              "start": 0,
+              "username": "xiaoyun678543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015659337029652579",
+        "in_reply_to_user_id": "1589022641511632896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16436,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015611901401600424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyun678543 理性讨论：相信此文的人和边牧哪个智商更高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 529,
+          "like_count": 5269,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1106
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T15:20:55.000Z",
+        "description": "温柔男孩",
+        "id": "1599423448471642112",
+        "name": "早川秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665656636026003458/KeW_tRKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 26,
+          "like_count": 936,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 989
+        },
+        "username": "Phoenix52765181",
+        "verified": false
+      }
+    ]
+  }
+}

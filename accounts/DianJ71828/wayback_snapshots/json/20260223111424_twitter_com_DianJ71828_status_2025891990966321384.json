@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025816566181588992"
+      ],
+      "media_source_tweet_id": [
+        "2025816568438132747"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2025891990966321384",
+    "created_at": "2026-02-23T11:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T12:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025891990966321384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1299312684991569920",
+          "start": 3,
+          "username": "DanJack67524194"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7WeRx6Px9I",
+          "end": 55,
+          "expanded_url": "https://x.com/DanJack67524194/status/2025816568438132747/photo/1",
+          "media_key": "3_2025816566181588992",
+          "start": 32,
+          "url": "https://t.co/7WeRx6Px9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025891990966321384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025816568438132747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanJack67524194: 什麼神人想出來的劇情 https://t.co/7WeRx6Px9I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 343,
+        "media_key": "3_2025816566181588992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0lbwda8AAfAGR.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025816566181588992"
+          ],
+          "media_source_tweet_id": [
+            "2025816568438132747"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2025891990966321384",
+        "created_at": "2026-02-23T11:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025891990966321384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1299312684991569920",
+              "start": 3,
+              "username": "DanJack67524194"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WeRx6Px9I",
+              "end": 55,
+              "expanded_url": "https://x.com/DanJack67524194/status/2025816568438132747/photo/1",
+              "media_key": "3_2025816566181588992",
+              "start": 32,
+              "url": "https://t.co/7WeRx6Px9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025891990966321384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025816568438132747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanJack67524194: 什麼神人想出來的劇情 https://t.co/7WeRx6Px9I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025816566181588992"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "2025816568438132747",
+        "created_at": "2026-02-23T06:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025816568438132747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WeRx6Px9I",
+              "end": 34,
+              "expanded_url": "https://x.com/DanJack67524194/status/2025816568438132747/photo/1",
+              "media_key": "3_2025816566181588992",
+              "start": 11,
+              "url": "https://t.co/7WeRx6Px9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025816568438132747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 122468,
+          "like_count": 1214,
+          "quote_count": 11,
+          "reply_count": 86,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "什麼神人想出來的劇情 https://t.co/7WeRx6Px9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 734,
+          "like_count": 9890,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1887
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\nthreads ：https://t.co/uiN3asDWEM\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@fox_sun_moon",
+                "end": 72,
+                "expanded_url": "https://www.threads.com/@fox_sun_moon",
+                "start": 49,
+                "url": "https://t.co/uiN3asDWEM"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 105,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 82,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊",
+        "pinned_tweet_id": "1995435811052060863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7820,
+          "following_count": 2017,
+          "like_count": 31489,
+          "listed_count": 24,
+          "media_count": 7409,
+          "tweet_count": 33431
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

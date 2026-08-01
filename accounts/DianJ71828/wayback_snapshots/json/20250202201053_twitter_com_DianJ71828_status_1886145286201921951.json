@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1886113585996366274",
+    "created_at": "2025-02-02T20:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T21:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886145286201921951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769594666977210368",
+          "start": 0,
+          "username": "aiaijiango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886145286201921951",
+    "in_reply_to_user_id": "1769594666977210368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886113585996366274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaijiango 来青找我贴贴罢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1886113585996366274",
+        "created_at": "2025-02-02T20:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T21:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886145286201921951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769594666977210368",
+              "start": 0,
+              "username": "aiaijiango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886145286201921951",
+        "in_reply_to_user_id": "1769594666977210368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886113585996366274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaijiango 来青找我贴贴罢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886113575049289728"
+          ]
+        },
+        "author_id": "1769594666977210368",
+        "conversation_id": "1886113585996366274",
+        "created_at": "2025-02-02T18:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T19:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886113585996366274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgN0ZDv6zO",
+              "end": 61,
+              "expanded_url": "https://x.com/aiaijiango/status/1886113585996366274/photo/1",
+              "media_key": "3_1886113575049289728",
+              "start": 38,
+              "url": "https://t.co/SgN0ZDv6zO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886113585996366274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 446,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃糖糖打针的小药娘都长这样，爱爱酱小药娘可爱捏💗 有没有想贴贴的xyn🤓👆 https://t.co/SgN0ZDv6zO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 158,
+          "like_count": 1275,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 167
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T05:21:16.000Z",
+        "description": "06年mtx 无证含糖已炸柜 177/67kg 肉肉系 坐标：重庆市 泛性恋偏4i/INTJ药娘，绝赞私信请直接入门 专业情感解说员 私信过🚪52口令红包 支持Btc ETH打赏",
+        "id": "1769594666977210368",
+        "location": "西安市",
+        "name": "爱爱酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1865614660667674704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837481333725286400/NofvTVn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6642,
+          "following_count": 100,
+          "like_count": 197,
+          "listed_count": 25,
+          "media_count": 93,
+          "tweet_count": 708
+        },
+        "username": "aiaijiango",
+        "verified": true
+      }
+    ]
+  }
+}

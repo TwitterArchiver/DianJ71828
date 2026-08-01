@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982787633995448320",
+        "3_1982787626894598144",
+        "3_1982787663246585856",
+        "3_1982787602995466240"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1982787669139636330",
+    "created_at": "2025-10-27T12:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T13:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982787669139636330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k0zYE6fTjY",
+          "end": 68,
+          "expanded_url": "https://x.com/DianJ71828/status/1982787669139636330/photo/1",
+          "media_key": "3_1982787633995448320",
+          "start": 45,
+          "url": "https://t.co/k0zYE6fTjY"
+        },
+        {
+          "display_url": "pic.x.com/k0zYE6fTjY",
+          "end": 68,
+          "expanded_url": "https://x.com/DianJ71828/status/1982787669139636330/photo/1",
+          "media_key": "3_1982787626894598144",
+          "start": 45,
+          "url": "https://t.co/k0zYE6fTjY"
+        },
+        {
+          "display_url": "pic.x.com/k0zYE6fTjY",
+          "end": 68,
+          "expanded_url": "https://x.com/DianJ71828/status/1982787669139636330/photo/1",
+          "media_key": "3_1982787663246585856",
+          "start": 45,
+          "url": "https://t.co/k0zYE6fTjY"
+        },
+        {
+          "display_url": "pic.x.com/k0zYE6fTjY",
+          "end": 68,
+          "expanded_url": "https://x.com/DianJ71828/status/1982787669139636330/photo/1",
+          "media_key": "3_1982787602995466240",
+          "start": 45,
+          "url": "https://t.co/k0zYE6fTjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982787669139636330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "由于家中只有软体塑料勺，我大胆尝试手扣椰子，给我手扣红了都没扣出来多少，已红温(指手😡) https://t.co/k0zYE6fTjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982787633995448320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RG2Q1WAAAoo2m.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982787626894598144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RG12YXoAA4KkO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982787663246585856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RG39zW8AAgRZF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982787602995466240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RG0dWX0AAApM-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982787633995448320",
+            "3_1982787626894598144",
+            "3_1982787663246585856",
+            "3_1982787602995466240"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1982787669139636330",
+        "created_at": "2025-10-27T12:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982787669139636330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0zYE6fTjY",
+              "end": 68,
+              "expanded_url": "https://x.com/DianJ71828/status/1982787669139636330/photo/1",
+              "media_key": "3_1982787633995448320",
+              "start": 45,
+              "url": "https://t.co/k0zYE6fTjY"
+            },
+            {
+              "display_url": "pic.x.com/k0zYE6fTjY",
+              "end": 68,
+              "expanded_url": "https://x.com/DianJ71828/status/1982787669139636330/photo/1",
+              "media_key": "3_1982787626894598144",
+              "start": 45,
+              "url": "https://t.co/k0zYE6fTjY"
+            },
+            {
+              "display_url": "pic.x.com/k0zYE6fTjY",
+              "end": 68,
+              "expanded_url": "https://x.com/DianJ71828/status/1982787669139636330/photo/1",
+              "media_key": "3_1982787663246585856",
+              "start": 45,
+              "url": "https://t.co/k0zYE6fTjY"
+            },
+            {
+              "display_url": "pic.x.com/k0zYE6fTjY",
+              "end": 68,
+              "expanded_url": "https://x.com/DianJ71828/status/1982787669139636330/photo/1",
+              "media_key": "3_1982787602995466240",
+              "start": 45,
+              "url": "https://t.co/k0zYE6fTjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982787669139636330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于家中只有软体塑料勺，我大胆尝试手扣椰子，给我手扣红了都没扣出来多少，已红温(指手😡) https://t.co/k0zYE6fTjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 529,
+          "like_count": 4061,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 906
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

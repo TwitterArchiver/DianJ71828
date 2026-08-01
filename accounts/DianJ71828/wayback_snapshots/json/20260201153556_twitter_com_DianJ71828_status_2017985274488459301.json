@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2017457494768161155",
+    "created_at": "2026-02-01T15:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017985274488459301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929261210148749312",
+          "start": 0,
+          "username": "qdbjxysddjh267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017985274488459301",
+    "in_reply_to_user_id": "1929261210148749312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017552672208130467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qdbjxysddjh267 这真的很遗憾，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2017457494768161155",
+        "created_at": "2026-02-01T15:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017985274488459301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929261210148749312",
+              "start": 0,
+              "username": "qdbjxysddjh267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017985274488459301",
+        "in_reply_to_user_id": "1929261210148749312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017552672208130467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qdbjxysddjh267 这真的很遗憾，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929261210148749312",
+        "conversation_id": "2017457494768161155",
+        "created_at": "2026-01-31T10:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017552672208130467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017552672208130467",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017457494768161155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 我只懂空杯的遗憾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 611,
+          "like_count": 6029,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1317
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T19:38:19.000Z",
+        "description": "深圳 药娘 陪玩陪吃不陪睡 萨莉亚大师",
+        "id": "1929261210148749312",
+        "location": "24小时可到机场",
+        "name": "电子天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929261460636741633/H601jgfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 143,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 333
+        },
+        "username": "qdbjxysddjh267",
+        "verified": false
+      }
+    ]
+  }
+}

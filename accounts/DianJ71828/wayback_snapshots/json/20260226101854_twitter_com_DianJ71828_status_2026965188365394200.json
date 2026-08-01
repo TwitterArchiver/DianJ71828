@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026965188365394200",
+    "created_at": "2026-02-26T10:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T11:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026965188365394200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/S_Hyoscine/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/S_Hyoscine/status/2026898364575658266",
+          "start": 25,
+          "url": "https://t.co/ezIDzXZ7k2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026965188365394200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026898364575658266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冰棍一定要撑住啊！！！！！😰😰😰😰😰😭😭😭😱😱😱 https://t.co/ezIDzXZ7k2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026898354534494210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCD9UIHaMAIWw5n.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026898354538688514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCD9UIIaMAItM8q.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026965188365394200",
+        "created_at": "2026-02-26T10:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026965188365394200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/S_Hyoscine/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/S_Hyoscine/status/2026898364575658266",
+              "start": 25,
+              "url": "https://t.co/ezIDzXZ7k2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026965188365394200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026898364575658266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冰棍一定要撑住啊！！！！！😰😰😰😰😰😭😭😭😱😱😱 https://t.co/ezIDzXZ7k2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026898354534494210",
+            "3_2026898354538688514"
+          ]
+        },
+        "author_id": "1935176310663401472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026898364575658266",
+        "created_at": "2026-02-26T05:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026898364575658266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojteTNCyF5",
+              "end": 31,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2026898364575658266/photo/1",
+              "media_key": "3_2026898354534494210",
+              "start": 8,
+              "url": "https://t.co/ojteTNCyF5"
+            },
+            {
+              "display_url": "pic.x.com/ojteTNCyF5",
+              "end": 31,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2026898364575658266/photo/1",
+              "media_key": "3_2026898354538688514",
+              "start": 8,
+              "url": "https://t.co/ojteTNCyF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026898364575658266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1324,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双 王 陨 落 https://t.co/ojteTNCyF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 742,
+          "like_count": 10506,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 1980
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "小药娘//自拍全在亮点里面（倒序）//抽象苹果粉//@hood438371无能的妻子//要是不喜欢你的发言和观点就可能会b你//知不可乎骤得，托遗响于悲风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "三里屯水果批发市场",
+        "name": "春雪狐与东莨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025044104519012352/D9OJNpIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 860,
+          "like_count": 22535,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 6075
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

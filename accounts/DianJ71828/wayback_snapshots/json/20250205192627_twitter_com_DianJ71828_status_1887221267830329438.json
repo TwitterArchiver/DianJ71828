@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1887221080701739083",
+    "created_at": "2025-02-05T19:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T20:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887221267830329438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652673033423962112",
+          "start": 0,
+          "username": "yuki2010Fe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887221267830329438",
+    "in_reply_to_user_id": "1652673033423962112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887221080701739083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki2010Fe 变质～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1887221080701739083",
+        "created_at": "2025-02-05T19:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T20:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887221267830329438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652673033423962112",
+              "start": 0,
+              "username": "yuki2010Fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887221267830329438",
+        "in_reply_to_user_id": "1652673033423962112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887221080701739083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki2010Fe 变质～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887221071465881602"
+          ]
+        },
+        "author_id": "1652673033423962112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1887221080701739083",
+        "created_at": "2025-02-05T19:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T20:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887221080701739083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQZPwZiZCi",
+              "end": 34,
+              "expanded_url": "https://x.com/yuki2010Fe/status/1887221080701739083/photo/1",
+              "media_key": "3_1887221071465881602",
+              "start": 11,
+              "url": "https://t.co/ZQZPwZiZCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887221080701739083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友谊变质了怎么办❤️ https://t.co/ZQZPwZiZCi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 171,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 194
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T13:55:40.000Z",
+        "description": "TS/跨性别女生🏳️‍⚧️ 坐标四川成都 Birth:2010/02 hrt:2024/09 MBTI:ENFP/INFP 欢迎交友互fo～",
+        "id": "1652673033423962112",
+        "location": "Chengdu",
+        "name": "渝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879035171972042752/JgtpVXYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 54,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "yuki2010Fe",
+        "verified": false
+      }
+    ]
+  }
+}

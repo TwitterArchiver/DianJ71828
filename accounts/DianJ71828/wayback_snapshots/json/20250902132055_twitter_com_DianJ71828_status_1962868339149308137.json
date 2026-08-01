@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1962832957875298693",
+    "created_at": "2025-09-02T13:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962868339149308137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924364001267576832",
+          "start": 0,
+          "username": "Meow_Bellaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962868339149308137",
+    "in_reply_to_user_id": "1924364001267576832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962832957875298693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meow_Bellaaa 是笑贫不笑娼，但是我们没笑，都贴脸了，这纯辱骂₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962832957875298693",
+        "created_at": "2025-09-02T13:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962868339149308137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924364001267576832",
+              "start": 0,
+              "username": "Meow_Bellaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962868339149308137",
+        "in_reply_to_user_id": "1924364001267576832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962832957875298693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meow_Bellaaa 是笑贫不笑娼，但是我们没笑，都贴脸了，这纯辱骂₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924364001267576832",
+        "conversation_id": "1962832957875298693",
+        "created_at": "2025-09-02T11:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962832957875298693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962832957875298693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4899,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没听说过被迫下海的\n人永远是有选择的\n选择来钱快的路子就应该明白会面临的风险\n更何况根本不是单纯的福利姬\n妹子你是卖的啊，🐔就是🐔\n说不要攻击你的恋人的时候你的恋人说过一句话吗今天？\n还一天到晚假意秀恩爱演戏\n两个见钱眼开又做不出爱的土鳖。\n谁心疼网黄最好是能分到钱🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 279,
+          "like_count": 2276,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 543
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T07:18:42.000Z",
+        "description": "ENFJ日记本📓｜活人感🧩掉落｜随你怎么说 也请随我怎么说🤫｜世界就是个巨大的心想事成 只想追求内心的平静｜不要给我分类和贴标签 惹我会触发愤怒咪请三思｜可以叫我小咪 谢谢你关注我🫶🏻",
+        "id": "1924364001267576832",
+        "location": "咪之幸福乌托邦",
+        "name": "小咪殿下萬歲萬歲萬萬歲",
+        "pinned_tweet_id": "1925852097314001194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924364129889931264/1blchVdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 136,
+          "like_count": 10550,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3380
+        },
+        "username": "Meow_Bellaaa",
+        "verified": false
+      }
+    ]
+  }
+}

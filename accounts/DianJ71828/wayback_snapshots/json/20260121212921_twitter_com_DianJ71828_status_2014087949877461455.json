@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2014087949877461455",
+    "created_at": "2026-01-21T21:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T22:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014087949877461455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/owen_swift6885…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/owen_swift68854/status/2013835523240939721",
+          "start": 23,
+          "url": "https://t.co/8BUrozIs77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014087949877461455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013835523240939721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "直男装gay等着全家出去玩的时候被大运碾压吧 https://t.co/8BUrozIs77"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1051,
+        "media_key": "3_2013835505193099265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KUuOMaoAEt0cq.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2014087949877461455",
+        "created_at": "2026-01-21T21:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T22:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014087949877461455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/owen_swift6885…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/owen_swift68854/status/2013835523240939721",
+              "start": 23,
+              "url": "https://t.co/8BUrozIs77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014087949877461455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013835523240939721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直男装gay等着全家出去玩的时候被大运碾压吧 https://t.co/8BUrozIs77"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013835505193099265"
+          ]
+        },
+        "author_id": "2005870302073655296",
+        "conversation_id": "2013835523240939721",
+        "created_at": "2026-01-21T04:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013835523240939721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWwEr7m9GN",
+              "end": 29,
+              "expanded_url": "https://x.com/owen_swift68854/status/2013835523240939721/photo/1",
+              "media_key": "3_2013835505193099265",
+              "start": 6,
+              "url": "https://t.co/oWwEr7m9GN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013835523240939721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 325683,
+          "like_count": 1029,
+          "quote_count": 1,
+          "reply_count": 57,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "比中药管用 https://t.co/oWwEr7m9GN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 505,
+          "like_count": 4705,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1038
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T05:15:32.000Z",
+        "description": "我主号 @Ashley711142826",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "Ashley711142826"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hn.zzym5.lol",
+                "end": 23,
+                "expanded_url": "http://hn.zzym5.lol",
+                "start": 0,
+                "url": "https://t.co/5pD6aiNGJ4"
+              }
+            ]
+          }
+        },
+        "id": "2005870302073655296",
+        "location": "换妻约炮俱乐部，会员30元→",
+        "name": "小小敏",
+        "pinned_tweet_id": "2014041314719916326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013713860285374464/etzVgEZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/5pD6aiNGJ4",
+        "username": "owen_swift68854",
+        "verified": false
+      }
+    ]
+  }
+}

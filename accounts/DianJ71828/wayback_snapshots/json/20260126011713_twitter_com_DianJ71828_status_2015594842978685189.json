@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2015158040371347891",
+    "created_at": "2026-01-26T01:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015594842978685189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835351133059158016",
+          "start": 0,
+          "username": "sftdwy1019"
+        },
+        {
+          "end": 23,
+          "id": "1882823505336750080",
+          "start": 12,
+          "username": "huiseliuye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015594842978685189",
+    "in_reply_to_user_id": "1835351133059158016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015473938101678433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sftdwy1019 @huiseliuye 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2015158040371347891",
+        "created_at": "2026-01-26T01:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015594842978685189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835351133059158016",
+              "start": 0,
+              "username": "sftdwy1019"
+            },
+            {
+              "end": 23,
+              "id": "1882823505336750080",
+              "start": 12,
+              "username": "huiseliuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015594842978685189",
+        "in_reply_to_user_id": "1835351133059158016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015473938101678433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sftdwy1019 @huiseliuye 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835351133059158016",
+        "conversation_id": "2015158040371347891",
+        "created_at": "2026-01-25T17:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015473938101678433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882823505336750080",
+              "start": 0,
+              "username": "huiseliuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015473938101678433",
+        "in_reply_to_user_id": "1882823505336750080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2364,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015158040371347891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huiseliuye 那世界上没男人能操逼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 525,
+          "like_count": 4943,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1078
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T16:14:12.000Z",
+        "description": "06♀｜ip渝｜男的关注我下体爆炸｜别私信给我发你的裸照和血图 谢谢",
+        "id": "1835351133059158016",
+        "name": "sftdwy",
+        "pinned_tweet_id": "2008235668670169414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913554850778136576/QkEi8Qak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 345,
+          "like_count": 4745,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 210
+        },
+        "username": "sftdwy1019",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T16:11:30.000Z",
+        "description": "没兴趣认识你\n给你我最真挚最纯粹的一颗心",
+        "id": "1882823505336750080",
+        "location": "没有陪聊的义务",
+        "name": "小心事日记",
+        "pinned_tweet_id": "2015082848144023683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011864787404406792/rpvEriqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 59,
+          "like_count": 10167,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1138
+        },
+        "username": "huiseliuye",
+        "verified": false
+      }
+    ]
+  }
+}

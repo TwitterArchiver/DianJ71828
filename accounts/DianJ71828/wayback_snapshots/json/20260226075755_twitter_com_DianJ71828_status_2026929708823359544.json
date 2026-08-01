@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026929696265613312"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026929708823359544",
+    "created_at": "2026-02-26T07:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026929708823359544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WmFg2FlLVn",
+          "end": 23,
+          "expanded_url": "https://x.com/DianJ71828/status/2026929708823359544/photo/1",
+          "media_key": "3_2026929696265613312",
+          "start": 0,
+          "url": "https://t.co/WmFg2FlLVn"
+        },
+        {
+          "display_url": "x.com/hauhau_mg/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hauhau_mg/status/2026745044632535306",
+          "start": 24,
+          "url": "https://t.co/q6HY8N08R7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026929708823359544",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026745044632535306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/WmFg2FlLVn https://t.co/q6HY8N08R7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2026929696265613312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEZ0dKaMAAoTO4.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026929696265613312"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026929708823359544",
+        "created_at": "2026-02-26T07:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026929708823359544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmFg2FlLVn",
+              "end": 23,
+              "expanded_url": "https://x.com/DianJ71828/status/2026929708823359544/photo/1",
+              "media_key": "3_2026929696265613312",
+              "start": 0,
+              "url": "https://t.co/WmFg2FlLVn"
+            },
+            {
+              "display_url": "x.com/hauhau_mg/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hauhau_mg/status/2026745044632535306",
+              "start": 24,
+              "url": "https://t.co/q6HY8N08R7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026929708823359544",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026745044632535306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WmFg2FlLVn https://t.co/q6HY8N08R7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "559099814",
+        "conversation_id": "2026745044632535306",
+        "created_at": "2026-02-25T19:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026745044632535306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026745044632535306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 37497,
+          "like_count": 439,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 28
+        },
+        "reply_settings": "following",
+        "text": "前O腺高潮只有男生才能做到，所以這是一件很有男子氣概的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 739,
+          "like_count": 10451,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1958
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-21T01:46:59.000Z",
+        "description": "**commission close** \"\"ych commmission open\"\" 臺灣/NSFW/中文⭕️/English🔼/日本語🤖fanbox：https://t.co/nGy8HHCC2x Bluesky：https://t.co/GBCZdxCCOf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hauhau.fanbox.cc",
+                "end": 102,
+                "expanded_url": "https://hauhau.fanbox.cc/",
+                "start": 79,
+                "url": "https://t.co/nGy8HHCC2x"
+              },
+              {
+                "display_url": "bsky.app/profile/hauhau…",
+                "end": 134,
+                "expanded_url": "https://bsky.app/profile/hauhau.bsky.social",
+                "start": 111,
+                "url": "https://t.co/GBCZdxCCOf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hauhau.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://hauhau.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/nGy8HHCC2x"
+              }
+            ]
+          }
+        },
+        "id": "559099814",
+        "name": "典藏|ハウ|HauHau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/857068666394783744/Qrk1oAot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20958,
+          "following_count": 2310,
+          "like_count": 50016,
+          "listed_count": 92,
+          "media_count": 306,
+          "tweet_count": 2683
+        },
+        "url": "https://t.co/nGy8HHCC2x",
+        "username": "hauhau_mg",
+        "verified": false
+      }
+    ]
+  }
+}

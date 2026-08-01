@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2007816358889955384",
+    "created_at": "2026-01-05T08:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T09:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008095123444580459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729090153124376576",
+          "start": 0,
+          "username": "Sallyand99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008095123444580459",
+    "in_reply_to_user_id": "1729090153124376576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007816358889955384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sallyand99 那他妈叫抑郁()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2007816358889955384",
+        "created_at": "2026-01-05T08:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008095123444580459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729090153124376576",
+              "start": 0,
+              "username": "Sallyand99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008095123444580459",
+        "in_reply_to_user_id": "1729090153124376576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007816358889955384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sallyand99 那他妈叫抑郁()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729090153124376576",
+        "conversation_id": "2007816358889955384",
+        "created_at": "2026-01-04T14:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007816358889955384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007816358889955384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 17114,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇打了两年没啥欲望了，感觉不到冲动，连消费都不想消费…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 503,
+          "like_count": 4207,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 943
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "是男孩子\n有什么想问的tg联系https://t.co/uWEHdlBRFW\n目前不会回复私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sal00502",
+                "end": 38,
+                "expanded_url": "https://t.me/sal00502",
+                "start": 15,
+                "url": "https://t.co/uWEHdlBRFW"
+              }
+            ]
+          }
+        },
+        "id": "1729090153124376576",
+        "location": "广州，🚪150 课",
+        "name": "Sally",
+        "pinned_tweet_id": "2007101408131309773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866539665672769540/hFdkPKg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23111,
+          "following_count": 141,
+          "like_count": 674,
+          "listed_count": 64,
+          "media_count": 118,
+          "tweet_count": 382
+        },
+        "username": "Sallyand99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1880514864915050583",
+    "created_at": "2025-01-18T08:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T09:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880537582330896694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1566815552777383936",
+          "start": 0,
+          "username": "TianqiChen666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880537582330896694",
+    "in_reply_to_user_id": "1566815552777383936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880514864915050583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianqiChen666 还有二郎神？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1880514864915050583",
+        "created_at": "2025-01-18T08:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T09:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880537582330896694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880537582330896694",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880514864915050583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666 还有二郎神？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880514858040655872"
+          ]
+        },
+        "author_id": "1566815552777383936",
+        "conversation_id": "1880514864915050583",
+        "created_at": "2025-01-18T07:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T08:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880514864915050583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHYxeUx4n2",
+              "end": 26,
+              "expanded_url": "https://x.com/TianqiChen666/status/1880514864915050583/photo/1",
+              "media_key": "3_1880514858040655872",
+              "start": 3,
+              "url": "https://t.co/dHYxeUx4n2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880514864915050583",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1858,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "（） https://t.co/dHYxeUx4n2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 77,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 36
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "大学生、中国人🇨🇳、いま成都に住んでいる。みんなと仲良くしたい！\n|絡み重視|変な垢以外フォロバ💯|アニメ|kig初心者|恋人🥰：@podf14|里：@menma_sub|興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ|\n親友:@haku_dabai @2temisinin\n|匿名質問↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "原神"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 111,
+                "start": 107,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 117,
+                "start": 112,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "podf14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "menma_sub"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "haku_dabai"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "2temisinin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/TianqiChen6665…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/TianqiChen66655157",
+                "start": 0,
+                "url": "https://t.co/fCSPq9Gws0"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1858391483382206967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864839185183707138/YKZB7LAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10404,
+          "following_count": 6314,
+          "like_count": 67918,
+          "listed_count": 26,
+          "media_count": 4007,
+          "tweet_count": 12697
+        },
+        "url": "https://t.co/fCSPq9Gws0",
+        "username": "TianqiChen666",
+        "verified": true
+      }
+    ]
+  }
+}

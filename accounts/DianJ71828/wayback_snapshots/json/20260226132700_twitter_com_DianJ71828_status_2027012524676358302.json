@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2027012524676358302",
+    "created_at": "2026-02-26T13:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T14:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027012524676358302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwfn/statu…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/kuukiwfn/status/2026692404590596207",
+          "start": 114,
+          "url": "https://t.co/OKwoZnG6oC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027012524676358302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026692404590596207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虐猫，可恨，可怜，\n发声，可敬，可怜，\n造成压力的社会，滋生出蛆虫来，\n底层人互相攻击，造成这一切的\n自在潇洒。。。\n（本人无庇护虐猫人的想法，（真的不是b站用户？）这是突发奇想，虐猫除了反社会，就是压力太大，那压力从哪来呢？ https://t.co/OKwoZnG6oC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2027012524676358302",
+        "created_at": "2026-02-26T13:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027012524676358302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwfn/statu…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/kuukiwfn/status/2026692404590596207",
+              "start": 114,
+              "url": "https://t.co/OKwoZnG6oC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027012524676358302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026692404590596207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虐猫，可恨，可怜，\n发声，可敬，可怜，\n造成压力的社会，滋生出蛆虫来，\n底层人互相攻击，造成这一切的\n自在潇洒。。。\n（本人无庇护虐猫人的想法，（真的不是b站用户？）这是突发奇想，虐猫除了反社会，就是压力太大，那压力从哪来呢？ https://t.co/OKwoZnG6oC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775833048493240320",
+        "conversation_id": "2026692404590596207",
+        "created_at": "2026-02-25T16:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026692404590596207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026692404590596207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊我们小区好像有虐猫的 我已经好几次听到可怕的叫声了😭😭😭😭😭😭😭😭😭😭之前还有个小猫 躺在楼下身体周围还有血😫😫😫😫😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 746,
+          "like_count": 10700,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2036
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤 💊overdose lover 🩸喜欢非主流  ❤️ rebzyyx ,kets4eki..scenecore ..💉 互fo可以dm😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998044038981877760/Qb8G_aQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 572,
+          "like_count": 26220,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 1571
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

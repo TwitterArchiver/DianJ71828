@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982629261862211584"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1982629358297911453",
+    "created_at": "2025-10-27T02:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T03:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982629358297911453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aHW6y5yfWK",
+          "end": 30,
+          "expanded_url": "https://x.com/DianJ71828/status/1982629358297911453/video/1",
+          "media_key": "7_1982629261862211584",
+          "start": 7,
+          "url": "https://t.co/aHW6y5yfWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982629358297911453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尝试展示耳钉 https://t.co/aHW6y5yfWK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10634,
+        "height": 1280,
+        "media_key": "7_1982629261862211584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982629261862211584/pu/img/XiT2r5jBGtmYIFsC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982629261862211584/pu/vid/avc1/320x568/A51RpxsZaIEVmqPh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982629261862211584/pu/vid/avc1/480x852/-ujNtyGusm8U0C5w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982629261862211584/pu/vid/avc1/720x1280/0PU8qcUZ2q7SPSDe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982629261862211584/pu/pl/zNnHMeCk_eqceXqm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982629261862211584"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1982629358297911453",
+        "created_at": "2025-10-27T02:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982629358297911453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHW6y5yfWK",
+              "end": 30,
+              "expanded_url": "https://x.com/DianJ71828/status/1982629358297911453/video/1",
+              "media_key": "7_1982629261862211584",
+              "start": 7,
+              "url": "https://t.co/aHW6y5yfWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982629358297911453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试展示耳钉 https://t.co/aHW6y5yfWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 529,
+          "like_count": 4046,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 905
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

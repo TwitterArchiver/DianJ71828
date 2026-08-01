@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019994824649342976"
+      ],
+      "media_source_tweet_id": [
+        "2019994974419595760"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022836200566816931",
+    "created_at": "2026-02-15T00:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022836200566816931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1596767893",
+          "start": 3,
+          "username": "Ye_Redemption"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/onmhESHXSG",
+          "end": 116,
+          "expanded_url": "https://x.com/Ye_Redemption/status/2019994974419595760/video/1",
+          "media_key": "13_2019994824649342976",
+          "start": 93,
+          "url": "https://t.co/onmhESHXSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022836200566816931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1000
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019994974419595760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ye_Redemption: 💝Would u like to have a sugar baby like me?🥴\nChudai🍑\n\n曾经讨伐魔王的勇者现在居然…♡ ♡ ♡ https://t.co/onmhESHXSG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022836200566816931].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022836200566816931",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022836200566816931"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52750,
+        "height": 1126,
+        "media_key": "13_2019994824649342976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019994824649342976/img/YCIhgcbSOVrqKqrb.jpg",
+        "public_metrics": {
+          "view_count": 101914
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019994824649342976/vid/avc1/320x332/HUKp_MtTNeW4EfWR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019994824649342976/vid/avc1/1080x1126/zKjxW9QOiIr05Pf0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019994824649342976/pl/YlNHvyHhhIw3aPmT.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019994824649342976/vid/avc1/480x500/w2ZyN3_BVXp9jwV1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019994824649342976/vid/avc1/720x750/fBaJVDtNcj1jRoaX.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019994824649342976"
+          ]
+        },
+        "author_id": "1596767893",
+        "conversation_id": "2019994974419595760",
+        "created_at": "2026-02-07T04:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019994974419595760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onmhESHXSG",
+              "end": 97,
+              "expanded_url": "https://x.com/Ye_Redemption/status/2019994974419595760/video/1",
+              "media_key": "13_2019994824649342976",
+              "start": 74,
+              "url": "https://t.co/onmhESHXSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019994974419595760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3683,
+          "impression_count": 356903,
+          "like_count": 12839,
+          "quote_count": 3,
+          "reply_count": 40,
+          "retweet_count": 1000
+        },
+        "reply_settings": "everyone",
+        "text": "💝Would u like to have a sugar baby like me?🥴\nChudai🍑\n\n曾经讨伐魔王的勇者现在居然…♡ ♡ ♡ https://t.co/onmhESHXSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 729,
+          "like_count": 9024,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1743
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-15T20:58:38.000Z",
+        "description": "Asian Femboy /Kpop Dancer❤️/18/男/ 😘完整视频：https://t.co/2wFTWBhejJ | Sub: https://t.co/rSxnc0HfiJ | https://t.co/zSZCSZDb4y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sdfkw.xyz//links/655B7009",
+                "end": 63,
+                "expanded_url": "https://www.sdfkw.xyz//links/655B7009",
+                "start": 40,
+                "url": "https://t.co/2wFTWBhejJ"
+              },
+              {
+                "display_url": "patreon.com/ReddieXieBao",
+                "end": 94,
+                "expanded_url": "http://patreon.com/ReddieXieBao",
+                "start": 71,
+                "url": "https://t.co/rSxnc0HfiJ"
+              },
+              {
+                "display_url": "fansly.com/Reddiepop",
+                "end": 120,
+                "expanded_url": "https://fansly.com/Reddiepop",
+                "start": 97,
+                "url": "https://t.co/zSZCSZDb4y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/YeRedemption",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/YeRedemption",
+                "start": 0,
+                "url": "https://t.co/aWO9uRb1H6"
+              }
+            ]
+          }
+        },
+        "id": "1596767893",
+        "location": "Sydney🇦🇺(wanna make friends)",
+        "name": "✨叶宝Reddie 🍃🔞",
+        "pinned_tweet_id": "2021797507001671981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926132824492396544/7Lzs0rLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180718,
+          "following_count": 568,
+          "like_count": 5189,
+          "listed_count": 841,
+          "media_count": 556,
+          "tweet_count": 4775
+        },
+        "url": "https://t.co/aWO9uRb1H6",
+        "username": "Ye_Redemption",
+        "verified": true
+      }
+    ]
+  }
+}

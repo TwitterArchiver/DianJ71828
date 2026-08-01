@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2025784331558691272",
+    "created_at": "2026-02-24T03:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026137671324868954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1195625472635224066",
+          "start": 0,
+          "username": "Isabella_ly7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026137671324868954",
+    "in_reply_to_user_id": "1195625472635224066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026079092123296000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isabella_ly7 是这样的，还是不要神魔话雌二醇，先弄清楚自己为什么要吃药吧。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2025784331558691272",
+        "created_at": "2026-02-24T03:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026137671324868954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1195625472635224066",
+              "start": 0,
+              "username": "Isabella_ly7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026137671324868954",
+        "in_reply_to_user_id": "1195625472635224066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026079092123296000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isabella_ly7 是这样的，还是不要神魔话雌二醇，先弄清楚自己为什么要吃药吧。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1195625472635224066",
+        "conversation_id": "2025784331558691272",
+        "created_at": "2026-02-23T23:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T00:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026079092123296000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026079092123296000",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025784331558691272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 无论是家庭还是教育，树立正确且客观的性知识性教育是非常重要的，尽可能减少因社会和家庭原因造成性别认知障碍的人，其二是加强医学里矫正/疏导，在任何阶段永远是矫正治疗优于疏导治疗，劝人吃药天打雷劈也是这个道理，药是治病的不是万能的，很多药娘根本弄不清自己是性别焦虑还是容貌焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 738,
+          "like_count": 10081,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1916
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-16T08:52:30.000Z",
+        "description": "168/50kg，37。既憧憬功名利禄，也贪生怕死好吃懒做。既心系天下也自私自利我行我素。哪怕成为衣冠禽兽，我也愿意穿上那一身官服。天高任鸟飞，海阔凭鱼跃，老子要长生不老尝遍这世间所有的酸甜苦辣",
+        "id": "1195625472635224066",
+        "location": "广州",
+        "name": "刘品品isaL77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021032343688171520/nSDzooXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16324,
+          "following_count": 2082,
+          "like_count": 4692,
+          "listed_count": 75,
+          "media_count": 754,
+          "tweet_count": 3769
+        },
+        "username": "Isabella_ly7",
+        "verified": false
+      }
+    ]
+  }
+}

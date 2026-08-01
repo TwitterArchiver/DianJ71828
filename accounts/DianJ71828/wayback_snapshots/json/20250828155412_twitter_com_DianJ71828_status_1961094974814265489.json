@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1961056808413385208",
+    "created_at": "2025-08-28T15:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T16:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961094974814265489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1730436732049600512",
+          "start": 0,
+          "username": "sally7731478613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961094974814265489",
+    "in_reply_to_user_id": "1730436732049600512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961056808413385208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sally7731478613 你怎么这么萌♡♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961056788494880770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzcSwk6bEAIGTTy.jpg",
+        "width": 1382
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961056788977205248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzcSwmtawAAfyaj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1961056808413385208",
+        "created_at": "2025-08-28T15:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T16:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961094974814265489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1730436732049600512",
+              "start": 0,
+              "username": "sally7731478613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961094974814265489",
+        "in_reply_to_user_id": "1730436732049600512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961056808413385208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sally7731478613 你怎么这么萌♡♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961056788494880770",
+            "3_1961056788977205248"
+          ]
+        },
+        "author_id": "1730436732049600512",
+        "conversation_id": "1961056808413385208",
+        "created_at": "2025-08-28T13:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T14:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961056808413385208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p30eOWDZIt",
+              "end": 41,
+              "expanded_url": "https://x.com/sally7731478613/status/1961056808413385208/photo/1",
+              "media_key": "3_1961056788494880770",
+              "start": 18,
+              "url": "https://t.co/p30eOWDZIt"
+            },
+            {
+              "display_url": "pic.x.com/p30eOWDZIt",
+              "end": 41,
+              "expanded_url": "https://x.com/sally7731478613/status/1961056808413385208/photo/1",
+              "media_key": "3_1961056788977205248",
+              "start": 18,
+              "url": "https://t.co/p30eOWDZIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961056808413385208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1243,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑战东方明珠成功(=^･ｪ･^=) https://t.co/p30eOWDZIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 213,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 345
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T04:00:53.000Z",
+        "description": "看清楚是药娘xyn，别上来就看看b，天残党，已经炸柜，半家长党，线下圆角实习中....\n🚪150（线下🈷先过🚪）口令or赞赏码，真的很感谢，咱可以陪聊或者偶尔发涩涩...\n最爱的妹妹/对象💗@Ninetynie15279",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "Ninetynie15279"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ana00502",
+                "end": 23,
+                "expanded_url": "https://t.me/ana00502",
+                "start": 0,
+                "url": "https://t.co/StCfRbLr5R"
+              }
+            ]
+          }
+        },
+        "id": "1730436732049600512",
+        "location": "Addison apartment ",
+        "name": "sally🍥（持续限流版）",
+        "pinned_tweet_id": "1895494481753059736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740231177469083648/AJ4IwuGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77385,
+          "following_count": 738,
+          "like_count": 20593,
+          "listed_count": 258,
+          "media_count": 1943,
+          "tweet_count": 10721
+        },
+        "url": "https://t.co/StCfRbLr5R",
+        "username": "sally7731478613",
+        "verified": false
+      }
+    ]
+  }
+}

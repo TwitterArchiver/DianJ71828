@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2015599399817363695",
+    "created_at": "2026-01-26T01:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015599399817363695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015599399817363695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015314382968991941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 我现在越来越没耐心了，以前我还会苦口婆心地劝女生谨慎结婚生子，但现实早就血淋淋地摆在那：徐州董志民用铁链拴住女生生八孩、河北金昊杀妻案、陕西面汤虐杀妻子案、山西张瑞军拐卖强奸案等都不是偶发悲剧，而是一再被轻描淡写成“家庭矛盾”“情绪失控…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2015599399817363695",
+        "created_at": "2026-01-26T01:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015599399817363695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015599399817363695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015314382968991941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 我现在越来越没耐心了，以前我还会苦口婆心地劝女生谨慎结婚生子，但现实早就血淋淋地摆在那：徐州董志民用铁链拴住女生生八孩、河北金昊杀妻案、陕西面汤虐杀妻子案、山西张瑞军拐卖强奸案等都不是偶发悲剧，而是一再被轻描淡写成“家庭矛盾”“情绪失控…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575765089030139905",
+        "conversation_id": "2015314382968991941",
+        "created_at": "2026-01-25T06:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015314382968991941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015314382968991941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在越来越没耐心了，以前我还会苦口婆心地劝女生谨慎结婚生子，但现实早就血淋淋地摆在那：徐州董志民用铁链拴住女生生八孩、河北金昊杀妻案、陕西面汤虐杀妻子案、山西张瑞军拐卖强奸案等都不是偶发悲剧，而是一再被轻描淡写成“家庭矛盾”“情绪失控”的婚姻谋杀。\n\n在这个社会里，对女性的羞辱、侵犯和暴力几乎没有代价。\n\n在西安地铁上，保安可以当众扒掉女生的衣服；\n\n在公共场所，偷拍女性早已成常态，路人视若无睹，平台纵容传播，受害者反而要自证清白、被指责“穿得不检点”“太敏感”。\n\n围观、偷拍视频、羞辱受害者的人，永远比追责施暴者的人多。一个连最基本的身体尊严和隐私权都无法保障女性的社会，却还在不断催促女人“放心结婚”“安心生孩子”，这本身就是一场骗局。\n\n在信息已经如此透明的今天，这些案例、这些风险，随手一搜就能看到。\n\n如果明明有前车之鉴，却选择不看、不查、不信，依然轻易结婚、生孩子，那将来再跑到网上哭诉“我没想到会这样”，我没有任何同情义务。\n\n除非你是被绑架、被拐卖的；否则，只是顶不住家庭压力、自愿走进婚姻赌局的后果，我一律视为自负风险。\n\n说到这里，我必须说明一件事：到现在为止，我对结婚的女性已经是极尽克制了。我没有用过“婚驴”“敌方坐骑”这些词，不是我不知道这些骂法，而是我还保留着对“女性身份”最后一点尊重。\n\n但现实是，太多已婚女性正在反过来压迫没结婚的女性——催婚、规训、道德绑架，甚至急不可耐地把别人往火坑里推。\n\n她们不是因为婚姻幸福才这么做，而是因为她们不能容忍有人证明：不结婚也能活得清醒、完整、自由。\n\n她们不敢把愤怒指向丈夫、家庭和父权结构，就把恶意倾倒给没结婚的女人；把自己承受的苦，当成必须代代相传的“女性义务”。\n\n当你参与催婚、规训、拖人下水的时候，你就已经站队了，在我这里已经开除了女籍。\n\n如果你真的想生一个孩子，那就请先对孩子负责。\n\n生育不是自我感动，更不是随便找个丑八怪或穷光蛋“完成人生任务”。没有子宫道德，不做最基本的筛选与保护，把风险全部转嫁给下一代，那将来孩子怨你、恨你、骂你，也只是因果回到你自己身上。\n\n我不主动辱骂，是因为我有底线；但是我再看到女的对单身女性的羞辱，我就会骂的你怀疑人生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 19310,
+          "like_count": 554,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "我现在越来越没耐心了，以前我还会苦口婆心地劝女生谨慎结婚生子，但现实早就血淋淋地摆在那：徐州董志民用铁链拴住女生生八孩、河北金昊杀妻案、陕西面汤虐杀妻子案、山西张瑞军拐卖强奸案等都不是偶发悲剧，而是一再被轻描淡写成“家庭矛盾”“情绪失控”的婚姻谋杀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 525,
+          "like_count": 4976,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1080
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26760,
+          "following_count": 549,
+          "like_count": 32266,
+          "listed_count": 93,
+          "media_count": 9331,
+          "tweet_count": 25388
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887052108178034688"
+      ],
+      "media_source_tweet_id": [
+        "1887052121050374158"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1887170834340470958",
+    "created_at": "2025-02-05T16:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T17:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887170834340470958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815119634770915328",
+          "start": 3,
+          "username": "XTea_cat9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CnAseOcpOG",
+          "end": 45,
+          "expanded_url": "https://x.com/XTea_cat9/status/1887052121050374158/photo/1",
+          "media_key": "3_1887052108178034688",
+          "start": 22,
+          "url": "https://t.co/CnAseOcpOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887170834340470958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887052121050374158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XTea_cat9: 勒酷离家出走 https://t.co/CnAseOcpOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1887052108178034688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjAn5PSakAAWw-D.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887052108178034688"
+          ],
+          "media_source_tweet_id": [
+            "1887052121050374158"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1887170834340470958",
+        "created_at": "2025-02-05T16:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T17:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887170834340470958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815119634770915328",
+              "start": 3,
+              "username": "XTea_cat9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnAseOcpOG",
+              "end": 45,
+              "expanded_url": "https://x.com/XTea_cat9/status/1887052121050374158/photo/1",
+              "media_key": "3_1887052108178034688",
+              "start": 22,
+              "url": "https://t.co/CnAseOcpOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887170834340470958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887052121050374158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XTea_cat9: 勒酷离家出走 https://t.co/CnAseOcpOG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887052108178034688"
+          ]
+        },
+        "author_id": "1815119634770915328",
+        "conversation_id": "1887052121050374158",
+        "created_at": "2025-02-05T08:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887052121050374158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnAseOcpOG",
+              "end": 30,
+              "expanded_url": "https://x.com/XTea_cat9/status/1887052121050374158/photo/1",
+              "media_key": "3_1887052108178034688",
+              "start": 7,
+              "url": "https://t.co/CnAseOcpOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887052121050374158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 33690,
+          "like_count": 1863,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "勒酷离家出走 https://t.co/CnAseOcpOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 165,
+          "like_count": 1411,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 203
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T20:20:29.000Z",
+        "description": "🚪199 口令红包（过门开放寄拍，原味 所见不一定为所得）图片全是照骗 成年了成年了成年了",
+        "id": "1815119634770915328",
+        "location": "東京 新宿区",
+        "name": "xcat_tea9🫧",
+        "pinned_tweet_id": "1873679500342624525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815122374704144384/5BdDfuUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35522,
+          "following_count": 8,
+          "like_count": 90,
+          "listed_count": 135,
+          "media_count": 59,
+          "tweet_count": 65
+        },
+        "username": "XTea_cat9",
+        "verified": false
+      }
+    ]
+  }
+}

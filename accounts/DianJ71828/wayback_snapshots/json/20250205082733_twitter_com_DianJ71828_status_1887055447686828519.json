@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1886932150647447567",
+    "created_at": "2025-02-05T08:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T09:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887055447686828519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1752648024453738496",
+          "start": 0,
+          "username": "AnAnzonHH"
+        },
+        {
+          "end": 21,
+          "id": "1620322708994068481",
+          "start": 11,
+          "username": "jinsenala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887055447686828519",
+    "in_reply_to_user_id": "1752648024453738496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887038795692097787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnAnzonHH @jinsenala 坏坏怎么还歧视上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1886932150647447567",
+        "created_at": "2025-02-05T08:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887055447686828519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752648024453738496",
+              "start": 0,
+              "username": "AnAnzonHH"
+            },
+            {
+              "end": 21,
+              "id": "1620322708994068481",
+              "start": 11,
+              "username": "jinsenala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887055447686828519",
+        "in_reply_to_user_id": "1752648024453738496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887038795692097787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnAnzonHH @jinsenala 坏坏怎么还歧视上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752648024453738496",
+        "conversation_id": "1886932150647447567",
+        "created_at": "2025-02-05T07:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887038795692097787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620322708994068481",
+              "start": 0,
+              "username": "jinsenala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887038795692097787",
+        "in_reply_to_user_id": "1620322708994068481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886932150647447567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinsenala 动不动就去接圆角，不是小朋友，你什么颜值就去接元角？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 163,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 200
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T11:01:10.000Z",
+        "description": "我不知道我丟失了個什麽東西，我傷心了很久，我哭了很久，然後我給忘了，只是我知道那個東西很重要。\n后来我才知道我的内心已经破碎，还有什么能拯救我支离破碎的我呢，原来我丢失的，是我自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1989.64.com",
+                "end": 23,
+                "expanded_url": "http://1989.64.com",
+                "start": 0,
+                "url": "https://t.co/3D6ylYFOwn"
+              }
+            ]
+          }
+        },
+        "id": "1752648024453738496",
+        "location": "手枪星 ",
+        "name": "「暗中坏坏」🍥 🔪",
+        "pinned_tweet_id": "1871444039914144179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883533788782944256/xYEMjpWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4076,
+          "following_count": 440,
+          "like_count": 99,
+          "listed_count": 13,
+          "media_count": 600,
+          "tweet_count": 2915
+        },
+        "url": "https://t.co/3D6ylYFOwn",
+        "username": "AnAnzonHH",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:27:34.000Z",
+        "description": "时间流逝吧，你是多么的残酷\n\n另一个号@jinsenalaqwq(里推？日常推？还是？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "jinsenalaqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinsenala",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinsenala",
+                "start": 0,
+                "url": "https://t.co/hD2vn4klWw"
+              }
+            ]
+          }
+        },
+        "id": "1620322708994068481",
+        "location": "终之空",
+        "name": "金色那菈🏳️‍⚧️",
+        "pinned_tweet_id": "1880936422053699586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819587398030053378/F0OxzlKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 401,
+          "like_count": 372,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/hD2vn4klWw",
+        "username": "jinsenala",
+        "verified": false
+      }
+    ]
+  }
+}

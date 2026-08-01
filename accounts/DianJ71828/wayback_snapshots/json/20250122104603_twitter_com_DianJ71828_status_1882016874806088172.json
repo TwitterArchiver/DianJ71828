@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1882016874806088172",
+    "created_at": "2025-01-22T10:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T11:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882016874806088172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LCA176232/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/LCA176232/status/1881856284800208912",
+          "start": 25,
+          "url": "https://t.co/3MkiKObdGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882016874806088172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881856284800208912",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来想说引起男女对立，仔细一看\n成都啊\n那没事了 https://t.co/3MkiKObdGW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882016874806088172",
+        "created_at": "2025-01-22T10:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T11:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882016874806088172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LCA176232/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/LCA176232/status/1881856284800208912",
+              "start": 25,
+              "url": "https://t.co/3MkiKObdGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882016874806088172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881856284800208912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来想说引起男女对立，仔细一看\n成都啊\n那没事了 https://t.co/3MkiKObdGW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881856281692299264"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "conversation_id": "1881856284800208912",
+        "created_at": "2025-01-22T00:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T01:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881856284800208912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywEmxnvGCe",
+              "end": 59,
+              "expanded_url": "https://x.com/LCA176232/status/1881856284800208912/photo/1",
+              "media_key": "3_1881856281692299264",
+              "start": 36,
+              "url": "https://t.co/ywEmxnvGCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881856284800208912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 428487,
+          "like_count": 1315,
+          "quote_count": 11,
+          "reply_count": 153,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "成都人民公园相亲角，女生位置已经满了，所以说现实里谁更着急，显而易见。 https://t.co/ywEmxnvGCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 130,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 92
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "只有这个号和小号@FPL99386519是本人的，其他的均为假冒。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "pinned_tweet_id": "1742419839220887816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837533564059242499/yQxLlDc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30531,
+          "following_count": 949,
+          "like_count": 80453,
+          "listed_count": 91,
+          "media_count": 8923,
+          "tweet_count": 12321
+        },
+        "username": "LCA176232",
+        "verified": true
+      }
+    ]
+  }
+}

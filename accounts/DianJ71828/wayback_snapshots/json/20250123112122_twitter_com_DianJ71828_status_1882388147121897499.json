@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1882388147121897499",
+    "created_at": "2025-01-23T11:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T12:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882388147121897499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1788861189856083968",
+          "start": 3,
+          "username": "Sakura_Yukihane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882388147121897499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882350309743436193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_Yukihane: …没人陪我…好难受…那我就直接4t pr……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882388147121897499",
+        "created_at": "2025-01-23T11:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T12:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882388147121897499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1788861189856083968",
+              "start": 3,
+              "username": "Sakura_Yukihane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882388147121897499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882350309743436193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_Yukihane: …没人陪我…好难受…那我就直接4t pr……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788861189856083968",
+        "conversation_id": "1882350309743436193",
+        "created_at": "2025-01-23T08:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T09:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882350309743436193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882350309743436193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "…没人陪我…好难受…那我就直接4t pr……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 134,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 117
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T09:19:38.000Z",
+        "description": "谁来弄死我",
+        "id": "1788861189856083968",
+        "name": "小羽-樱雪羽🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1880166228502925617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873309667964944384/IISivAsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 171,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 224
+        },
+        "username": "Sakura_Yukihane",
+        "verified": false
+      }
+    ]
+  }
+}

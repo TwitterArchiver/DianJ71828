@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1977190124959285547",
+    "created_at": "2025-10-13T14:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T15:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977742882711740737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832089216081338368",
+          "start": 0,
+          "username": "dogiscoffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977742882711740737",
+    "in_reply_to_user_id": "1832089216081338368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977710942197551170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogiscoffee 可能是o坏的脑子回来了₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1977190124959285547",
+        "created_at": "2025-10-13T14:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977742882711740737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832089216081338368",
+              "start": 0,
+              "username": "dogiscoffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977742882711740737",
+        "in_reply_to_user_id": "1832089216081338368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977710942197551170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogiscoffee 可能是o坏的脑子回来了₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832089216081338368",
+        "conversation_id": "1977190124959285547",
+        "created_at": "2025-10-13T12:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977710942197551170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977710942197551170",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977190124959285547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 滚吧，她不od变成正常人之后他妈的直接不要我了，我以为是我还在o的原因，结果戒o之后还是不理我 我他妈到底算什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 504,
+          "like_count": 4003,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 883
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T16:11:28.000Z",
+        "description": "大号被封｜抑郁/焦虑/躯体化/强迫/精神分裂｜休学/🚬/💊/🩸｜",
+        "id": "1832089216081338368",
+        "location": "✞ʚ右美沙芬重度依赖ɞ✟",
+        "name": "Homura",
+        "pinned_tweet_id": "1964716528424927237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922941712592494592/6YTsRRcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 63,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 75
+        },
+        "username": "dogiscoffee",
+        "verified": false
+      }
+    ]
+  }
+}

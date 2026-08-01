@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2038245109721141275",
+    "created_at": "2026-03-29T13:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038245109721141275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2007357281160278017",
+          "start": 3,
+          "username": "EliFoca5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038245109721141275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038124789605531917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EliFoca5201314: 我对暗恋了很久的学长表白了，他很干脆的拒绝了我，我难过至极\n当晚，为了缓解情绪，我叫了一名伪娘上门服务\n他进屋时，我惊得差点叫出了声，像，太像了，怎么会和学长如此相似？\n我把对学长全部的幻想与恶念发泄在了这个“代餐”身上，今天我才得知，那…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27800,
+        "height": 1080,
+        "media_key": "13_2038124647712182272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038124647712182272/img/dK19wiBP-pl4i1Fb.jpg",
+        "public_metrics": {
+          "view_count": 1577
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038124647712182272/pl/rD4aNN0CYSC6RT6x.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038124647712182272/vid/avc1/640x360/TyMOQiquRvgk8Id0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038124647712182272/vid/avc1/1920x1080/9g0uNeIe4RXJrjNo.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038124647712182272/vid/avc1/480x270/_H9w5zatXP8RnAgP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038124647712182272/vid/avc1/1280x720/dQwRpr4tm8kpEeT_.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2038245109721141275",
+        "created_at": "2026-03-29T13:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038245109721141275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2007357281160278017",
+              "start": 3,
+              "username": "EliFoca5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038245109721141275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038124789605531917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EliFoca5201314: 我对暗恋了很久的学长表白了，他很干脆的拒绝了我，我难过至极\n当晚，为了缓解情绪，我叫了一名伪娘上门服务\n他进屋时，我惊得差点叫出了声，像，太像了，怎么会和学长如此相似？\n我把对学长全部的幻想与恶念发泄在了这个“代餐”身上，今天我才得知，那…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038124647712182272"
+          ]
+        },
+        "author_id": "2007357281160278017",
+        "conversation_id": "2038124789605531917",
+        "created_at": "2026-03-29T05:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038124789605531917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwFeoj2mcW",
+              "end": 164,
+              "expanded_url": "https://x.com/EliFoca5201314/status/2038124789605531917/video/1",
+              "media_key": "13_2038124647712182272",
+              "start": 141,
+              "url": "https://t.co/HwFeoj2mcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038124789605531917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 166,
+                "id": "2032772766034964480",
+                "start": 155,
+                "username": "icsheicshe"
+              }
+            ]
+          },
+          "text": "我对暗恋了很久的学长表白了，他很干脆的拒绝了我，我难过至极\n当晚，为了缓解情绪，我叫了一名伪娘上门服务\n他进屋时，我惊得差点叫出了声，像，太像了，怎么会和学长如此相似？\n我把对学长全部的幻想与恶念发泄在了这个“代餐”身上，今天我才得知，那个在我胯下高潮不止的骚货居然是学长的父亲😭\n玩具来自IC社家的【绝顶液】@icsheicshe"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8237,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我对暗恋了很久的学长表白了，他很干脆的拒绝了我，我难过至极\n当晚，为了缓解情绪，我叫了一名伪娘上门服务\n他进屋时，我惊得差点叫出了声，像，太像了，怎么会和学长如此相似？\n我把对学长全部的幻想与恶念发泄在了这个“代餐”身上，今天我才得知，那个在我胯下高潮不止的骚货居然是学长的父亲😭 https://t.co/HwFeoj2mcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/遣唐使😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 525,
+          "like_count": 12574,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 2415
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T07:44:15.000Z",
+        "description": "🏳️‍⚧️身高158🏳️‍🌈/ #男娘 / #娼年 / #正太 #萝莉 /🚪52 /娼年系神侍美少年❤️/常驻 #重庆，#上海 /我一定会成为登峰造极的娼年系正太的/ENG，粤语，上海话，普通话ok",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "男娘"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "娼年"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "正太"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "萝莉"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "重庆"
+              },
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "上海"
+              }
+            ]
+          }
+        },
+        "id": "2007357281160278017",
+        "location": "投喂52r🉑➕好友",
+        "name": "千葉芙卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007453964460273667/-37A4lME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 92,
+          "like_count": 26,
+          "listed_count": 17,
+          "media_count": 21,
+          "tweet_count": 36
+        },
+        "username": "EliFoca5201314",
+        "verified": true
+      }
+    ]
+  }
+}

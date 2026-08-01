@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948314875471769600",
+        "3_1948314869603999744",
+        "3_1948314893431779328"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1948314897873358914",
+    "created_at": "2025-07-24T09:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T10:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948314897873358914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HcTpKYjhyI",
+          "end": 68,
+          "expanded_url": "https://x.com/DianJ71828/status/1948314897873358914/photo/1",
+          "media_key": "3_1948314875471769600",
+          "start": 45,
+          "url": "https://t.co/HcTpKYjhyI"
+        },
+        {
+          "display_url": "pic.x.com/HcTpKYjhyI",
+          "end": 68,
+          "expanded_url": "https://x.com/DianJ71828/status/1948314897873358914/photo/1",
+          "media_key": "3_1948314869603999744",
+          "start": 45,
+          "url": "https://t.co/HcTpKYjhyI"
+        },
+        {
+          "display_url": "pic.x.com/HcTpKYjhyI",
+          "end": 68,
+          "expanded_url": "https://x.com/DianJ71828/status/1948314897873358914/photo/1",
+          "media_key": "3_1948314893431779328",
+          "start": 45,
+          "url": "https://t.co/HcTpKYjhyI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948314897873358914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "果然有镇定效果，多吃一点就好了。。\n被逼着剪头了耶，不知道能不能活着回来～\n到此为止了v https://t.co/HcTpKYjhyI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948314875471769600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnODn8asAAx2Tg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948314869603999744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnODSFboAA3uN7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1948314893431779328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnOEq2asAADZuH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948314875471769600",
+            "3_1948314869603999744",
+            "3_1948314893431779328"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1948314897873358914",
+        "created_at": "2025-07-24T09:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948314897873358914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcTpKYjhyI",
+              "end": 68,
+              "expanded_url": "https://x.com/DianJ71828/status/1948314897873358914/photo/1",
+              "media_key": "3_1948314875471769600",
+              "start": 45,
+              "url": "https://t.co/HcTpKYjhyI"
+            },
+            {
+              "display_url": "pic.x.com/HcTpKYjhyI",
+              "end": 68,
+              "expanded_url": "https://x.com/DianJ71828/status/1948314897873358914/photo/1",
+              "media_key": "3_1948314869603999744",
+              "start": 45,
+              "url": "https://t.co/HcTpKYjhyI"
+            },
+            {
+              "display_url": "pic.x.com/HcTpKYjhyI",
+              "end": 68,
+              "expanded_url": "https://x.com/DianJ71828/status/1948314897873358914/photo/1",
+              "media_key": "3_1948314893431779328",
+              "start": 45,
+              "url": "https://t.co/HcTpKYjhyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948314897873358914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果然有镇定效果，多吃一点就好了。。\n被逼着剪头了耶，不知道能不能活着回来～\n到此为止了v https://t.co/HcTpKYjhyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 181,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 252
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

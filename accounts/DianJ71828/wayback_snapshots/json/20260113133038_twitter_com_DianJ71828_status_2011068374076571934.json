@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2011068374076571934",
+    "created_at": "2026-01-13T13:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T14:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011068374076571934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tifagirlx/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/tifagirlx/status/2010653730044027374",
+          "start": 3,
+          "url": "https://t.co/ywxCRJ4YI8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011068374076571934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010653730044027374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卡颜 https://t.co/ywxCRJ4YI8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2011068374076571934",
+        "created_at": "2026-01-13T13:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T14:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011068374076571934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tifagirlx/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/tifagirlx/status/2010653730044027374",
+              "start": 3,
+              "url": "https://t.co/ywxCRJ4YI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011068374076571934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010653730044027374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卡颜 https://t.co/ywxCRJ4YI8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734991477434990593",
+        "conversation_id": "2010653730044027374",
+        "created_at": "2026-01-12T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010653730044027374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010653730044027374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Trans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 20439,
+          "like_count": 1901,
+          "quote_count": 7,
+          "reply_count": 85,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "Trans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans women are real women 🏳️‍⚧️\nTrans"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 507,
+          "like_count": 4470,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1001
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T17:40:00.000Z",
+        "description": "19 💕 trans 🧸\ni got a secret  ⤵️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "purulink.com",
+                "end": 23,
+                "expanded_url": "http://purulink.com",
+                "start": 0,
+                "url": "https://t.co/YGYjhnGhlh"
+              }
+            ]
+          }
+        },
+        "id": "1734991477434990593",
+        "location": "3$ 0f・:〃➜",
+        "name": "tifa 🏳️‍⚧️",
+        "pinned_tweet_id": "1890122071025545389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890829732364587008/40S_y4me_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48365,
+          "following_count": 90,
+          "like_count": 567,
+          "listed_count": 162,
+          "media_count": 631,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/YGYjhnGhlh",
+        "username": "tifagirlx",
+        "verified": true
+      }
+    ]
+  }
+}

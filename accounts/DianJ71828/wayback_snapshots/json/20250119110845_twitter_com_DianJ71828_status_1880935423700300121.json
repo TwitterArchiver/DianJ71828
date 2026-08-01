@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1880577889835594012",
+    "created_at": "2025-01-19T11:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T12:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880935423700300121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637101960540352513",
+          "start": 0,
+          "username": "weughtr"
+        },
+        {
+          "end": 19,
+          "id": "1867432957113204736",
+          "start": 9,
+          "username": "owO123qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880935423700300121",
+    "in_reply_to_user_id": "1637101960540352513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880907105986826395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weughtr @owO123qwe 还好，比吃药强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1880577889835594012",
+        "created_at": "2025-01-19T11:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T12:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880935423700300121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637101960540352513",
+              "start": 0,
+              "username": "weughtr"
+            },
+            {
+              "end": 19,
+              "id": "1867432957113204736",
+              "start": 9,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880935423700300121",
+        "in_reply_to_user_id": "1637101960540352513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880907105986826395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weughtr @owO123qwe 还好，比吃药强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637101960540352513",
+        "conversation_id": "1880577889835594012",
+        "created_at": "2025-01-19T09:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880907105986826395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880907105986826395",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880577889835594012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe 哪買的啊 話說對身體有傷害嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 96,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 57
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T14:42:03.000Z",
+        "description": "",
+        "id": "1637101960540352513",
+        "name": "小咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774832244496228352/sJjlfQ08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 436,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "weughtr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "孤独？摇滚！ 🍥(=^▽^=)",
+        "id": "1867432957113204736",
+        "name": "小然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879203920104300551/33a1SHJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 244,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 198
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

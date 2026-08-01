@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2019642542745374756",
+    "created_at": "2026-02-06T05:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T06:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019642542745374756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PaulDrizzyvlni…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/PaulDrizzyvlni/status/2019242616173523277",
+          "start": 17,
+          "url": "https://t.co/GROAoMVzad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019642542745374756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019242616173523277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当年扫射正太控的时候猜猜我在哪？ https://t.co/GROAoMVzad"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019242602462343169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXKctMacAEuah4.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2019642542745374756",
+        "created_at": "2026-02-06T05:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019642542745374756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PaulDrizzyvlni…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/PaulDrizzyvlni/status/2019242616173523277",
+              "start": 17,
+              "url": "https://t.co/GROAoMVzad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019642542745374756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019242616173523277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当年扫射正太控的时候猜猜我在哪？ https://t.co/GROAoMVzad"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019242602462343169"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2019242616173523277",
+        "created_at": "2026-02-05T02:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019242616173523277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuKPr21rd8",
+              "end": 46,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2019242616173523277/photo/1",
+              "media_key": "3_2019242602462343169",
+              "start": 23,
+              "url": "https://t.co/vuKPr21rd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019242616173523277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 603,
+          "impression_count": 190946,
+          "like_count": 2223,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "md我发现原来我是个正太控我tm爱死了🥲😭😭 https://t.co/vuKPr21rd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 629,
+          "like_count": 6294,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1365
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18｜天空树｜爱发高p照仔细甄别😵‍💫|发日常|成分复杂|篮球世家🌚运动跨😹best athlete must be @Yg_Trece @TheTraeYoung !|会给同类互fo|好姐姐 @HappyHejsDay 特别的 @shixveriya 🥰|安卓小号 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Yg_Trece"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "TheTraeYoung"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "shixveriya"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "username": "PG13LD77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnI3l"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2017161495646490860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 813,
+          "like_count": 3442,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2901
+        },
+        "url": "https://t.co/MqRT8JnI3l",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

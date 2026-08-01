@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1962730157703409989",
+    "created_at": "2025-09-02T16:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962920569080557752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1801195917707735040",
+          "start": 0,
+          "username": "htydd7"
+        },
+        {
+          "end": 21,
+          "id": "1585942498253238273",
+          "start": 8,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962920569080557752",
+    "in_reply_to_user_id": "1801195917707735040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962920483076424009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@htydd7 @AliceEslight 嘻嘻₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962730157703409989",
+        "created_at": "2025-09-02T16:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962920569080557752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1801195917707735040",
+              "start": 0,
+              "username": "htydd7"
+            },
+            {
+              "end": 21,
+              "id": "1585942498253238273",
+              "start": 8,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962920569080557752",
+        "in_reply_to_user_id": "1801195917707735040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962920483076424009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@htydd7 @AliceEslight 嘻嘻₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801195917707735040",
+        "conversation_id": "1962730157703409989",
+        "created_at": "2025-09-02T16:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962920483076424009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            },
+            {
+              "end": 25,
+              "id": "1585942498253238273",
+              "start": 12,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962920483076424009",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962919002646409404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 @AliceEslight 这边汁水真的挺足的我在其他地方都没吃到过这么汁水，这么足的麦当劳好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 287,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 556
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T10:12:43.000Z",
+        "description": "05/179cm/生理性别♀️/暂时坐标：消失／l死宅 ／喜强制爱INFP小蝴蝶      ／看到请自觉转发",
+        "id": "1801195917707735040",
+        "location": "你心里",
+        "name": "小困闲🍥",
+        "pinned_tweet_id": "1961304097031909609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882672191059427328/f5eQhjbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 126,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 502
+        },
+        "username": "htydd7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "我多想……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aliceeslight1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aliceeslight1",
+                "start": 0,
+                "url": "https://t.co/y3f6U9JOiT"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "不可思议",
+        "name": "Alice",
+        "pinned_tweet_id": "1956763886964895865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901073314480877571/KPSFnYts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 67,
+          "like_count": 22572,
+          "listed_count": 3,
+          "media_count": 356,
+          "tweet_count": 7986
+        },
+        "url": "https://t.co/y3f6U9JOiT",
+        "username": "AliceEslight",
+        "verified": false
+      }
+    ]
+  }
+}

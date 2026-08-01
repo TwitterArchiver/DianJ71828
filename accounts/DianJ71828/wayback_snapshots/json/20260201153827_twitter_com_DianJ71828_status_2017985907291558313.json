@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2017486140924956870",
+    "created_at": "2026-02-01T15:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017985907291558313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1719681264461168641",
+          "start": 0,
+          "username": "beilinzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017985907291558313",
+    "in_reply_to_user_id": "1719681264461168641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017577773259473185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beilinzhi 窝趣，可以可以！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2017486140924956870",
+        "created_at": "2026-02-01T15:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017985907291558313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1719681264461168641",
+              "start": 0,
+              "username": "beilinzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017985907291558313",
+        "in_reply_to_user_id": "1719681264461168641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017577773259473185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beilinzhi 窝趣，可以可以！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719681264461168641",
+        "conversation_id": "2017486140924956870",
+        "created_at": "2026-01-31T12:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017577773259473185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017577773259473185",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017486140924956870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 进青岛xyn群嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 611,
+          "like_count": 6043,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1319
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T11:42:26.000Z",
+        "description": "05大学实习牲｜INFP？｜泛性恋｜0.5｜是个臭看番的｜家长不管党｜可互fo 私我｜猫猫老婆喵@Cryogenic3770ฅ^•ﻌ•^ฅ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Cryogenic3770"
+              }
+            ]
+          }
+        },
+        "id": "1719681264461168641",
+        "location": "青岛",
+        "name": "北林鸷",
+        "pinned_tweet_id": "1994453475925922145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015840876480888832/-3orralD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 255,
+          "like_count": 2723,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 270
+        },
+        "username": "beilinzhi",
+        "verified": false
+      }
+    ]
+  }
+}

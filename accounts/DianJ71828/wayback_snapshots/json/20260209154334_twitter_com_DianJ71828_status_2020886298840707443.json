@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2020886298840707443",
+    "created_at": "2026-02-09T15:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020886298840707443"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "男娘"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "药娘"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "婊子"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "母狗"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "484205602",
+          "start": 3,
+          "username": "DJMDS520"
+        },
+        {
+          "end": 62,
+          "id": "1972283729340162048",
+          "start": 54,
+          "username": "xio6267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020886298840707443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020722654085616097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DJMDS520: 这臭婊子让我一次又一次绝望，跟你的黄毛过一辈子去吧，从来没有考虑到我的感受\n婊子@xio6267 \n黄毛qq: 2105355842（没想到摄影私下还干这种事情，去漫展谁还找你啊，13都不知道能不能保住）\n#男娘 #药娘 #婊子 #母狗 #cos #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020886298840707443].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020886298840707443",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020886298840707443"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36016,
+        "height": 720,
+        "media_key": "13_2020722288329658368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020722288329658368/img/3-Y1z03QnPxzlraK.jpg",
+        "public_metrics": {
+          "view_count": 994
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020722288329658368/vid/avc1/480x270/MXTvdIg8NYEtfyU8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020722288329658368/vid/avc1/640x360/eY88p4mOw9kyBWjC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020722288329658368/vid/avc1/1280x720/WZPzc5oNtTYg7Cps.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020722288329658368/pl/s0RkWAuFHLU8YP69.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020722288329703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsMNwmbQAA-TbP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2020722288329699328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsMNwmbMAANFQ5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020722288329662465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsMNwmaoAEegFG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020722288329658368",
+            "3_2020722288329703424",
+            "3_2020722288329699328",
+            "3_2020722288329662465"
+          ]
+        },
+        "author_id": "484205602",
+        "conversation_id": "2020722654085616097",
+        "created_at": "2026-02-09T04:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020722654085616097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "男娘"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "药娘"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "婊子"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "母狗"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "cos"
+            },
+            {
+              "end": 132,
+              "start": 124,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1972283729340162048",
+              "start": 40,
+              "username": "xio6267"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEjG2sNy0e",
+              "end": 156,
+              "expanded_url": "https://x.com/DJMDS520/status/2020722654085616097/video/1",
+              "media_key": "13_2020722288329658368",
+              "start": 133,
+              "url": "https://t.co/IEjG2sNy0e"
+            },
+            {
+              "display_url": "pic.x.com/IEjG2sNy0e",
+              "end": 156,
+              "expanded_url": "https://x.com/DJMDS520/status/2020722654085616097/video/1",
+              "media_key": "3_2020722288329703424",
+              "start": 133,
+              "url": "https://t.co/IEjG2sNy0e"
+            },
+            {
+              "display_url": "pic.x.com/IEjG2sNy0e",
+              "end": 156,
+              "expanded_url": "https://x.com/DJMDS520/status/2020722654085616097/video/1",
+              "media_key": "3_2020722288329699328",
+              "start": 133,
+              "url": "https://t.co/IEjG2sNy0e"
+            },
+            {
+              "display_url": "pic.x.com/IEjG2sNy0e",
+              "end": 156,
+              "expanded_url": "https://x.com/DJMDS520/status/2020722654085616097/video/1",
+              "media_key": "3_2020722288329662465",
+              "start": 133,
+              "url": "https://t.co/IEjG2sNy0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020722654085616097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2616,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这臭婊子让我一次又一次绝望，跟你的黄毛过一辈子去吧，从来没有考虑到我的感受\n婊子@xio6267 \n黄毛qq: 2105355842（没想到摄影私下还干这种事情，去漫展谁还找你啊，13都不知道能不能保住）\n#男娘 #药娘 #婊子 #母狗 #cos #cosplay https://t.co/IEjG2sNy0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 650,
+          "like_count": 6737,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1442
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-05T21:06:18.000Z",
+        "description": "原账号@DJMDSlove一万二粉被冻结😭😭😭可爱的小男娘🩷身高165🩷体重53🩷过🚪50加v🩷在赤峰🩷可线上线下全国可飞价格表在主页置顶🩷QQ1174329217🩷可互推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "DJMDSlove"
+              }
+            ]
+          }
+        },
+        "id": "484205602",
+        "location": "赤峰",
+        "name": "可爱的小杀",
+        "pinned_tweet_id": "2018357261933133970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018276327833657344/gqePrEKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3851,
+          "following_count": 1709,
+          "like_count": 2239,
+          "listed_count": 20,
+          "media_count": 126,
+          "tweet_count": 2266
+        },
+        "username": "DJMDS520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T12:54:50.000Z",
+        "description": "",
+        "id": "1972283729340162048",
+        "name": "GALS",
+        "pinned_tweet_id": "2016475320157938154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008781462590664704/Yhrz23YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 8,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "xio6267",
+        "verified": false
+      }
+    ]
+  }
+}

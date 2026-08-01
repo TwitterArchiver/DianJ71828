@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026986591349252345",
+    "created_at": "2026-02-26T11:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026986591349252345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bnij9K/status/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Bnij9K/status/2026972119582867734",
+          "start": 27,
+          "url": "https://t.co/WGhPjQg9Jj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026986591349252345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026972119582867734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "no宿no宿。。宿命蛊都被红莲拿着爱情蛊打裂了。。。 https://t.co/WGhPjQg9Jj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026986591349252345",
+        "created_at": "2026-02-26T11:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026986591349252345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bnij9K/status/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Bnij9K/status/2026972119582867734",
+              "start": 27,
+              "url": "https://t.co/WGhPjQg9Jj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026986591349252345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026972119582867734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "no宿no宿。。宿命蛊都被红莲拿着爱情蛊打裂了。。。 https://t.co/WGhPjQg9Jj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810158461080227840",
+        "conversation_id": "2026933416634233024",
+        "created_at": "2026-02-26T10:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026972119582867734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026972119582867734",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026933416634233024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya “宿命”，因为哪怕是爱情，也会抵挡不了世间离别宿命。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 743,
+          "like_count": 10597,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2008
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T03:46:33.000Z",
+        "description": "05｜喜欢听歌，健身ing｜朋友圈｜欢迎欢迎！",
+        "id": "1810158461080227840",
+        "location": "广东",
+        "name": "upup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981956811260317696/WMYguS-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 27,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 426
+        },
+        "username": "Bnij9K",
+        "verified": false
+      }
+    ]
+  }
+}

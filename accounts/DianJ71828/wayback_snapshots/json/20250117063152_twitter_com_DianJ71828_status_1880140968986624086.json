@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880140966176198656"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1880140968986624086",
+    "created_at": "2025-01-17T06:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T07:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880140968986624086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qzrsf3YV3l",
+          "end": 41,
+          "expanded_url": "https://x.com/DianJ71828/status/1880140968986624086/photo/1",
+          "media_key": "3_1880140966176198656",
+          "start": 18,
+          "url": "https://t.co/Qzrsf3YV3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880140968986624086",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是在搞抽象就是在搞抽象的路上～ https://t.co/Qzrsf3YV3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_1880140966176198656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GheaP1CXkAAezPS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880140966176198656"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880140968986624086",
+        "created_at": "2025-01-17T06:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T07:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880140968986624086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qzrsf3YV3l",
+              "end": 41,
+              "expanded_url": "https://x.com/DianJ71828/status/1880140968986624086/photo/1",
+              "media_key": "3_1880140966176198656",
+              "start": 18,
+              "url": "https://t.co/Qzrsf3YV3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880140968986624086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是在搞抽象就是在搞抽象的路上～ https://t.co/Qzrsf3YV3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "",
+        "id": "1880140645454725120",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

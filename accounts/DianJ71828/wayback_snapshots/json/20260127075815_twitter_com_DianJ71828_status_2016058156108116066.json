@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2015732530956361919",
+    "created_at": "2026-01-27T07:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T08:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016058156108116066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828234384949891072",
+          "start": 0,
+          "username": "linglingml77780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016058156108116066",
+    "in_reply_to_user_id": "1828234384949891072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015999985586995584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linglingml77780 他说风雨中这点痛～算什么！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2015732530956361919",
+        "created_at": "2026-01-27T07:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016058156108116066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828234384949891072",
+              "start": 0,
+              "username": "linglingml77780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016058156108116066",
+        "in_reply_to_user_id": "1828234384949891072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015999985586995584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linglingml77780 他说风雨中这点痛～算什么！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828234384949891072",
+        "conversation_id": "2015732530956361919",
+        "created_at": "2026-01-27T04:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015999985586995584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015999985586995584",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015732530956361919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 在受人欺负的时候总是听见水手说！ (ಡωಡ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/家长放养👀/时不时鉴证(实则天天发情💓)/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 528,
+          "like_count": 5282,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1116
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T00:53:58.000Z",
+        "description": "偶尔浏览推特，大部分时间在晚上",
+        "id": "1828234384949891072",
+        "location": "私立直江津高等学校3年1班、\n\n",
+        "name": "阿良良木历",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828234530697732096/o1RjqKNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 236,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 975
+        },
+        "username": "linglingml77780",
+        "verified": false
+      }
+    ]
+  }
+}

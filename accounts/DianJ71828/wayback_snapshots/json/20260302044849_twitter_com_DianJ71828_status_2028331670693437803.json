@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2028331002402390016",
+        "13_2028331049705762816",
+        "3_2028331094064680960"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028331670693437803",
+    "created_at": "2026-03-02T04:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028331670693437803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fP99Dqh5FR",
+          "end": 74,
+          "expanded_url": "https://x.com/DianJ71828/status/2028331670693437803/video/1",
+          "media_key": "13_2028331002402390016",
+          "start": 51,
+          "url": "https://t.co/fP99Dqh5FR"
+        },
+        {
+          "display_url": "pic.x.com/fP99Dqh5FR",
+          "end": 74,
+          "expanded_url": "https://x.com/DianJ71828/status/2028331670693437803/video/1",
+          "media_key": "13_2028331049705762816",
+          "start": 51,
+          "url": "https://t.co/fP99Dqh5FR"
+        },
+        {
+          "display_url": "pic.x.com/fP99Dqh5FR",
+          "end": 74,
+          "expanded_url": "https://x.com/DianJ71828/status/2028331670693437803/video/1",
+          "media_key": "3_2028331094064680960",
+          "start": 51,
+          "url": "https://t.co/fP99Dqh5FR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028331670693437803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烧仙草宣告老唐死亡，o圈真别碰瓷，智商也研究不明白什么是药物联用了。\n（ps：老唐假死，这波烧脑！） https://t.co/fP99Dqh5FR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15273,
+        "height": 1560,
+        "media_key": "13_2028331002402390016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028331002402390016/img/cLjH_rEib1EfQYgC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028331002402390016/vid/avc1/320x692/BPx-vLhqfla_9gA6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028331002402390016/vid/avc1/480x1040/vDv4tfiif-FUPtoL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028331002402390016/vid/avc1/720x1560/XtjnuAqDjvgvOSsM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028331002402390016/pl/9ruSaCjqR_ctD4ep.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7722,
+        "height": 720,
+        "media_key": "13_2028331049705762816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028331049705762816/img/bc-eZWMJHLBB8I6_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028331049705762816/vid/avc1/584x270/3O6y6zlmmpuXABDF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028331049705762816/vid/avc1/780x360/YuR-9usKcKZHKzYB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028331049705762816/vid/avc1/1560x720/qhP7u5YJxp8gOlKj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028331049705762816/pl/D_hCGhb5Hf5U0Ghn.m3u8?tag=14"
+          }
+        ],
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028331094064680960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYUYiya0AAa_Az.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028331002402390016",
+            "13_2028331049705762816",
+            "3_2028331094064680960"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028331670693437803",
+        "created_at": "2026-03-02T04:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028331670693437803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fP99Dqh5FR",
+              "end": 74,
+              "expanded_url": "https://x.com/DianJ71828/status/2028331670693437803/video/1",
+              "media_key": "13_2028331002402390016",
+              "start": 51,
+              "url": "https://t.co/fP99Dqh5FR"
+            },
+            {
+              "display_url": "pic.x.com/fP99Dqh5FR",
+              "end": 74,
+              "expanded_url": "https://x.com/DianJ71828/status/2028331670693437803/video/1",
+              "media_key": "13_2028331049705762816",
+              "start": 51,
+              "url": "https://t.co/fP99Dqh5FR"
+            },
+            {
+              "display_url": "pic.x.com/fP99Dqh5FR",
+              "end": 74,
+              "expanded_url": "https://x.com/DianJ71828/status/2028331670693437803/video/1",
+              "media_key": "3_2028331094064680960",
+              "start": 51,
+              "url": "https://t.co/fP99Dqh5FR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028331670693437803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烧仙草宣告老唐死亡，o圈真别碰瓷，智商也研究不明白什么是药物联用了。\n（ps：老唐假死，这波烧脑！） https://t.co/fP99Dqh5FR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 516,
+          "like_count": 11334,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 2180
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

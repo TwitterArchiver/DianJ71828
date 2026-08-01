@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2027453766153417102",
+    "created_at": "2026-02-28T01:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027555080707444950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1316103441182158849",
+          "start": 0,
+          "username": "xsf727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027555080707444950",
+    "in_reply_to_user_id": "1316103441182158849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027453766153417102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsf727 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2027453766153417102",
+        "created_at": "2026-02-28T01:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027555080707444950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1316103441182158849",
+              "start": 0,
+              "username": "xsf727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027555080707444950",
+        "in_reply_to_user_id": "1316103441182158849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027453766153417102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsf727 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316103441182158849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2027453766153417102",
+        "created_at": "2026-02-27T18:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027453766153417102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DianJ71828/sta…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/DianJ71828/status/2027292289723408426",
+              "start": 138,
+              "url": "https://t.co/frDDNmI2y8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027453766153417102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027292289723408426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一说一其实中国跨性别平均寿命短不是因为雌二醇，是因为个体情绪状态不稳定加上中国社会对跨性别的不友好导致的个体情绪崩溃，所以自杀率高导致平均寿命低，其实大家只要放平心态，做好自己就可以了，与其用死让他人低看这个群体不如好好活着，给予后继者更多的经验与帮助，从而改变社会看法。 https://t.co/frDDNmI2y8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 501,
+          "like_count": 11073,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2122
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T19:48:17.000Z",
+        "description": "可以找我买🍬，谢谢啦，纸飞机找我哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/DF2murasame",
+                "end": 23,
+                "expanded_url": "https://t.me/DF2murasame",
+                "start": 0,
+                "url": "https://t.co/fLuKZGrnL5"
+              }
+            ]
+          }
+        },
+        "id": "1316103441182158849",
+        "location": "地球",
+        "name": "断风",
+        "pinned_tweet_id": "2025602290661589076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023720233291444232/Egmdbr9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 462,
+          "like_count": 1017,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 5772
+        },
+        "url": "https://t.co/fLuKZGrnL5",
+        "username": "xsf727",
+        "verified": false
+      }
+    ]
+  }
+}

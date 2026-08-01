@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1962051420049547264"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1962051464479846760",
+    "created_at": "2025-08-31T07:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T08:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962051464479846760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QVuLsorwsc",
+          "end": 51,
+          "expanded_url": "https://x.com/DianJ71828/status/1962051464479846760/video/1",
+          "media_key": "7_1962051420049547264",
+          "start": 28,
+          "url": "https://t.co/QVuLsorwsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962051464479846760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我精神状态理论应该崩溃\n但我的解离弥补了这一点😭😭 https://t.co/QVuLsorwsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6783,
+        "height": 1280,
+        "media_key": "7_1962051420049547264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1962051420049547264/pu/img/qEUIK-GnkAaOvCCB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962051420049547264/pu/vid/avc1/320x568/Rj0kPHPRaMrgRMqM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962051420049547264/pu/vid/avc1/480x852/8oPJ5UOWbm3Ql-xl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962051420049547264/pu/vid/avc1/720x1280/zC0Hx20JXhTNCmtx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1962051420049547264/pu/pl/i-BZXEv6BHv3BR8x.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1962051420049547264"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962051464479846760",
+        "created_at": "2025-08-31T07:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962051464479846760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVuLsorwsc",
+              "end": 51,
+              "expanded_url": "https://x.com/DianJ71828/status/1962051464479846760/video/1",
+              "media_key": "7_1962051420049547264",
+              "start": 28,
+              "url": "https://t.co/QVuLsorwsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962051464479846760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我精神状态理论应该崩溃\n但我的解离弥补了这一点😭😭 https://t.co/QVuLsorwsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 247,
+          "like_count": 1952,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 435
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

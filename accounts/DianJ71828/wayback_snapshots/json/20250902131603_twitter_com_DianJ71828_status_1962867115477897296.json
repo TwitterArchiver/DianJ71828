@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1962860583457628403",
+    "created_at": "2025-09-02T13:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962867115477897296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "XynFemboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962867115477897296",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962860583457628403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynFemboy ₍˄·͈༝·͈˄*₎◞ ̑̑其实大家都痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962860583457628403",
+        "created_at": "2025-09-02T13:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962867115477897296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "XynFemboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962867115477897296",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962860583457628403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynFemboy ₍˄·͈༝·͈˄*₎◞ ̑̑其实大家都痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1962860583457628403",
+        "created_at": "2025-09-02T12:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962860583457628403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i_xinnnnn/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/i_xinnnnn/status/1962837121535983820",
+              "start": 23,
+              "url": "https://t.co/EXxBnazApS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962860583457628403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962837121535983820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两个跨性别互相羡慕，都在痛苦。\n那谁在幸福？ https://t.co/EXxBnazApS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 279,
+          "like_count": 2271,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 542
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "半转世中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jilaoshi",
+                "end": 23,
+                "expanded_url": "https://t.me/jilaoshi",
+                "start": 0,
+                "url": "https://t.co/ENIsNAGnjp"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️哈寄米です🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962071498526498816/94KTqvfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 995,
+          "like_count": 49457,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 5375
+        },
+        "url": "https://t.co/ENIsNAGnjp",
+        "username": "XynFemboy",
+        "verified": false
+      }
+    ]
+  }
+}

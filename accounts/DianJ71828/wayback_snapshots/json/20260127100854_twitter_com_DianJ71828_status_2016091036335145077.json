@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2016091036335145077",
+    "created_at": "2026-01-27T10:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016091036335145077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "756779273155858432",
+          "start": 3,
+          "username": "ScarletKc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016091036335145077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012084285482926262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScarletKc_: 卫生间不该按男女区分，而应尽可能统一为“同一入口、全独立隔间”的形式。因为对公共服务而言，性别并不是最关键的变量，效率、隐私、无障碍可达性与安全管理，才是更底层、更普适的需求。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2016091036335145077",
+        "created_at": "2026-01-27T10:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016091036335145077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "756779273155858432",
+              "start": 3,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016091036335145077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012084285482926262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScarletKc_: 卫生间不该按男女区分，而应尽可能统一为“同一入口、全独立隔间”的形式。因为对公共服务而言，性别并不是最关键的变量，效率、隐私、无障碍可达性与安全管理，才是更底层、更普适的需求。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "conversation_id": "2012084285482926262",
+        "created_at": "2026-01-16T08:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012084285482926262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012084285482926262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "卫生间不该按男女区分，而应尽可能统一为“同一入口、全独立隔间”的形式。因为对公共服务而言，性别并不是最关键的变量，效率、隐私、无障碍可达性与安全管理，才是更底层、更普适的需求。\n\n首先，统一隔间能显著提升资源利用效率，减少排队浪费。男女分厕等于把同一类厕位硬切成两半，但在商场、学校、医院、体育馆等场景里，人流结构随时间波动很大：一侧长期排队、另一侧空置并不罕见。把厕位并入同一个“共享池”，就能用同样面积承接更大的峰值，整体等待时间更短，也更公平——不让任何群体因为结构性设计而被迫更久等待。\n\n其次，隔间把隐私做扎实，比“分男女”更能提升如厕体验。多数人真正担心的不是门口牌子写什么，而是隔间是否严密、是否有尴尬的门缝、是否会被窥视或打扰。若采用从地到顶、遮挡良好的独立隔间，隐私保护几乎与性别无关，甚至能让所有人都获得更一致、更可靠的尊严感。\n\n第三，统一隔间更符合现实生活中的照护需求，也更利于无障碍。带小孩的家长、照护老人或行动不便者、残障人士陪护，经常遇到“陪同者性别不匹配”的尴尬与阻碍。全隔间天然允许陪护者同进同出，减少误解与冲突。无障碍更是典型例子：轮椅回转空间、扶手、紧急呼叫按钮、便于开关门与转移的布局，这些需求都与性别无关。统一入口、统一动线、随取随用的无障碍隔间，比把无障碍厕位分散在某一侧更易找到、更少绕路，也更便于照护与应急。\n\n第四，这种设计更能减少社会摩擦，提升包容性。对跨性别与非二元群体而言，传统分厕往往意味着每天都要做“身份表态式选择”，承受注视、质疑甚至驱赶。统一隔间把规则从“你属于哪类”变成“你是否遵守秩序”，让公共服务回到“按需要使用”的原则，冲突点更少。\n\n很多人会担心安全问题，但安全并不必然依赖“分男女”，更依赖空间设计与管理机制。骚扰、偷拍等风险的关键变量在于：隔间是否封闭、公共区域是否明亮可见、人流动线是否清晰、是否设紧急求助按钮与巡检制度、监控是否只覆盖公共洗手区而不触及隔间隐私。换句话说，分厕更多提供心理屏障，而“高标准隔间 + 明亮公共区 + 清晰管理与惩处”才能把安全落到实处。\n\n最后，从建设与运维看，统一隔间也更灵活、更可持续。新建项目减少因男女比例预估错误导致的返工；运营中遇到高峰无需跨区调度，同一套厕位即可分流；保洁、耗材与维护流程更标准化。落地上也可以循序渐进：在总体统一隔间的前提下，明确配置一定比例的无障碍隔间与亲子/护理空间；如场景需要，也可保留少量专用空间以照顾部分人群的舒适偏好。核心方向是把公共卫生间从“按身份分配”转向“按需求服务”，让效率、尊严与可达性成为真正的设计标准。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 28881,
+          "like_count": 171,
+          "quote_count": 8,
+          "reply_count": 37,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "卫生间不该按男女区分，而应尽可能统一为“同一入口、全独立隔间”的形式。因为对公共服务而言，性别并不是最关键的变量，效率、隐私、无障碍可达性与安全管理，才是更底层、更普适的需求。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/家长放养👀/时不时鉴证(实则天天发情💓)/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 531,
+          "like_count": 5293,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1125
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "AI tinkerer | Python enthusiast | Indie dev | College student | 🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "name": "KC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004921872228720640/UUNLn5t3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 975,
+          "like_count": 68958,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 6420
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc_",
+        "verified": true
+      }
+    ]
+  }
+}

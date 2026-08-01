@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2073294721607508379",
+    "created_at": "2026-07-04T06:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073294721607508379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baharkarakrt/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/baharkarakrt/status/2073086161124229376",
+          "start": 4,
+          "url": "https://t.co/9kAVSWJTUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073294721607508379",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073086161124229376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "b=b https://t.co/9kAVSWJTUA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2073086156833533952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUU4D7XsAAJH0Q.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2073294721607508379",
+        "created_at": "2026-07-04T06:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073294721607508379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baharkarakrt/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/baharkarakrt/status/2073086161124229376",
+              "start": 4,
+              "url": "https://t.co/9kAVSWJTUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073294721607508379",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073086161124229376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "b=b https://t.co/9kAVSWJTUA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073086156833533952"
+          ]
+        },
+        "author_id": "1067876728310308865",
+        "conversation_id": "2073086161124229376",
+        "created_at": "2026-07-03T16:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073086161124229376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4ZD2LIwhA",
+              "end": 87,
+              "expanded_url": "https://x.com/baharkarakrt/status/2073086161124229376/photo/1",
+              "media_key": "3_2073086156833533952",
+              "start": 64,
+              "url": "https://t.co/t4ZD2LIwhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073086161124229376",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 967,
+          "impression_count": 3945494,
+          "like_count": 3970,
+          "quote_count": 539,
+          "reply_count": 10488,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "Bunu çözersen, zeka seviyen ortalamanın üstündedir.\n\nb kaçtır ? https://t.co/t4ZD2LIwhA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 539,
+          "like_count": 12889,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2624
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T20:23:46.000Z",
+        "description": "Fenerbahçe 💙💛 🪄ɪş ʙɪʀʟɪɢ̆ɪ ɪᴄ̧ɪɴ ᴅᴍ 💌                                                         🪄✨ ℙ𝕠𝕨𝕖𝕣𝕡𝕦𝕗𝕗 🪄✨",
+        "id": "1067876728310308865",
+        "name": "Bahar",
+        "pinned_tweet_id": "1732518499371655197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816258057300508672/bRHwiCvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18787,
+          "following_count": 8062,
+          "like_count": 197664,
+          "listed_count": 29,
+          "media_count": 1180,
+          "tweet_count": 109638
+        },
+        "url": "",
+        "username": "baharkarakrt",
+        "verified": true
+      }
+    ]
+  }
+}

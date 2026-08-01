@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2021781057247543296"
+      ],
+      "media_source_tweet_id": [
+        "2021781072573608335"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021905000583299479",
+    "created_at": "2026-02-12T11:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021905000583299479"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "les"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "女同性恋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974862287761817600",
+          "start": 3,
+          "username": "liyuyuyuber"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZpgIe19Qgs",
+          "end": 55,
+          "expanded_url": "https://x.com/liyuyuyuber/status/2021781072573608335/photo/1",
+          "media_key": "16_2021781057247543296",
+          "start": 32,
+          "url": "https://t.co/ZpgIe19Qgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021905000583299479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021781072573608335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liyuyuyuber: 离近点 #les #女同性恋 https://t.co/ZpgIe19Qgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2021781057247543296",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HA7PKOLagAAo3hM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HA7PKOLagAAo3hM.mp4"
+          }
+        ],
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2021781057247543296"
+          ],
+          "media_source_tweet_id": [
+            "2021781072573608335"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2021905000583299479",
+        "created_at": "2026-02-12T11:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021905000583299479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "les"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "女同性恋"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974862287761817600",
+              "start": 3,
+              "username": "liyuyuyuber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpgIe19Qgs",
+              "end": 55,
+              "expanded_url": "https://x.com/liyuyuyuber/status/2021781072573608335/photo/1",
+              "media_key": "16_2021781057247543296",
+              "start": 32,
+              "url": "https://t.co/ZpgIe19Qgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021905000583299479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021781072573608335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liyuyuyuber: 离近点 #les #女同性恋 https://t.co/ZpgIe19Qgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2021781057247543296"
+          ]
+        },
+        "author_id": "1974862287761817600",
+        "conversation_id": "2021781072573608335",
+        "created_at": "2026-02-12T02:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021781072573608335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "les"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpgIe19Qgs",
+              "end": 38,
+              "expanded_url": "https://x.com/liyuyuyuber/status/2021781072573608335/photo/1",
+              "media_key": "16_2021781057247543296",
+              "start": 15,
+              "url": "https://t.co/ZpgIe19Qgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021781072573608335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2527,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "离近点 #les #女同性恋 https://t.co/ZpgIe19Qgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 713,
+          "like_count": 8037,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1640
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:40:47.000Z",
+        "description": "本人使用 内站同名 ｜🌈les 男看了挡灾｜💙Ado",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/liyuyuyuber?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/liyuyuyuber?igsh=MWI4cGk3a3FmOGZpeA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/a2iVZX23MP"
+              }
+            ]
+          }
+        },
+        "id": "1974862287761817600",
+        "location": "Tokyo",
+        "name": "大鲤鱼berber蹦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019438080231632907/RX8m7bij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 1,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/a2iVZX23MP",
+        "username": "liyuyuyuber",
+        "verified": false
+      }
+    ]
+  }
+}

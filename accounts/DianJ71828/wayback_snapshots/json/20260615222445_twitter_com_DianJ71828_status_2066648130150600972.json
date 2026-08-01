@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2066648130150600972",
+    "created_at": "2026-06-15T22:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T23:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066648130150600972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mandopel/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/mandopel/status/2066463576479449488",
+          "start": 26,
+          "url": "https://t.co/1dCIjOrQPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066648130150600972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066463576479449488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的，這是我身材投的第一志願，現在看來好像落榜了。 https://t.co/1dCIjOrQPQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2066463573711175682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2Nq_RWwAIPWmX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2066648130150600972",
+        "created_at": "2026-06-15T22:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T23:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066648130150600972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mandopel/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/mandopel/status/2066463576479449488",
+              "start": 26,
+              "url": "https://t.co/1dCIjOrQPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066648130150600972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066463576479449488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，這是我身材投的第一志願，現在看來好像落榜了。 https://t.co/1dCIjOrQPQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066463573711175682"
+          ]
+        },
+        "author_id": "2010062978692038656",
+        "conversation_id": "2066463576479449488",
+        "created_at": "2026-06-15T10:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066463576479449488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xC4xXFRRMa",
+              "end": 28,
+              "expanded_url": "https://x.com/mandopel/status/2066463576479449488/photo/1",
+              "media_key": "3_2066463573711175682",
+              "start": 5,
+              "url": "https://t.co/xC4xXFRRMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066463576479449488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 567,
+          "impression_count": 45316,
+          "like_count": 5329,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "Evil https://t.co/xC4xXFRRMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 518,
+          "like_count": 12774,
+          "listed_count": 2,
+          "media_count": 381,
+          "tweet_count": 2567
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T18:56:29.000Z",
+        "description": "i do not promote — 18 y/o @rcraxn is my priv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "rcraxn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bitebite.straw.page",
+                "end": 23,
+                "expanded_url": "https://bitebite.straw.page",
+                "start": 0,
+                "url": "https://t.co/13xW94bwSn"
+              }
+            ]
+          }
+        },
+        "id": "2010062978692038656",
+        "location": "bmi 14s — 176cm",
+        "name": "rob",
+        "pinned_tweet_id": "2057392226825625822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048347041051652096/0pjoaCmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 1170,
+          "like_count": 12279,
+          "listed_count": 12,
+          "media_count": 93,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/13xW94bwSn",
+        "username": "mandopel",
+        "verified": false
+      }
+    ]
+  }
+}

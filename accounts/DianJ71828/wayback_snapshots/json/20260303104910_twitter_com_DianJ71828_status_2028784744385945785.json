@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2028784744385945785",
+    "created_at": "2026-03-03T10:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028784744385945785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hf0721933/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hf0721933/status/2028503171128029616",
+          "start": 18,
+          "url": "https://t.co/zz32IWLJFX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028784744385945785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028503171128029616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有吗？我顺女朋友一大半都是同啊。？ https://t.co/zz32IWLJFX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2028784744385945785",
+        "created_at": "2026-03-03T10:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028784744385945785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hf0721933/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hf0721933/status/2028503171128029616",
+              "start": 18,
+              "url": "https://t.co/zz32IWLJFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028784744385945785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028503171128029616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有吗？我顺女朋友一大半都是同啊。？ https://t.co/zz32IWLJFX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627292658157907968",
+        "conversation_id": "2028503171128029616",
+        "created_at": "2026-03-02T16:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028503171128029616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028503171128029616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内99%女同都反跨还有人不知道吗，人眼里你跟她们最恨的公出没有任何区别，她们甚至比恨顺男还要恨跨女，咋有些人还急着凑上去舔b投诚呢😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/遣唐使😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2028671429768822798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 528,
+          "like_count": 11605,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2228
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:03:18.000Z",
+        "description": "🏳️‍⚧️/💚🩶🤍🖤/🎀🎨🔄🆗",
+        "id": "1627292658157907968",
+        "name": "llly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028394730124410880/tI9QrOtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 290,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 326
+        },
+        "username": "hf0721933",
+        "verified": false
+      }
+    ]
+  }
+}

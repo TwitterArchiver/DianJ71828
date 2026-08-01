@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1961403934444327353",
+    "created_at": "2025-08-30T01:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T02:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961608231203246462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893246006722199552",
+          "start": 0,
+          "username": "yy99080707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961608231203246462",
+    "in_reply_to_user_id": "1893246006722199552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961600563566841992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy99080707 嘻嘻🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1961403934444327353",
+        "created_at": "2025-08-30T01:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T02:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961608231203246462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893246006722199552",
+              "start": 0,
+              "username": "yy99080707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961608231203246462",
+        "in_reply_to_user_id": "1893246006722199552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961600563566841992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy99080707 嘻嘻🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893246006722199552",
+        "conversation_id": "1961403934444327353",
+        "created_at": "2025-08-30T01:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T02:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961600563566841992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961600563566841992",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961403934444327353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 这个太好看了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 221,
+          "like_count": 1855,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 389
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T10:26:49.000Z",
+        "description": "漪漪母犬，天下第一！\nV:     ii_yydss\nQ:    292345836",
+        "id": "1893246006722199552",
+        "name": "漪漪屁股不大",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961381395609296896/vxp8p0i5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 125,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 33
+        },
+        "username": "yy99080707",
+        "verified": false
+      }
+    ]
+  }
+}

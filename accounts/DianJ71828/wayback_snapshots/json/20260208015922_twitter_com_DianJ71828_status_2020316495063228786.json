@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2020316495063228786",
+    "created_at": "2026-02-08T01:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T02:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020316495063228786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/S_Hyoscine/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/S_Hyoscine/status/2019936836169375914",
+          "start": 28,
+          "url": "https://t.co/dqpDFRtSHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020316495063228786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019936836169375914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁跟傻逼辩论，你看我鸟他不，顺直的恶臭味溢出来了🤮🤮🤮 https://t.co/dqpDFRtSHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2019936821103464448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhB1jKakAACGP2.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2020316495063228786",
+        "created_at": "2026-02-08T01:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020316495063228786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/S_Hyoscine/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/S_Hyoscine/status/2019936836169375914",
+              "start": 28,
+              "url": "https://t.co/dqpDFRtSHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020316495063228786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019936836169375914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁跟傻逼辩论，你看我鸟他不，顺直的恶臭味溢出来了🤮🤮🤮 https://t.co/dqpDFRtSHT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019936821103464448"
+          ]
+        },
+        "author_id": "1935176310663401472",
+        "conversation_id": "2019936836169375914",
+        "created_at": "2026-02-07T00:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T01:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019936836169375914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZ44bStjmm",
+              "end": 45,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2019936836169375914/photo/1",
+              "media_key": "3_2019936821103464448",
+              "start": 22,
+              "url": "https://t.co/cZ44bStjmm"
+            },
+            {
+              "display_url": "x.com/malloczero/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/malloczero/status/2019934787994320933",
+              "start": 46,
+              "url": "https://t.co/BNNIQHBVQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019936836169375914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6755,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019934787994320933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以顺直真就有张嘴有个手机就可以随便造谣呗 https://t.co/cZ44bStjmm https://t.co/BNNIQHBVQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 640,
+          "like_count": 6382,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1392
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "陪聊门槛50//抽象苹果粉//自由万岁/@hood438371无能的妻子//生产日期：07.03.22//要是不喜欢你的发言和观点就可能会b你//知不可乎骤得，托遗响于悲风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "三里屯水果批发市场",
+        "name": "春雪狐与东莨🍥",
+        "pinned_tweet_id": "2016068038773375401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005380683292983296/Iictc7oI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 850,
+          "like_count": 22349,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 5580
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

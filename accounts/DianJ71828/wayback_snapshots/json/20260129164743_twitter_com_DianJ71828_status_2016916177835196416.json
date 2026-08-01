@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2016404865950613877",
+    "created_at": "2026-01-29T16:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T17:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016916177835196416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786732256708751361",
+          "start": 0,
+          "username": "sondienluong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016916177835196416",
+    "in_reply_to_user_id": "1786732256708751361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016893666129039637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sondienluong 唔，這其實是我單純宣洩情緒。很多人是說不通的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2016404865950613877",
+        "created_at": "2026-01-29T16:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016916177835196416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786732256708751361",
+              "start": 0,
+              "username": "sondienluong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016916177835196416",
+        "in_reply_to_user_id": "1786732256708751361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016893666129039637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sondienluong 唔，這其實是我單純宣洩情緒。很多人是說不通的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786732256708751361",
+        "conversation_id": "2016404865950613877",
+        "created_at": "2026-01-29T15:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016893666129039637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016893666129039637",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016404865950613877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 聽到有人用『短命』呢類惡意言論攻擊 MTF（跨性別女性），妳感到憤怒係好正常嘅。我明白妳想用激烈嘅言論反擊，但更有效嘅方式可能係從理解同正確資訊入手去應對呢種傷害性言論。下面我同妳傾下點樣理解同應對呢種情況：🧠了解攻擊言論背後嘅心態好多人用惡毒說話攻擊他人，並唔係因為佢哋真係有道理，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 545,
+          "like_count": 5502,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1189
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T12:19:08.000Z",
+        "description": "時間회證明일절都會마平日절\n她間檜𢶢明一切𢵋檜魔平一切\n烏洟希@anhoamau",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "anhoamau"
+              }
+            ]
+          }
+        },
+        "id": "1786732256708751361",
+        "location": "慶南",
+        "name": "孫中山田涼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996901158330535936/Lp-6vffc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 65,
+          "like_count": 7090,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1583
+        },
+        "username": "sondienluong",
+        "verified": false
+      }
+    ]
+  }
+}

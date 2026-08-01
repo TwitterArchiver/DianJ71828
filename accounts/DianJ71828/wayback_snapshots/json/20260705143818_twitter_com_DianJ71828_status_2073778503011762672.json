@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2073778503011762672",
+    "created_at": "2026-07-05T14:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073778503011762672"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073778503011762672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "身体数据量出来了，好累\nHRT时长：690天\n身高：170cm | 体重：51kg\n肩宽：38cm\n腰围：60cm\n臀围：88cm\n下胸围：75cm（罩杯75A\n大腿围：45cm\n腿内侧长：80cm\n颈围：32.5cm\n腕围：14cm\n头围：53.5cm\n脚长：24cm（但因脚宽/脚背高，实际穿40"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2073778503011762672",
+        "created_at": "2026-07-05T14:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073778503011762672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073778503011762672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身体数据量出来了，好累\nHRT时长：690天\n身高：170cm | 体重：51kg\n肩宽：38cm\n腰围：60cm\n臀围：88cm\n下胸围：75cm（罩杯75A\n大腿围：45cm\n腿内侧长：80cm\n颈围：32.5cm\n腕围：14cm\n头围：53.5cm\n脚长：24cm（但因脚宽/脚背高，实际穿40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 540,
+          "like_count": 12923,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

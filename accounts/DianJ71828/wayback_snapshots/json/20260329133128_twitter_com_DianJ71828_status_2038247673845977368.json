@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2038247673845977368",
+    "created_at": "2026-03-29T13:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038247673845977368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/B_cat38324/status/2037852709504897418",
+          "start": 20,
+          "url": "https://t.co/0pF8H10Ud4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038247673845977368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037852709504897418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不清楚，我很喜歡中性化的打扮，很帥啊！ https://t.co/0pF8H10Ud4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2038247673845977368",
+        "created_at": "2026-03-29T13:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038247673845977368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/B_cat38324/status/2037852709504897418",
+              "start": 20,
+              "url": "https://t.co/0pF8H10Ud4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038247673845977368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037852709504897418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不清楚，我很喜歡中性化的打扮，很帥啊！ https://t.co/0pF8H10Ud4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2037852709504897418",
+        "created_at": "2026-03-28T11:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037852709504897418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_jjkk/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/xxx_jjkk/status/2037841320740622595",
+              "start": 28,
+              "url": "https://t.co/oOxCI2hRt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037852709504897418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 50028,
+          "like_count": 347,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037841320740622595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为药娘在度过她们的青春期……你青春期上黑丝虎皮裙啊？ https://t.co/oOxCI2hRt4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/遣唐使😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 526,
+          "like_count": 12592,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 2420
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22277,
+          "following_count": 198,
+          "like_count": 709,
+          "listed_count": 71,
+          "media_count": 102,
+          "tweet_count": 22793
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

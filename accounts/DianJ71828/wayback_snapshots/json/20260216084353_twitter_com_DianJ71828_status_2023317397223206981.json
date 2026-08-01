@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2023226691271663616"
+      ],
+      "media_source_tweet_id": [
+        "2023226938853093394"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2023317397223206981",
+    "created_at": "2026-02-16T08:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023317397223206981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1315059269260242944",
+          "start": 3,
+          "username": "MiriArachnia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hcSkodeObF",
+          "end": 41,
+          "expanded_url": "https://x.com/MiriArachnia/status/2023226938853093394/photo/1",
+          "media_key": "16_2023226691271663616",
+          "start": 18,
+          "url": "https://t.co/hcSkodeObF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023317397223206981",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1578
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023226938853093394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiriArachnia: https://t.co/hcSkodeObF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_2023226691271663616",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBPx9MlWIAAkfsW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBPx9MlWIAAkfsW.mp4"
+          }
+        ],
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023226691271663616"
+          ],
+          "media_source_tweet_id": [
+            "2023226938853093394"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2023317397223206981",
+        "created_at": "2026-02-16T08:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023317397223206981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1315059269260242944",
+              "start": 3,
+              "username": "MiriArachnia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcSkodeObF",
+              "end": 41,
+              "expanded_url": "https://x.com/MiriArachnia/status/2023226938853093394/photo/1",
+              "media_key": "16_2023226691271663616",
+              "start": 18,
+              "url": "https://t.co/hcSkodeObF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023317397223206981",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1578
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023226938853093394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiriArachnia: https://t.co/hcSkodeObF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023226691271663616"
+          ]
+        },
+        "author_id": "1315059269260242944",
+        "conversation_id": "2023226938853093394",
+        "created_at": "2026-02-16T02:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023226938853093394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcSkodeObF",
+              "end": 23,
+              "expanded_url": "https://x.com/MiriArachnia/status/2023226938853093394/photo/1",
+              "media_key": "16_2023226691271663616",
+              "start": 0,
+              "url": "https://t.co/hcSkodeObF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023226938853093394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7662,
+          "impression_count": 303573,
+          "like_count": 36687,
+          "quote_count": 68,
+          "reply_count": 95,
+          "retweet_count": 1578
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hcSkodeObF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 732,
+          "like_count": 9417,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1769
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-10T22:39:38.000Z",
+        "description": "♦️#artrachnia ♦️ Your shy arachnophobia demon!💕 \n♦️pfp: @Oubaisameko_159 ♦️banner: Enmeowy ♦️art/rig:me \n🔗: https://t.co/1vN9zpXoYB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 2,
+                "tag": "artrachnia"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Oubaisameko_159"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miriarachnia.carrd.co",
+                "end": 131,
+                "expanded_url": "http://miriarachnia.carrd.co",
+                "start": 108,
+                "url": "https://t.co/1vN9zpXoYB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/miriarachnia",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/miriarachnia",
+                "start": 0,
+                "url": "https://t.co/o5Nn9i1n7e"
+              }
+            ]
+          }
+        },
+        "id": "1315059269260242944",
+        "location": "📧:  miriarachnia@gmail.com",
+        "name": "Miri ♦️🕷️ Spider VTuber",
+        "pinned_tweet_id": "1845833837651144766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912207427958693888/FwnMo-5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4019,
+          "following_count": 411,
+          "like_count": 28965,
+          "listed_count": 53,
+          "media_count": 1607,
+          "tweet_count": 6975
+        },
+        "url": "https://t.co/o5Nn9i1n7e",
+        "username": "MiriArachnia",
+        "verified": false
+      }
+    ]
+  }
+}

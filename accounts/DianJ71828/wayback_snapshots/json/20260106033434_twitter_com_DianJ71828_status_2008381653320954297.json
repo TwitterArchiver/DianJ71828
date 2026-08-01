@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2008381653320954297",
+    "created_at": "2026-01-06T03:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008381653320954297"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008381653320954297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的好孤僻，异类，和女生玩又放不开，我始终知道我只是个半吊子性别，虽然没有想法，但女生之间的很多事情我无法去做！我想哭诉却没有人里我，我好像就死一下，但是我不想死，我还想去做手术，我想拿回本来属于我的关系！好恶心，我真的好恶心，我根本就不是女生，我只是个傻逼，异类，变态，人妖！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2008381653320954297",
+        "created_at": "2026-01-06T03:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008381653320954297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008381653320954297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好孤僻，异类，和女生玩又放不开，我始终知道我只是个半吊子性别，虽然没有想法，但女生之间的很多事情我无法去做！我想哭诉却没有人里我，我好像就死一下，但是我不想死，我还想去做手术，我想拿回本来属于我的关系！好恶心，我真的好恶心，我根本就不是女生，我只是个傻逼，异类，变态，人妖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 504,
+          "like_count": 4255,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 962
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

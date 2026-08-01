@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1893592891999551591",
+    "created_at": "2025-02-23T09:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T10:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893592891999551591"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893592891999551591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你要跟我说概率存在\n​我就要说上帝不掷骰子\n​你要是跟我说上帝不掷骰子\n​我就要说，你是个傻逼\n​我们有自由意志，概率是存在的\n​好吧\n​我其实单纯是想怼你\n​或者说概率存在与不存在本身并不矛盾\n​只是三维的脑子解释不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1893592891999551591",
+        "created_at": "2025-02-23T09:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893592891999551591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893592891999551591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你要跟我说概率存在\n​我就要说上帝不掷骰子\n​你要是跟我说上帝不掷骰子\n​我就要说，你是个傻逼\n​我们有自由意志，概率是存在的\n​好吧\n​我其实单纯是想怼你\n​或者说概率存在与不存在本身并不矛盾\n​只是三维的脑子解释不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 177,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 211
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

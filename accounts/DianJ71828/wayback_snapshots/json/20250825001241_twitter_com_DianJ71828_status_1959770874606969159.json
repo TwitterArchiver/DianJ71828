@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959770869540208641"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1959770874606969159",
+    "created_at": "2025-08-25T00:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T01:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959770874606969159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3BI50tnobQ",
+          "end": 27,
+          "expanded_url": "https://x.com/DianJ71828/status/1959770874606969159/photo/1",
+          "media_key": "3_1959770869540208641",
+          "start": 4,
+          "url": "https://t.co/3BI50tnobQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959770874606969159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对吗？ https://t.co/3BI50tnobQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1959770869540208641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzKBOPgaQAEkRHG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959770869540208641"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1959770874606969159",
+        "created_at": "2025-08-25T00:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T01:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959770874606969159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BI50tnobQ",
+              "end": 27,
+              "expanded_url": "https://x.com/DianJ71828/status/1959770874606969159/photo/1",
+              "media_key": "3_1959770869540208641",
+              "start": 4,
+              "url": "https://t.co/3BI50tnobQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959770874606969159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对吗？ https://t.co/3BI50tnobQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 182,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 259
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2008380167753003142",
+    "created_at": "2026-01-06T03:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008380167753003142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008380167753003142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008017599062499447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 根本不会有完美的性格啊，细腻的性格就会敏感记仇，大大咧咧的性格就容易冒犯，情绪稳定的容易冷暴力，喜怒哀乐都摆在脸上的人就会阴晴不定。人不能既要又要，养个狗还得帮狗捡屎呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2008380167753003142",
+        "created_at": "2026-01-06T03:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008380167753003142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008380167753003142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008017599062499447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 根本不会有完美的性格啊，细腻的性格就会敏感记仇，大大咧咧的性格就容易冒犯，情绪稳定的容易冷暴力，喜怒哀乐都摆在脸上的人就会阴晴不定。人不能既要又要，养个狗还得帮狗捡屎呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2008017599062499447",
+        "created_at": "2026-01-05T03:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T04:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008017599062499447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008017599062499447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 83255,
+          "like_count": 2234,
+          "quote_count": 19,
+          "reply_count": 64,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "根本不会有完美的性格啊，细腻的性格就会敏感记仇，大大咧咧的性格就容易冒犯，情绪稳定的容易冷暴力，喜怒哀乐都摆在脸上的人就会阴晴不定。人不能既要又要，养个狗还得帮狗捡屎呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 504,
+          "like_count": 4253,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 961
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4088,
+          "following_count": 6,
+          "like_count": 870,
+          "listed_count": 11,
+          "media_count": 51,
+          "tweet_count": 953
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

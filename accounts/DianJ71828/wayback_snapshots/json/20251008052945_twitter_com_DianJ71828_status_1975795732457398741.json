@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1975086579611050238",
+    "created_at": "2025-10-08T05:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T06:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975795732457398741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1797211754017280000",
+          "start": 0,
+          "username": "MXF0721"
+        },
+        {
+          "end": 25,
+          "id": "1920522677468704768",
+          "start": 9,
+          "username": "RhodesAmiy38560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975795732457398741",
+    "in_reply_to_user_id": "1797211754017280000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975762210376044741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MXF0721 @RhodesAmiy38560 🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1975086579611050238",
+        "created_at": "2025-10-08T05:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975795732457398741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1797211754017280000",
+              "start": 0,
+              "username": "MXF0721"
+            },
+            {
+              "end": 25,
+              "id": "1920522677468704768",
+              "start": 9,
+              "username": "RhodesAmiy38560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975795732457398741",
+        "in_reply_to_user_id": "1797211754017280000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975762210376044741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MXF0721 @RhodesAmiy38560 🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797211754017280000",
+        "conversation_id": "1975086579611050238",
+        "created_at": "2025-10-08T03:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975762210376044741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920522677468704768",
+              "start": 0,
+              "username": "RhodesAmiy38560"
+            },
+            {
+              "end": 28,
+              "id": "1880140645454725120",
+              "start": 17,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975762210376044741",
+        "in_reply_to_user_id": "1920522677468704768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975541456510271550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RhodesAmiy38560 @DianJ71828 雜魚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 495,
+          "like_count": 3768,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 860
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T10:21:21.000Z",
+        "description": "☯🎁生辰:辛卯 辛卯 己巳20110315☯۞現世的神秘主義者☯❀魔法少女☯東方project☯薇琳現人神☯接算卦(信徒免費)~☯信徒群:1039588480",
+        "id": "1797211754017280000",
+        "location": "艮之境",
+        "name": "魔法少女風☯薇琳",
+        "pinned_tweet_id": "1974092397056569773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959634010373861376/crRiO3vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 119,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 503
+        },
+        "username": "MXF0721",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:54:40.000Z",
+        "description": "",
+        "id": "1920522677468704768",
+        "name": "Amiya RHODES",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920522753343696898/QIUjyVGP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 248,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 349
+        },
+        "username": "RhodesAmiy38560",
+        "verified": false
+      }
+    ]
+  }
+}

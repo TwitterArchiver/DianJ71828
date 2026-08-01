@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2015605147637014752",
+    "created_at": "2026-01-26T01:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015605147637014752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1470943033365438470",
+          "start": 3,
+          "username": "CamanoDiana_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015605147637014752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015018559790092629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CamanoDiana_404: 我支持泛性恋，同性恋，异性恋，无性恋，顺女，顺男，跨女，跨男，非二元群体的合法权益\n反对任何特权，霸凌和歧视\n那群搞仇恨和歧视的可以来屏蔽我了🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2015605147637014752",
+        "created_at": "2026-01-26T01:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015605147637014752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1470943033365438470",
+              "start": 3,
+              "username": "CamanoDiana_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015605147637014752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015018559790092629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CamanoDiana_404: 我支持泛性恋，同性恋，异性恋，无性恋，顺女，顺男，跨女，跨男，非二元群体的合法权益\n反对任何特权，霸凌和歧视\n那群搞仇恨和歧视的可以来屏蔽我了🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "2015018559790092629",
+        "created_at": "2026-01-24T11:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015018559790092629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015018559790092629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 15456,
+          "like_count": 347,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我支持泛性恋，同性恋，异性恋，无性恋，顺女，顺男，跨女，跨男，非二元群体的合法权益\n反对任何特权，霸凌和歧视\n那群搞仇恨和歧视的可以来屏蔽我了🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 525,
+          "like_count": 5053,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1084
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "数字游人 哲学鬼才 禅宗 玩世不恭 若羌骇客 逻辑颠覆者 人形BUG 人类大模型 宇宙云端Root",
+        "id": "1470943033365438470",
+        "location": "IP: 若羌, 巴音郭楞, 新疆",
+        "name": "然子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754677745135617/PTxLN9py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 868,
+          "like_count": 27332,
+          "listed_count": 12,
+          "media_count": 1440,
+          "tweet_count": 19008
+        },
+        "username": "CamanoDiana_404",
+        "verified": false
+      }
+    ]
+  }
+}

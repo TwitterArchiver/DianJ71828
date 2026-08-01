@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021851367191851040"
+      ],
+      "media_source_tweet_id": [
+        "2021851375442018585"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021851844377817372",
+    "created_at": "2026-02-12T07:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021851844377817372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987222974320287749",
+          "start": 3,
+          "username": "pinkusou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E1CcTsyuEc",
+          "end": 42,
+          "expanded_url": "https://x.com/pinkusou/status/2021851375442018585/photo/1",
+          "media_key": "3_2021851367191851040",
+          "start": 19,
+          "url": "https://t.co/E1CcTsyuEc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021851844377817372",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021851375442018585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinkusou: 6！7！ https://t.co/E1CcTsyuEc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021851844377817372].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021851844377817372",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021851844377817372"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021851367191851040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8PGzIbsCAPJpK.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021851367191851040"
+          ]
+        },
+        "author_id": "1987222974320287749",
+        "conversation_id": "2021851375442018585",
+        "created_at": "2026-02-12T07:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021851375442018585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1CcTsyuEc",
+              "end": 28,
+              "expanded_url": "https://x.com/pinkusou/status/2021851375442018585/photo/1",
+              "media_key": "3_2021851367191851040",
+              "start": 5,
+              "url": "https://t.co/E1CcTsyuEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021851375442018585",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "6！7！ https://t.co/E1CcTsyuEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 712,
+          "like_count": 7852,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1609
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T18:17:45.000Z",
+        "description": "🔞⚠️！！！1.6m(Yup, It's my huge dick : )但愿我的思念能追随你进入梦乡……｜ Language：中文/English/日本語",
+        "id": "1987222974320287749",
+        "location": "广州 ｜🚪88（闲聊请先过🚪zfb口令）",
+        "name": "可怕喵喵恶",
+        "pinned_tweet_id": "2021851375442018585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996983563812737024/eKfrCyba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15242,
+          "following_count": 50,
+          "like_count": 210,
+          "listed_count": 70,
+          "media_count": 14,
+          "tweet_count": 201
+        },
+        "username": "pinkusou",
+        "verified": false
+      }
+    ]
+  }
+}

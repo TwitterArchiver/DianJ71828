@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1880166228502925617",
+    "created_at": "2025-01-17T13:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T14:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880243715543081300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788861189856083968",
+          "start": 0,
+          "username": "Sakura_Yukihane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880243715543081300",
+    "in_reply_to_user_id": "1788861189856083968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880166228502925617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_Yukihane 报警非法拘禁试试？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1880166228502925617",
+        "created_at": "2025-01-17T13:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T14:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880243715543081300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788861189856083968",
+              "start": 0,
+              "username": "Sakura_Yukihane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880243715543081300",
+        "in_reply_to_user_id": "1788861189856083968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880166228502925617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_Yukihane 报警非法拘禁试试？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880166225994723328",
+            "3_1880166225868935168"
+          ]
+        },
+        "author_id": "1788861189856083968",
+        "conversation_id": "1880166228502925617",
+        "created_at": "2025-01-17T08:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T09:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880166228502925617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5kL1jrzog",
+              "end": 139,
+              "expanded_url": "https://x.com/Sakura_Yukihane/status/1880166228502925617/photo/1",
+              "media_key": "3_1880166225994723328",
+              "start": 116,
+              "url": "https://t.co/n5kL1jrzog"
+            },
+            {
+              "display_url": "pic.x.com/n5kL1jrzog",
+              "end": 139,
+              "expanded_url": "https://x.com/Sakura_Yukihane/status/1880166228502925617/photo/1",
+              "media_key": "3_1880166225868935168",
+              "start": 116,
+              "url": "https://t.co/n5kL1jrzog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880166228502925617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11578,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我真的快撑不下去了……\n我是一名15岁的MTF…我的父母把我关起来…不让我出门…每天都要骂我…所有事情都要他们批准…没有零花钱…买东西需要他们代为购买……\n已经没钱买糖了……\n我现在真的不知道该怎么办了…请帮帮我…我会感激不尽…… https://t.co/n5kL1jrzog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 61,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T09:19:38.000Z",
+        "description": "谁来弄死我",
+        "id": "1788861189856083968",
+        "name": "樱雪羽🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1880166228502925617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873309667964944384/IISivAsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 149,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 179
+        },
+        "username": "Sakura_Yukihane",
+        "verified": false
+      }
+    ]
+  }
+}

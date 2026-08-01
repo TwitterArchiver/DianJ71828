@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022842904146797047",
+    "created_at": "2026-02-15T01:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022842904146797047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Cldeop/status/2022338680757903699",
+          "start": 16,
+          "url": "https://t.co/jlAhIX6Vg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022842904146797047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022338680757903699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "善语结善缘，恶言伤咪心。。。🥵 https://t.co/jlAhIX6Vg7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2022338673887621120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDKTyCbMAAbl_7.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022842904146797047",
+        "created_at": "2026-02-15T01:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022842904146797047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Cldeop/status/2022338680757903699",
+              "start": 16,
+              "url": "https://t.co/jlAhIX6Vg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022842904146797047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022338680757903699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "善语结善缘，恶言伤咪心。。。🥵 https://t.co/jlAhIX6Vg7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022338673887621120"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2022338680757903699",
+        "created_at": "2026-02-13T15:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022338680757903699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aojNnNCKPY",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2022338680757903699/photo/1",
+              "media_key": "3_2022338673887621120",
+              "start": 0,
+              "url": "https://t.co/aojNnNCKPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022338680757903699",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 321560,
+          "like_count": 3209,
+          "quote_count": 4,
+          "reply_count": 43,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aojNnNCKPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 730,
+          "like_count": 9098,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1745
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99751,
+          "following_count": 700,
+          "like_count": 34158,
+          "listed_count": 283,
+          "media_count": 15964,
+          "tweet_count": 22888
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

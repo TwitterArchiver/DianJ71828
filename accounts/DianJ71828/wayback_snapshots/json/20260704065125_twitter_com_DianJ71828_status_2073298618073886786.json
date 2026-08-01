@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2073298618073886786",
+    "created_at": "2026-07-04T06:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073298618073886786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10mirbeyxx/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/10mirbeyxx/status/2073056009732465044",
+          "start": 4,
+          "url": "https://t.co/WcdlVtuHr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073298618073886786",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073056009732465044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "3=3 https://t.co/WcdlVtuHr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2073049835675021312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTz15EXcAArsmA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2073298618073886786",
+        "created_at": "2026-07-04T06:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073298618073886786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10mirbeyxx/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/10mirbeyxx/status/2073056009732465044",
+              "start": 4,
+              "url": "https://t.co/WcdlVtuHr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073298618073886786",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073056009732465044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3=3 https://t.co/WcdlVtuHr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073049835675021312"
+          ]
+        },
+        "author_id": "1467843136378527752",
+        "conversation_id": "2073056009732465044",
+        "created_at": "2026-07-03T14:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073056009732465044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxpbIUqskl",
+              "end": 107,
+              "expanded_url": "https://x.com/10mirbeyxx/status/2073056009732465044/photo/1",
+              "media_key": "3_2073049835675021312",
+              "start": 84,
+              "url": "https://t.co/uxpbIUqskl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073056009732465044",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 15793,
+          "like_count": 722,
+          "quote_count": 15,
+          "reply_count": 538,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "bunu çözersen IQ seviyen ortalamanın üstündedir.\n\nsence sıradaki sayı kaç olabilir? https://t.co/uxpbIUqskl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 539,
+          "like_count": 12901,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2628
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-06T13:07:57.000Z",
+        "description": "Dijital Medya - Sosyal Medya Habercisi 🇹🇷",
+        "id": "1467843136378527752",
+        "location": "Evli",
+        "name": "ℳ𝒾𝓇 ℬ𝑒𝓎",
+        "pinned_tweet_id": "2015707604152885331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992726326906683392/seFF_h0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43301,
+          "following_count": 33893,
+          "like_count": 162202,
+          "listed_count": 18,
+          "media_count": 3644,
+          "tweet_count": 75876
+        },
+        "url": "",
+        "username": "10mirbeyxx",
+        "verified": true
+      }
+    ]
+  }
+}

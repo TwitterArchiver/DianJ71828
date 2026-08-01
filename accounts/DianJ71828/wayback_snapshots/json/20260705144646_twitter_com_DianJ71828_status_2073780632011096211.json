@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073425504661880834"
+      ],
+      "media_source_tweet_id": [
+        "2073557477312843861"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2073780632011096211",
+    "created_at": "2026-07-05T14:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073780632011096211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013776155166539776",
+          "start": 3,
+          "username": "l3010045822"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sbLOOK8nJ",
+          "end": 48,
+          "expanded_url": "https://x.com/l3010045822/status/2073557477312843861/photo/1",
+          "media_key": "3_2073425504661880834",
+          "start": 25,
+          "url": "https://t.co/3sbLOOK8nJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073780632011096211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073557477312843861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l3010045822: 窝也一样♡♡♡ https://t.co/3sbLOOK8nJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2073425504661880834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZJgtGbQAI9rd_.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073425504661880834"
+          ],
+          "media_source_tweet_id": [
+            "2073557477312843861"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2073780632011096211",
+        "created_at": "2026-07-05T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073780632011096211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013776155166539776",
+              "start": 3,
+              "username": "l3010045822"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sbLOOK8nJ",
+              "end": 48,
+              "expanded_url": "https://x.com/l3010045822/status/2073557477312843861/photo/1",
+              "media_key": "3_2073425504661880834",
+              "start": 25,
+              "url": "https://t.co/3sbLOOK8nJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073780632011096211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073557477312843861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @l3010045822: 窝也一样♡♡♡ https://t.co/3sbLOOK8nJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073425504661880834"
+          ]
+        },
+        "author_id": "2013776155166539776",
+        "conversation_id": "2073557477312843861",
+        "created_at": "2026-07-05T00:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073557477312843861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sbLOOK8nJ",
+              "end": 31,
+              "expanded_url": "https://x.com/l3010045822/status/2073557477312843861/photo/1",
+              "media_key": "3_2073425504661880834",
+              "start": 8,
+              "url": "https://t.co/3sbLOOK8nJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073557477312843861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "窝也一样♡♡♡ https://t.co/3sbLOOK8nJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 540,
+          "like_count": 12935,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "生产日期：2004.5丨小证含糖丨 HRT since2026.1.17｜半个家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜亮点会放一些亲身实践，后期可能会更新自拍｜欢迎同类互fo（没看见的话私我私我喵）｜",
+        "id": "2013776155166539776",
+        "name": "琪露诺🍥（冰雪聪明版）",
+        "pinned_tweet_id": "2060153159570641397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 513,
+          "like_count": 1773,
+          "listed_count": 2,
+          "media_count": 756,
+          "tweet_count": 1546
+        },
+        "url": "",
+        "username": "l3010045822",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880152650580148224"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1880152653633843579",
+    "created_at": "2025-01-17T07:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T08:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880152653633843579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vveZZjyRfV",
+          "end": 91,
+          "expanded_url": "https://x.com/DianJ71828/status/1880152653633843579/photo/1",
+          "media_key": "3_1880152650580148224",
+          "start": 68,
+          "url": "https://t.co/vveZZjyRfV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880152653633843579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没出去园还是因为家里给的零花钱够我吃药。\n虽然但是，当时有个小姑娘追我来着，给我张亲属卡，520\n我清高拒绝了，我想穿越回去掐我自己 https://t.co/vveZZjyRfV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1880152650580148224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghek381WwAAgWO1.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880152650580148224"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880152653633843579",
+        "created_at": "2025-01-17T07:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T08:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880152653633843579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vveZZjyRfV",
+              "end": 91,
+              "expanded_url": "https://x.com/DianJ71828/status/1880152653633843579/photo/1",
+              "media_key": "3_1880152650580148224",
+              "start": 68,
+              "url": "https://t.co/vveZZjyRfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880152653633843579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没出去园还是因为家里给的零花钱够我吃药。\n虽然但是，当时有个小姑娘追我来着，给我张亲属卡，520\n我清高拒绝了，我想穿越回去掐我自己 https://t.co/vveZZjyRfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 59,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 12
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1893373588805128587",
+    "created_at": "2025-02-23T09:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T10:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893595036215820576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831709757406666753",
+          "start": 0,
+          "username": "QiuMing_74"
+        },
+        {
+          "end": 23,
+          "id": "1729273790616817664",
+          "start": 12,
+          "username": "AkiHaneQvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893595036215820576",
+    "in_reply_to_user_id": "1831709757406666753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893521319460794487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuMing_74 @AkiHaneQvQ 我嘞个长难句"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1893373588805128587",
+        "created_at": "2025-02-23T09:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893595036215820576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831709757406666753",
+              "start": 0,
+              "username": "QiuMing_74"
+            },
+            {
+              "end": 23,
+              "id": "1729273790616817664",
+              "start": 12,
+              "username": "AkiHaneQvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893595036215820576",
+        "in_reply_to_user_id": "1831709757406666753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893521319460794487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuMing_74 @AkiHaneQvQ 我嘞个长难句"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831709757406666753",
+        "conversation_id": "1893373588805128587",
+        "created_at": "2025-02-23T04:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893521319460794487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729273790616817664",
+              "start": 0,
+              "username": "AkiHaneQvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893521319460794487",
+        "in_reply_to_user_id": "1729273790616817664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893373588805128587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiHaneQvQ 有些人可能是把我草，他妈的这一类当语气词用了吧？如果起手就上长难句，各种生殖器乱飚的就不正常了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 177,
+          "like_count": 1727,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 214
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:03:44.000Z",
+        "description": "男娘确诊/可以是妈妈（？/尽量不键政……/性少数友好/高三在读，回复不及时请谅解🥺/绝赞赛博🐦‍⬛饲养中/想被忍者·soul凭依/@NicoAliceOwO是可爱男娘/@qingshixiang258超级温柔青石酱/防走失小号：@QiuMing_75",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "NicoAliceOwO"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "QiuMing_75"
+              }
+            ]
+          }
+        },
+        "id": "1831709757406666753",
+        "location": "地球联邦 月面都市冯·布朗",
+        "name": "秋洺绝赞赛博🐦‍⬛饲养中",
+        "pinned_tweet_id": "1863149365218709870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889898510629347329/e8TUATMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 718,
+          "like_count": 16310,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 2460
+        },
+        "username": "QiuMing_74",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T22:59:42.000Z",
+        "description": "*想变得好看的普通男娘/怎么称呼都可以/无门槛/会加心底认为是好人的人好友    \n                                     群:836737765，清水群",
+        "id": "1729273790616817664",
+        "location": "传火祭祀场",
+        "name": "秋羽Akihane",
+        "pinned_tweet_id": "1889733964161790085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878532076397572096/VCSHkcf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15099,
+          "following_count": 249,
+          "like_count": 2812,
+          "listed_count": 55,
+          "media_count": 36,
+          "tweet_count": 374
+        },
+        "username": "AkiHaneQvQ",
+        "verified": true
+      }
+    ]
+  }
+}

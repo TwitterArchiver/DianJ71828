@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2027292289723408426",
+    "created_at": "2026-02-28T01:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027554731363893295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1686608763212775424",
+          "start": 0,
+          "username": "ofurcuq"
+        },
+        {
+          "end": 22,
+          "id": "1699985068721082368",
+          "start": 9,
+          "username": "RX_Xron28390"
+        },
+        {
+          "end": 39,
+          "id": "1846942105324998658",
+          "start": 23,
+          "username": "qb9b2agkzg52143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027554731363893295",
+    "in_reply_to_user_id": "1686608763212775424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027474577966961004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ofurcuq @RX_Xron28390 @qb9b2agkzg52143 你说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2027292289723408426",
+        "created_at": "2026-02-28T01:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027554731363893295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1686608763212775424",
+              "start": 0,
+              "username": "ofurcuq"
+            },
+            {
+              "end": 22,
+              "id": "1699985068721082368",
+              "start": 9,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 39,
+              "id": "1846942105324998658",
+              "start": 23,
+              "username": "qb9b2agkzg52143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027554731363893295",
+        "in_reply_to_user_id": "1686608763212775424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027474577966961004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ofurcuq @RX_Xron28390 @qb9b2agkzg52143 你说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686608763212775424",
+        "conversation_id": "2027292289723408426",
+        "created_at": "2026-02-27T20:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027474577966961004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 30,
+              "id": "1846942105324998658",
+              "start": 14,
+              "username": "qb9b2agkzg52143"
+            },
+            {
+              "end": 42,
+              "id": "1880140645454725120",
+              "start": 31,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027474577966961004",
+        "in_reply_to_user_id": "1686608763212775424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027473876092129759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 @qb9b2agkzg52143 @DianJ71828 私有制和父权制的性形而上学和保守主义的思潮影响罢了，又或者你只是站在顺直的角度单纯的思考问题，没有深入了解和思考，我认为你更多的是出自“个人喜好”和主观主义的分析，但这也体现了你自身的右派思维方式和小保的“保卫我们的现代生活”的表现之一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 501,
+          "like_count": 11071,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2120
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T05:24:09.000Z",
+        "description": "🚩🇨🇳 左翼 MTF🏳️‍⚧️",
+        "id": "1686608763212775424",
+        "location": "Japan",
+        "name": "呦蓝邱 😊🌏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712741847850967040/0HttWUqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 160,
+          "like_count": 344,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 3657
+        },
+        "username": "ofurcuq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人 /paradox社战犯/超级地球赛博斯坦指定冻肉 Anti-trans，德皇kaiser：@sanitf1 向伟大的BVVD，俄联邦致敬🇷🇺🇩🇪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑣𝑜𝑛 𝑉𝑒𝑟𝑑𝑢𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2006384462209142895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993498827278401536/FkldZrF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 113,
+          "like_count": 2494,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 2222
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T15:51:43.000Z",
+        "description": "在？借点\n没钱吃草了",
+        "id": "1846942105324998658",
+        "name": "爱吃草的凉学姐",
+        "pinned_tweet_id": "2023092751068492087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021270537524379648/2Q6SIyU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 112,
+          "like_count": 7141,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3219
+        },
+        "username": "qb9b2agkzg52143",
+        "verified": false
+      }
+    ]
+  }
+}

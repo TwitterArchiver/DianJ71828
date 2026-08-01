@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960863516900077590",
+    "created_at": "2025-08-28T00:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T01:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960863516900077590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QXY_WARD/statu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/QXY_WARD/status/1952288435081031703",
+          "start": 37,
+          "url": "https://t.co/GDa2IB48av"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960863516900077590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952288435081031703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟风？疯了吧，好好的普通模式不玩，偏要玩困难模式？(还是个魂游劳玩家？) https://t.co/GDa2IB48av"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25286,
+        "height": 1280,
+        "media_key": "7_1952288383004499968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952288383004499968/pu/img/BnQC9BY6xu_rzMH4.jpg",
+        "public_metrics": {
+          "view_count": 2720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952288383004499968/pu/vid/avc1/320x568/W9tcnHqjt1Nm-_Ky.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952288383004499968/pu/vid/avc1/480x852/rXnNlnJL10tuwtVe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952288383004499968/pu/vid/avc1/720x1280/kPm_ApKxhbPldt1I.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952288383004499968/pu/pl/cq0OHjZksaMWOrvw.m3u8?tag=12&v=949"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952288386603245568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxfr8aabYAA2QcL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952288385604956160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxfr8WsasAArsuD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 793,
+        "media_key": "3_1952288368949432320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxfr7YpbkAAugz-.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960863516900077590",
+        "created_at": "2025-08-28T00:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T01:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960863516900077590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QXY_WARD/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/QXY_WARD/status/1952288435081031703",
+              "start": 37,
+              "url": "https://t.co/GDa2IB48av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960863516900077590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952288435081031703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟风？疯了吧，好好的普通模式不玩，偏要玩困难模式？(还是个魂游劳玩家？) https://t.co/GDa2IB48av"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952288383004499968",
+            "3_1952288386603245568",
+            "3_1952288385604956160",
+            "3_1952288368949432320"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "conversation_id": "1952288435081031703",
+        "created_at": "2025-08-04T08:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T09:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952288435081031703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "mtf"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "补佳乐"
+            },
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "coversong"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "唱歌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/13Kgld58eh",
+              "end": 57,
+              "expanded_url": "https://x.com/QXY_WARD/status/1952288435081031703/video/1",
+              "media_key": "7_1952288383004499968",
+              "start": 34,
+              "url": "https://t.co/13Kgld58eh"
+            },
+            {
+              "display_url": "pic.x.com/13Kgld58eh",
+              "end": 57,
+              "expanded_url": "https://x.com/QXY_WARD/status/1952288435081031703/video/1",
+              "media_key": "3_1952288386603245568",
+              "start": 34,
+              "url": "https://t.co/13Kgld58eh"
+            },
+            {
+              "display_url": "pic.x.com/13Kgld58eh",
+              "end": 57,
+              "expanded_url": "https://x.com/QXY_WARD/status/1952288435081031703/video/1",
+              "media_key": "3_1952288385604956160",
+              "start": 34,
+              "url": "https://t.co/13Kgld58eh"
+            },
+            {
+              "display_url": "pic.x.com/13Kgld58eh",
+              "end": 57,
+              "expanded_url": "https://x.com/QXY_WARD/status/1952288435081031703/video/1",
+              "media_key": "3_1952288368949432320",
+              "start": 34,
+              "url": "https://t.co/13Kgld58eh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952288435081031703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8754,
+          "like_count": 20,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是来跟风了喵😊 #mtf #补佳乐 #coversong #唱歌 https://t.co/13Kgld58eh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 192,
+          "like_count": 1706,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 298
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "我是小怡丨热爱音乐的翻唱歌手丨受ZARD坂井泉水影响，以“WARD UNLIMITED”为名，展开音乐旅程。\n用声音传递情感丨用旋律刻下梦想。\n0作品/私密用户丨婉拒点赞、评论、私信互动丨我们要交的是真人，而不是机器人丨🍥始于2025.8.4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "日本",
+        "name": "是小怡呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952627286303457280/NxPmz-xV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 633,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      }
+    ]
+  }
+}

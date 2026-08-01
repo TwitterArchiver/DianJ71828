@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022845237228638572",
+    "created_at": "2026-02-15T01:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022845237228638572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SNzhende2007/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/SNzhende2007/status/2022610358339551333",
+          "start": 7,
+          "url": "https://t.co/98xXjAemk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022845237228638572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022610358339551333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么事？为啥 https://t.co/98xXjAemk1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022845237228638572",
+        "created_at": "2026-02-15T01:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022845237228638572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SNzhende2007/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/SNzhende2007/status/2022610358339551333",
+              "start": 7,
+              "url": "https://t.co/98xXjAemk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022845237228638572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022610358339551333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么事？为啥 https://t.co/98xXjAemk1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628358190655246338",
+        "conversation_id": "2022610358339551333",
+        "created_at": "2026-02-14T09:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022610358339551333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022610358339551333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 51133,
+          "like_count": 158,
+          "quote_count": 22,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "男娘完全在压榨跨女生存空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 730,
+          "like_count": 9146,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1748
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:37:28.000Z",
+        "description": "她/祂/07/sub/虐腹/跨女/lesfem/(g/acc)",
+        "id": "1628358190655246338",
+        "name": "贞德",
+        "pinned_tweet_id": "2018572850706432204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 399,
+          "like_count": 9930,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 2473
+        },
+        "username": "SNzhende2007",
+        "verified": false
+      }
+    ]
+  }
+}

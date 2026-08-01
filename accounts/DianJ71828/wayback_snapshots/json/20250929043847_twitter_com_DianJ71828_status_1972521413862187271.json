@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972521389115445248",
+        "3_1972521389119651840",
+        "3_1972521389086121984"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1972521413862187271",
+    "created_at": "2025-09-29T04:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T05:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972521413862187271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X9wgyMykRn",
+          "end": 72,
+          "expanded_url": "https://x.com/DianJ71828/status/1972521413862187271/photo/1",
+          "media_key": "3_1972521389115445248",
+          "start": 49,
+          "url": "https://t.co/X9wgyMykRn"
+        },
+        {
+          "display_url": "pic.x.com/X9wgyMykRn",
+          "end": 72,
+          "expanded_url": "https://x.com/DianJ71828/status/1972521413862187271/photo/1",
+          "media_key": "3_1972521389119651840",
+          "start": 49,
+          "url": "https://t.co/X9wgyMykRn"
+        },
+        {
+          "display_url": "pic.x.com/X9wgyMykRn",
+          "end": 72,
+          "expanded_url": "https://x.com/DianJ71828/status/1972521413862187271/photo/1",
+          "media_key": "3_1972521389086121984",
+          "start": 49,
+          "url": "https://t.co/X9wgyMykRn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972521413862187271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不中不中，还没实施就被关精神病院了。再也不od了o了一板佐匹克隆，o大了被强制住院了，才拿到手机 https://t.co/X9wgyMykRn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1972521389115445248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_NwKYWEAABjiV.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1972521389119651840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_NwKZWQAAzm9e.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1972521389086121984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_NwKRWoAAebn0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972521389115445248",
+            "3_1972521389119651840",
+            "3_1972521389086121984"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1972521413862187271",
+        "created_at": "2025-09-29T04:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972521413862187271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9wgyMykRn",
+              "end": 72,
+              "expanded_url": "https://x.com/DianJ71828/status/1972521413862187271/photo/1",
+              "media_key": "3_1972521389115445248",
+              "start": 49,
+              "url": "https://t.co/X9wgyMykRn"
+            },
+            {
+              "display_url": "pic.x.com/X9wgyMykRn",
+              "end": 72,
+              "expanded_url": "https://x.com/DianJ71828/status/1972521413862187271/photo/1",
+              "media_key": "3_1972521389119651840",
+              "start": 49,
+              "url": "https://t.co/X9wgyMykRn"
+            },
+            {
+              "display_url": "pic.x.com/X9wgyMykRn",
+              "end": 72,
+              "expanded_url": "https://x.com/DianJ71828/status/1972521413862187271/photo/1",
+              "media_key": "3_1972521389086121984",
+              "start": 49,
+              "url": "https://t.co/X9wgyMykRn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972521413862187271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不中不中，还没实施就被关精神病院了。再也不od了o了一板佐匹克隆，o大了被强制住院了，才拿到手机 https://t.co/X9wgyMykRn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 351,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 687
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

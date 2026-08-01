@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026927986231136269",
+    "created_at": "2026-02-26T11:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026990404873474217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026281929381924864",
+          "start": 0,
+          "username": "zhnghu133412"
+        },
+        {
+          "end": 30,
+          "id": "1858393719080366080",
+          "start": 14,
+          "username": "me6pjHT2Rf29076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026990404873474217",
+    "in_reply_to_user_id": "2026281929381924864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026990265186369951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhnghu133412 @me6pjHT2Rf29076 吓哭了！别扫射我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026927986231136269",
+        "created_at": "2026-02-26T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026990404873474217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026281929381924864",
+              "start": 0,
+              "username": "zhnghu133412"
+            },
+            {
+              "end": 30,
+              "id": "1858393719080366080",
+              "start": 14,
+              "username": "me6pjHT2Rf29076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026990404873474217",
+        "in_reply_to_user_id": "2026281929381924864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026990265186369951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhnghu133412 @me6pjHT2Rf29076 吓哭了！别扫射我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026281929381924864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2026927986231136269",
+        "created_at": "2026-02-26T11:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026990265186369951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "me6pjHT2Rf29076"
+            },
+            {
+              "end": 28,
+              "id": "1880140645454725120",
+              "start": 17,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026990265186369951",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026976226116853861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me6pjHT2Rf29076 @DianJ71828 习近平习主席"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 744,
+          "like_count": 10639,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2019
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:04:10.000Z",
+        "description": "",
+        "id": "2026281929381924864",
+        "name": "仁文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026332976582455296/0dwbqtVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "zhnghu133412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：無\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的，開黃腔的那些，給我滾～～～",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2013151319121416284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 65,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1270
+        },
+        "username": "me6pjHT2Rf29076",
+        "verified": false
+      }
+    ]
+  }
+}

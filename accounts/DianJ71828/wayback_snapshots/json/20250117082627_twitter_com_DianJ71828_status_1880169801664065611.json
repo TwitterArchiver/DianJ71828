@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1880152653633843579",
+    "created_at": "2025-01-17T08:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T09:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880169801664065611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1813220085437505536",
+          "start": 0,
+          "username": "qmm128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880169801664065611",
+    "in_reply_to_user_id": "1813220085437505536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880158098314473952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qmm128 确实，起码不至于下海14天就艾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1880152653633843579",
+        "created_at": "2025-01-17T08:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T09:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880169801664065611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1813220085437505536",
+              "start": 0,
+              "username": "qmm128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880169801664065611",
+        "in_reply_to_user_id": "1813220085437505536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880158098314473952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qmm128 确实，起码不至于下海14天就艾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813220085437505536",
+        "conversation_id": "1880152653633843579",
+        "created_at": "2025-01-17T07:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T08:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880158098314473952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880158098314473952",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880152653633843579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 我这辈子虽然没当成女的，但是暂时也不至于没钱了要出去○，也算是老天格外开恩了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 60,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 15
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T14:32:20.000Z",
+        "description": "",
+        "id": "1813220085437505536",
+        "name": "清茗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813220723521122304/GHPpShFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 213,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 179
+        },
+        "username": "qmm128",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1976269980187427089",
+    "created_at": "2025-10-09T12:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T13:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976269980187427089"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1976269980187427089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准确来讲我自我认知可能真的可以说是外星人。嗯，由于厌人，总归是不行成为人类的₍˄·͈༝·͈˄*₎◞ ̑̑\n宁愿是只猫，性别问题....就相当于，男性是巧克力味的大便，女性是大便味的巧克力。\n我接受不了男性身份而已。最好直接飞升，无性别什么的......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1976269980187427089",
+        "created_at": "2025-10-09T12:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976269980187427089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976269980187427089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准确来讲我自我认知可能真的可以说是外星人。嗯，由于厌人，总归是不行成为人类的₍˄·͈༝·͈˄*₎◞ ̑̑\n宁愿是只猫，性别问题....就相当于，男性是巧克力味的大便，女性是大便味的巧克力。\n我接受不了男性身份而已。最好直接飞升，无性别什么的......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 498,
+          "like_count": 3810,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 873
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

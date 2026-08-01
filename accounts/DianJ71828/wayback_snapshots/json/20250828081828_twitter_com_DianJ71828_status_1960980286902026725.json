@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960980283148107776"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1960698781076435165",
+    "created_at": "2025-08-28T08:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T09:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960980286902026725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699107168807706625",
+          "start": 0,
+          "username": "yueqingzou"
+        },
+        {
+          "end": 27,
+          "id": "1866360876158398464",
+          "start": 12,
+          "username": "Konora20040421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wDHrVGfN6d",
+          "end": 59,
+          "expanded_url": "https://x.com/DianJ71828/status/1960980286902026725/photo/1",
+          "media_key": "3_1960980283148107776",
+          "start": 36,
+          "url": "https://t.co/wDHrVGfN6d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960980286902026725",
+    "in_reply_to_user_id": "1699107168807706625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960787461141094824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueqingzou @Konora20040421 就是这个音游爽 https://t.co/wDHrVGfN6d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_1960980283148107776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbNLYSWgAA_5fJ.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960980283148107776"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1960698781076435165",
+        "created_at": "2025-08-28T08:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T09:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960980286902026725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699107168807706625",
+              "start": 0,
+              "username": "yueqingzou"
+            },
+            {
+              "end": 27,
+              "id": "1866360876158398464",
+              "start": 12,
+              "username": "Konora20040421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDHrVGfN6d",
+              "end": 59,
+              "expanded_url": "https://x.com/DianJ71828/status/1960980286902026725/photo/1",
+              "media_key": "3_1960980283148107776",
+              "start": 36,
+              "url": "https://t.co/wDHrVGfN6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960980286902026725",
+        "in_reply_to_user_id": "1699107168807706625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960787461141094824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueqingzou @Konora20040421 就是这个音游爽 https://t.co/wDHrVGfN6d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699107168807706625",
+        "conversation_id": "1960698781076435165",
+        "created_at": "2025-08-27T19:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T20:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960787461141094824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866360876158398464",
+              "start": 0,
+              "username": "Konora20040421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960787461141094824",
+        "in_reply_to_user_id": "1866360876158398464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960728805431239054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konora20040421 为了玩音游，忍痛把留了好久的指甲剪掉力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 210,
+          "like_count": 1770,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 325
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:09:03.000Z",
+        "description": "音游账号@leqingzou☆希望和大家交朋友互fo哟~/hrt2022.12.2🏳️‍⚧️/🈚证/some blood/大学生/熬夜党/家暴党/地址:成都/oopz频道：782238569",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "leqingzou"
+              }
+            ]
+          }
+        },
+        "id": "1699107168807706625",
+        "name": "晓乐\\🍥/",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737532618386939905/UbibjytX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 1717,
+          "like_count": 5063,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1820
+        },
+        "username": "yueqingzou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T05:54:51.000Z",
+        "description": "跨女⚧/04生产/性取向♂/持证含糖🍬/isfj/家暴党/睡眠障碍/双相/srs遥遥无期/即将复学/拼好饭长期合作伙伴🥺/喜欢涩涩、绘画，萌宠还有同类贴贴抱抱/欢迎私信/期待领养/同类互fo",
+        "id": "1866360876158398464",
+        "location": "东莞",
+        "name": "苹果奶绿🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957711149593694208/uG_HshvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 283,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 341
+        },
+        "username": "Konora20040421",
+        "verified": false
+      }
+    ]
+  }
+}

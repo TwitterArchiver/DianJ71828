@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2008917087176233131",
+    "created_at": "2026-01-08T04:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T05:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009124895964410283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1959602969034539008",
+          "start": 0,
+          "username": "taikongjile666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009124895964410283",
+    "in_reply_to_user_id": "1959602969034539008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008917087176233131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile666 反正无处发泄发人不是自残就是嗑药，要不然就是自杀，不如吃点好的，乱吃伤害更大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2008917087176233131",
+        "created_at": "2026-01-08T04:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T05:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009124895964410283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1959602969034539008",
+              "start": 0,
+              "username": "taikongjile666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009124895964410283",
+        "in_reply_to_user_id": "1959602969034539008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008917087176233131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile666 反正无处发泄发人不是自残就是嗑药，要不然就是自杀，不如吃点好的，乱吃伤害更大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959602969034539008",
+        "conversation_id": "2008917087176233131",
+        "created_at": "2026-01-07T15:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008917087176233131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008917087176233131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 599,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最大的问题，还是那种根深蒂固的刻板印象：药物 = 嗑药寻欢 = 伤身害命。“药物” 这个词本身就带着污名，而这种污名又会蔓延到它所涵盖的所有物质上。我绝非纵容药物滥用，也绝不怂恿任何人尝试药物，但我希望能成为这样一种资源：为那些已经下定决心要尝试的人，提供一些参考。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 502,
+          "like_count": 4306,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 974
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T13:05:35.000Z",
+        "description": "官方网站:https://t.co/B30SyYDC0Y\n交流群:https://t.co/S8Izp7ElMH\nDC交流群：https://t.co/eb9gzQ5ULX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/B30SyYDC0Y"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/S8Izp7ElMH"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/eb9gzQ5ULX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/VXvh5Uus8T"
+              }
+            ]
+          }
+        },
+        "id": "1959602969034539008",
+        "location": "天国",
+        "name": "太空极乐百科2.0🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008127469552119808/5U_rzOef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 97,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/VXvh5Uus8T",
+        "username": "taikongjile666",
+        "verified": false
+      }
+    ]
+  }
+}

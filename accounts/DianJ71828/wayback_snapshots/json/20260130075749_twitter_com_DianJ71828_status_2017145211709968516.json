@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2017145211709968516",
+    "created_at": "2026-01-30T07:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T08:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017145211709968516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MINOFFDir95910…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/MINOFFDir959103/status/2017084351755010147",
+          "start": 53,
+          "url": "https://t.co/DQpDejJpfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017145211709968516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017084351755010147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在已经让互联网养成m了，有人骂我的时候我就会释然一笑。\n“这才是互联网应该有的样子”就跟回家了一样。 https://t.co/DQpDejJpfN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2017145211709968516",
+        "created_at": "2026-01-30T07:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017145211709968516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MINOFFDir95910…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/MINOFFDir959103/status/2017084351755010147",
+              "start": 53,
+              "url": "https://t.co/DQpDejJpfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017145211709968516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017084351755010147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在已经让互联网养成m了，有人骂我的时候我就会释然一笑。\n“这才是互联网应该有的样子”就跟回家了一样。 https://t.co/DQpDejJpfN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731132825808830464",
+        "conversation_id": "2016916425664057356",
+        "created_at": "2026-01-30T03:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017084351755010147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017084351755010147",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016916425664057356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 那你就当个狗杂种得了呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 552,
+          "like_count": 5528,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1205
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T02:07:32.000Z",
+        "description": "You're lonely, I can see",
+        "id": "1731132825808830464",
+        "location": "lildustyskeleton",
+        "name": "fancyapk",
+        "pinned_tweet_id": "1913323910608929094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017077429718962176/L9u42tt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 12,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "MINOFFDir959103",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1975024488334213629",
+    "created_at": "2025-10-06T06:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T07:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975078744454029418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1723361376931090432",
+          "start": 0,
+          "username": "Kkkky592778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975078744454029418",
+    "in_reply_to_user_id": "1723361376931090432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975064577743388699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkkky592778 接接接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1975024488334213629",
+        "created_at": "2025-10-06T06:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975078744454029418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1723361376931090432",
+              "start": 0,
+              "username": "Kkkky592778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975078744454029418",
+        "in_reply_to_user_id": "1723361376931090432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975064577743388699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkkky592778 接接接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723361376931090432",
+        "conversation_id": "1975024488334213629",
+        "created_at": "2025-10-06T05:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T06:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975064577743388699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975064577743388699",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975024488334213629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 接。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 449,
+          "like_count": 3451,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 816
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T15:26:02.000Z",
+        "description": "Hi it's me again",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asty63964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/asty63964",
+                "start": 0,
+                "url": "https://t.co/MPOdacga3J"
+              }
+            ]
+          }
+        },
+        "id": "1723361376931090432",
+        "location": "除了我谁会拥抱这样的世界",
+        "name": "Kkkky",
+        "pinned_tweet_id": "1886774222233723190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942964126118182912/W_i-JqSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 891,
+          "like_count": 17309,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 3766
+        },
+        "url": "https://t.co/MPOdacga3J",
+        "username": "Kkkky592778",
+        "verified": false
+      }
+    ]
+  }
+}

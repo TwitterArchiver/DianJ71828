@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2017483184141967732",
+    "created_at": "2026-01-31T10:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T11:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017542384398307650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1971735483626749952",
+          "start": 0,
+          "username": "kkchi375093"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017542384398307650",
+    "in_reply_to_user_id": "1971735483626749952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017539938791920074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkchi375093 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2017483184141967732",
+        "created_at": "2026-01-31T10:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017542384398307650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1971735483626749952",
+              "start": 0,
+              "username": "kkchi375093"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017542384398307650",
+        "in_reply_to_user_id": "1971735483626749952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017539938791920074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkchi375093 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971735483626749952",
+        "conversation_id": "2017483184141967732",
+        "created_at": "2026-01-31T10:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017539938791920074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017539938791920074",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017483184141967732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 我怀疑你在吸引注意力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 604,
+          "like_count": 5858,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1274
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T00:36:05.000Z",
+        "description": "有趣的灵魂 | 知识分享 | 热点追踪 | 不键政 | 黄赌毒远离我 | 可以找我一起玩 | 请不要扒我谢谢你 | 爱折腾的大朋友 | 有意思的问题可以免费回答 | 有礼貌的问题也可以免费回答",
+        "id": "1971735483626749952",
+        "name": "星野白桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001661590333198339/tyvccOwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 1113,
+          "like_count": 95,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 311
+        },
+        "username": "kkchi375093",
+        "verified": true
+      }
+    ]
+  }
+}

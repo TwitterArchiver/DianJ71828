@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960642435303788569",
+    "created_at": "2025-08-27T23:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T00:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960851052955423203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827293756661571584",
+          "start": 0,
+          "username": "aizhenxunjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960851052955423203",
+    "in_reply_to_user_id": "1827293756661571584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960642435303788569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizhenxunjiang 可怜捏，我硬留的，老师管\n我:不听～不听～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960642430660960256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWZ5xsa4AAZg-2.jpg",
+        "width": 931
+      },
+      {
+        "height": 2230,
+        "media_key": "3_1960642431147499521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWZ5zga4AEBJiG.jpg",
+        "width": 1088
+      },
+      {
+        "height": 1345,
+        "media_key": "3_1960642430291861505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWZ5wUa4AEzZ02.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960642435303788569",
+        "created_at": "2025-08-27T23:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T00:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960851052955423203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827293756661571584",
+              "start": 0,
+              "username": "aizhenxunjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960851052955423203",
+        "in_reply_to_user_id": "1827293756661571584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960642435303788569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizhenxunjiang 可怜捏，我硬留的，老师管\n我:不听～不听～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960642430660960256",
+            "3_1960642431147499521",
+            "3_1960642430291861505"
+          ]
+        },
+        "author_id": "1827293756661571584",
+        "conversation_id": "1960642435303788569",
+        "created_at": "2025-08-27T09:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T10:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960642435303788569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OO3235jSwz",
+              "end": 55,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/1960642435303788569/photo/1",
+              "media_key": "3_1960642430660960256",
+              "start": 32,
+              "url": "https://t.co/OO3235jSwz"
+            },
+            {
+              "display_url": "pic.x.com/OO3235jSwz",
+              "end": 55,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/1960642435303788569/photo/1",
+              "media_key": "3_1960642431147499521",
+              "start": 32,
+              "url": "https://t.co/OO3235jSwz"
+            },
+            {
+              "display_url": "pic.x.com/OO3235jSwz",
+              "end": 55,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/1960642435303788569/photo/1",
+              "media_key": "3_1960642430291861505",
+              "start": 32,
+              "url": "https://t.co/OO3235jSwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960642435303788569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦开学😞，又要强迫剪头发了，才留115天，刚过10厘米多点😭 https://t.co/OO3235jSwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 191,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 287
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜hrt2025.02.28｜无证含糖🍥｜07｜👉🏻istp👈🏻｜欢迎同类🍥🏳️‍⚧️｜同类互fo｜158cm😭/初始55gk/努力减脂中/目标45gk/以减3gk😉｜匿名提问https://t.co/x4658dNtP4｜可以找窝闲聊但极其内向/不会主动发消息🥺｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchi78643",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yuchi78643",
+                "start": 91,
+                "url": "https://t.co/x4658dNtP4"
+              }
+            ]
+          }
+        },
+        "id": "1827293756661571584",
+        "name": "雨池🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 344,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 142
+        },
+        "username": "aizhenxunjiang",
+        "verified": false
+      }
+    ]
+  }
+}

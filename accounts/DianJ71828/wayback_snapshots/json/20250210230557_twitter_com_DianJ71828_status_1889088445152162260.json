@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1889088445152162260",
+    "created_at": "2025-02-10T23:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T00:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889088445152162260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iTZQing/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/iTZQing/status/1888532142038413348",
+          "start": 6,
+          "url": "https://t.co/CMkgwpO5aH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889088445152162260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888532142038413348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "手好好看！ https://t.co/CMkgwpO5aH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1889088445152162260",
+        "created_at": "2025-02-10T23:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889088445152162260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iTZQing/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/iTZQing/status/1888532142038413348",
+              "start": 6,
+              "url": "https://t.co/CMkgwpO5aH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889088445152162260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888532142038413348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手好好看！ https://t.co/CMkgwpO5aH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888532133972684800"
+          ]
+        },
+        "author_id": "613074635",
+        "conversation_id": "1888532142038413348",
+        "created_at": "2025-02-09T10:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T11:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888532142038413348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YsTXbglIeX",
+              "end": 96,
+              "expanded_url": "https://x.com/iTZQing/status/1888532142038413348/photo/1",
+              "media_key": "3_1888532133972684800",
+              "start": 73,
+              "url": "https://t.co/YsTXbglIeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888532142038413348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 18817,
+          "like_count": 247,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“主…主人好棒❤️”\n“好大❤️，好喜欢（👅”\n“已经，离不开主人啦💜”\n\n（什么，你说照片里这个狼狈不堪的人是谁？肯…肯定不是咱啦（望向远方😗 https://t.co/YsTXbglIeX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n🚪52",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 175,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 197
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "aka {\"Alexei\"}. 裏帳@amamiyamafuyu. 是個笨蛋請多包容。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "amamiyamafuyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDVC8y"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "Amamiya Mafuyu 雨宮真冬",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850535613432528896/Vt79Kpzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 871,
+          "like_count": 18886,
+          "listed_count": 7,
+          "media_count": 1565,
+          "tweet_count": 25711
+        },
+        "url": "https://t.co/VFMpbDVC8y",
+        "username": "iTZQing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021172608037945352",
+        "3_2021172608016973826"
+      ],
+      "media_source_tweet_id": [
+        "2021172617130983781",
+        "2021172617130983781"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021547403040727459",
+    "created_at": "2026-02-11T11:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021547403040727459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1517896369704427521",
+          "start": 3,
+          "username": "bianqinainai"
+        },
+        {
+          "end": 37,
+          "id": "1490183504193200133",
+          "start": 25,
+          "username": "izayoiworks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/INe9UrbZKR",
+          "end": 61,
+          "expanded_url": "https://x.com/bianqinainai/status/2021172617130983781/photo/1",
+          "media_key": "3_2021172608037945352",
+          "start": 38,
+          "url": "https://t.co/INe9UrbZKR"
+        },
+        {
+          "display_url": "pic.x.com/INe9UrbZKR",
+          "end": 61,
+          "expanded_url": "https://x.com/bianqinainai/status/2021172617130983781/photo/1",
+          "media_key": "3_2021172608016973826",
+          "start": 38,
+          "url": "https://t.co/INe9UrbZKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021547403040727459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021172617130983781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bianqinainai: 奶牛小男孩 \n@izayoiworks https://t.co/INe9UrbZKR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021547403040727459].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021547403040727459",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021547403040727459"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021172608037945352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAylx0PaAAgE5Hj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021172608016973826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAylx0KaAAI13_L.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021172608037945352",
+            "3_2021172608016973826"
+          ]
+        },
+        "author_id": "1517896369704427521",
+        "conversation_id": "2021172617130983781",
+        "created_at": "2026-02-10T10:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021172617130983781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1490183504193200133",
+              "start": 7,
+              "username": "izayoiworks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INe9UrbZKR",
+              "end": 43,
+              "expanded_url": "https://x.com/bianqinainai/status/2021172617130983781/photo/1",
+              "media_key": "3_2021172608037945352",
+              "start": 20,
+              "url": "https://t.co/INe9UrbZKR"
+            },
+            {
+              "display_url": "pic.x.com/INe9UrbZKR",
+              "end": 43,
+              "expanded_url": "https://x.com/bianqinainai/status/2021172617130983781/photo/1",
+              "media_key": "3_2021172608016973826",
+              "start": 20,
+              "url": "https://t.co/INe9UrbZKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021172617130983781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 17155,
+          "like_count": 911,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "奶牛小男孩 \n@izayoiworks https://t.co/INe9UrbZKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 687,
+          "like_count": 7560,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1557
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T16:01:22.000Z",
+        "description": "(∩´∀`∩) 男♡娘♡娼♡年丨双性恋 | Eng Acc @naivrel 日常@masikenmsl123 | Support: https://t.co/Homt3IlKC6 | Telegram: https://t.co/6rbmxhten3 | ˙˚ 𓆩 ✞ 𓆪 ˚˙ 🚪88/288 感谢支持～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "naivrel"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "masikenmsl123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/Bianqinainai",
+                "end": 90,
+                "expanded_url": "http://patreon.com/Bianqinainai",
+                "start": 67,
+                "url": "https://t.co/Homt3IlKC6"
+              },
+              {
+                "display_url": "t.me/+2gBF_atq3MwwZ…",
+                "end": 126,
+                "expanded_url": "http://t.me/+2gBF_atq3MwwZWVl",
+                "start": 103,
+                "url": "https://t.co/6rbmxhten3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/naivrel",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/naivrel",
+                "start": 0,
+                "url": "https://t.co/c8lBYAb9e0"
+              }
+            ]
+          }
+        },
+        "id": "1517896369704427521",
+        "location": "充电中",
+        "name": "奈奈充电宝",
+        "pinned_tweet_id": "1977745977361539336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683729805039091713/U6Bua_sl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103019,
+          "following_count": 5108,
+          "like_count": 28477,
+          "listed_count": 565,
+          "media_count": 719,
+          "tweet_count": 8432
+        },
+        "url": "https://t.co/c8lBYAb9e0",
+        "username": "bianqinainai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T04:40:15.000Z",
+        "description": "淘宝店铺：十六夜工坊官方账号\n\n立志于成为更懂男孩子的服装专门店♡\n\n情趣店铺@PN_Lab001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "PN_Lab001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop309796885.m.taobao.com",
+                "end": 23,
+                "expanded_url": "http://shop309796885.m.taobao.com",
+                "start": 0,
+                "url": "https://t.co/T358qEPgJk"
+              }
+            ]
+          }
+        },
+        "id": "1490183504193200133",
+        "name": "十六夜工坊",
+        "pinned_tweet_id": "1871869633936211999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673285995306057731/TYwazmqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26336,
+          "following_count": 53,
+          "like_count": 213,
+          "listed_count": 93,
+          "media_count": 19,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/T358qEPgJk",
+        "username": "izayoiworks",
+        "verified": false
+      }
+    ]
+  }
+}

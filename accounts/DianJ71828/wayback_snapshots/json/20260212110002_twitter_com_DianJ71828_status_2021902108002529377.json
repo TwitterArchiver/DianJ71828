@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021638359224135684"
+      ],
+      "media_source_tweet_id": [
+        "2021638371307925995"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021902108002529377",
+    "created_at": "2026-02-12T11:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021902108002529377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927283550950137856",
+          "start": 3,
+          "username": "Zzzmzmmmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zzNvpLJHty",
+          "end": 47,
+          "expanded_url": "https://x.com/Zzzmzmmmm/status/2021638371307925995/photo/1",
+          "media_key": "3_2021638359224135684",
+          "start": 24,
+          "url": "https://t.co/zzNvpLJHty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021902108002529377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021638371307925995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Zzzmzmmmm: 置いていかないで https://t.co/zzNvpLJHty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2021638359224135684",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA5NYGnbsAQK6xV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021638359224135684"
+          ],
+          "media_source_tweet_id": [
+            "2021638371307925995"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2021902108002529377",
+        "created_at": "2026-02-12T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021902108002529377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927283550950137856",
+              "start": 3,
+              "username": "Zzzmzmmmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzNvpLJHty",
+              "end": 47,
+              "expanded_url": "https://x.com/Zzzmzmmmm/status/2021638371307925995/photo/1",
+              "media_key": "3_2021638359224135684",
+              "start": 24,
+              "url": "https://t.co/zzNvpLJHty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021902108002529377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021638371307925995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Zzzmzmmmm: 置いていかないで https://t.co/zzNvpLJHty"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021638359224135684"
+          ]
+        },
+        "author_id": "1927283550950137856",
+        "conversation_id": "2021638371307925995",
+        "created_at": "2026-02-11T17:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021638371307925995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzNvpLJHty",
+              "end": 32,
+              "expanded_url": "https://x.com/Zzzmzmmmm/status/2021638371307925995/photo/1",
+              "media_key": "3_2021638359224135684",
+              "start": 9,
+              "url": "https://t.co/zzNvpLJHty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021638371307925995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 20100,
+          "like_count": 2464,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 57
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "置いていかないで https://t.co/zzNvpLJHty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 713,
+          "like_count": 7998,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1638
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:39:58.000Z",
+        "description": "111 大号@luyaoyaoy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "luyaoyaoy"
+              }
+            ]
+          }
+        },
+        "id": "1927283550950137856",
+        "location": "中国",
+        "name": "Zzz",
+        "pinned_tweet_id": "2002606151561851365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021695487720796160/AEW8SrCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 40,
+          "like_count": 1744,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 1071
+        },
+        "username": "Zzzmzmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

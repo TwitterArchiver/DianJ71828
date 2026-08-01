@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1882165767220916302",
+    "created_at": "2025-01-22T20:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T21:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882165767220916302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_AkitaYura/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/_AkitaYura/status/1881860614211215537",
+          "start": 9,
+          "url": "https://t.co/N3xvMaj34P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882165767220916302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881860614211215537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类应该灭绝✝️ https://t.co/N3xvMaj34P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882165767220916302",
+        "created_at": "2025-01-22T20:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T21:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882165767220916302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_AkitaYura/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/_AkitaYura/status/1881860614211215537",
+              "start": 9,
+              "url": "https://t.co/N3xvMaj34P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882165767220916302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881860614211215537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类应该灭绝✝️ https://t.co/N3xvMaj34P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764856941151596549",
+        "conversation_id": "1881860614211215537",
+        "created_at": "2025-01-22T00:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T01:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881860614211215537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881860614211215537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是极端厌世的，\n我是极端反人类的，\n我坚信人性本恶，\n我坚信人类应该灭绝。\n\n所以我要改变人类，\n至于如何改变，\n很简单：\n我自己向善。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 133,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 106
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "MtF🏳️‍⚧️🍥▪️ENFP-T🤗▪️猫猫😺▪️有男友🐻▪️重度抑郁😶▪️情绪过山车🫠▪️恐惧症集合体😵‍💫▪️想被rua😣想受欢迎😖▪️互fo交朋友哇👋▪️叫我: ak,Yura,ゆら,悠良..随大家喜欢🫡▪️\n匿名提问https://t.co/1Liof6YFkE🫣",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_akitayura",
+                "end": 135,
+                "expanded_url": "http://ngl.link/_akitayura",
+                "start": 112,
+                "url": "https://t.co/1Liof6YFkE"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "不在台灣",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1881891976158880094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 354,
+          "like_count": 4063,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1057
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

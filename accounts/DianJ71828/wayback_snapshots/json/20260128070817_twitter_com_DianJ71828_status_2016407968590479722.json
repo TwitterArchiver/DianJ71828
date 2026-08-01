@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2015816382211035585",
+    "created_at": "2026-01-28T07:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016407968590479722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877365413358845952",
+          "start": 0,
+          "username": "xie22255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016407968590479722",
+    "in_reply_to_user_id": "1877365413358845952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015816382211035585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xie22255 美哉美哉😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015816378826309633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_meUPhbQAEniaN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015816378595602432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_meUOqa8AAx-dJ.jpg",
+        "width": 1603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2015816382211035585",
+        "created_at": "2026-01-28T07:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016407968590479722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877365413358845952",
+              "start": 0,
+              "username": "xie22255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016407968590479722",
+        "in_reply_to_user_id": "1877365413358845952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015816382211035585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xie22255 美哉美哉😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015816378826309633",
+            "3_2015816378595602432"
+          ]
+        },
+        "author_id": "1877365413358845952",
+        "conversation_id": "2015816382211035585",
+        "created_at": "2026-01-26T15:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015816382211035585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFofnfgd4w",
+              "end": 57,
+              "expanded_url": "https://x.com/xie22255/status/2015816382211035585/photo/1",
+              "media_key": "3_2015816378826309633",
+              "start": 34,
+              "url": "https://t.co/KFofnfgd4w"
+            },
+            {
+              "display_url": "pic.x.com/KFofnfgd4w",
+              "end": 57,
+              "expanded_url": "https://x.com/xie22255/status/2015816382211035585/photo/1",
+              "media_key": "3_2015816378595602432",
+              "start": 34,
+              "url": "https://t.co/KFofnfgd4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015816382211035585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 26818,
+          "like_count": 334,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "高中懒得洗头剪了男生短发被男同表白\n大学留鲻鱼头被一直认为是女同。 https://t.co/KFofnfgd4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/家长放养👀/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 534,
+          "like_count": 5362,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1144
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T14:43:09.000Z",
+        "description": "你好 可以叫我猫罐｜不接任何推广 不约不线下｜我是女生 会有男装照片｜礼貌私信 我是一坨鸡屎，没人敢踩我头上",
+        "id": "1877365413358845952",
+        "location": "🚪188 纯绿",
+        "name": "溏心鸡屎",
+        "pinned_tweet_id": "1997629692267151461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004378026986164227/lQAXzrui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3478,
+          "following_count": 127,
+          "like_count": 1882,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 379
+        },
+        "username": "xie22255",
+        "verified": false
+      }
+    ]
+  }
+}

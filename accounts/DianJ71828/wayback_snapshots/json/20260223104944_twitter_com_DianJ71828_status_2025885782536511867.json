@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2025885782536511867",
+    "created_at": "2026-02-23T10:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025885782536511867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meiqinyuban/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/meiqinyuban/status/2025606199534850315",
+          "start": 10,
+          "url": "https://t.co/VF4ooR66O7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025885782536511867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025606199534850315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不好说啊不好说。。 https://t.co/VF4ooR66O7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2025885782536511867",
+        "created_at": "2026-02-23T10:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025885782536511867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meiqinyuban/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/meiqinyuban/status/2025606199534850315",
+              "start": 10,
+              "url": "https://t.co/VF4ooR66O7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025885782536511867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025606199534850315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不好说啊不好说。。 https://t.co/VF4ooR66O7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420072716963520520",
+        "conversation_id": "2025606199534850315",
+        "created_at": "2026-02-22T16:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025606199534850315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiohunggu25101…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/xiohunggu251015/status/2025579648638489040",
+              "start": 31,
+              "url": "https://t.co/ZL6ZEst9wz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025606199534850315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8717,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025579648638489040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能徒手掰烂精卫药房门锁的，我不敢想在床上会不会把单主弄死了（ https://t.co/ZL6ZEst9wz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 733,
+          "like_count": 9853,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1869
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007094270436753408/CIZOasT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 852,
+          "like_count": 17048,
+          "listed_count": 1,
+          "media_count": 1454,
+          "tweet_count": 7997
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026322217634832561",
+    "created_at": "2026-02-24T15:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026322217634832561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0kada_Mi0/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/0kada_Mi0/status/2026164771251528129",
+          "start": 16,
+          "url": "https://t.co/DyxxhAe18K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026322217634832561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026164771251528129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么说骂我的都是在欺负脑残（） https://t.co/DyxxhAe18K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2026164762120458240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5iHbaakAAfVFL.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026322217634832561",
+        "created_at": "2026-02-24T15:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026322217634832561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0kada_Mi0/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/0kada_Mi0/status/2026164771251528129",
+              "start": 16,
+              "url": "https://t.co/DyxxhAe18K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026322217634832561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026164771251528129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么说骂我的都是在欺负脑残（） https://t.co/DyxxhAe18K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026164762120458240"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2026164771251528129",
+        "created_at": "2026-02-24T05:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026164771251528129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KYcCoDIWR2",
+              "end": 23,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2026164771251528129/photo/1",
+              "media_key": "3_2026164762120458240",
+              "start": 0,
+              "url": "https://t.co/KYcCoDIWR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026164771251528129",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9257,
+          "like_count": 352,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KYcCoDIWR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 740,
+          "like_count": 10248,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1935
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 199,
+          "like_count": 13164,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2227
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

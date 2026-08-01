@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022852087571247291",
+    "created_at": "2026-02-15T01:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022852087571247291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BoscoManirabon…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/BoscoManirabona/status/2022535246885839356",
+          "start": 51,
+          "url": "https://t.co/3DoVy3Lofr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022852087571247291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022535246885839356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🐍：不要～！雅蠛蝶！♡哦齁齁～不行了！要出来了♡哦齁齁齁齁♡要去了要去了♡哦齁齁齁～不要哦齁♡🥵🥵🥵 https://t.co/3DoVy3Lofr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40100,
+        "height": 1160,
+        "media_key": "13_2022535053801328640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022535053801328640/img/BQo5IPVD11dAAXp4.jpg",
+        "public_metrics": {
+          "view_count": 2994721
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022535053801328640/vid/avc1/320x514/aNx-hzPolj0vOQNv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022535053801328640/vid/avc1/480x772/PKOI8Us2Sz9jUARQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022535053801328640/vid/avc1/720x1160/YzbwXoXIIeDvFVF_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022535053801328640/pl/cX7XINmaapMe37Fm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022852087571247291",
+        "created_at": "2026-02-15T01:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022852087571247291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BoscoManirabon…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/BoscoManirabona/status/2022535246885839356",
+              "start": 51,
+              "url": "https://t.co/3DoVy3Lofr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022852087571247291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022535246885839356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐍：不要～！雅蠛蝶！♡哦齁齁～不行了！要出来了♡哦齁齁齁齁♡要去了要去了♡哦齁齁齁～不要哦齁♡🥵🥵🥵 https://t.co/3DoVy3Lofr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022535053801328640"
+          ]
+        },
+        "author_id": "1053588118421561344",
+        "conversation_id": "2022535246885839356",
+        "created_at": "2026-02-14T04:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022535246885839356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwFzBrDvS3",
+              "end": 33,
+              "expanded_url": "https://x.com/BoscoManirabona/status/2022535246885839356/video/1",
+              "media_key": "13_2022535053801328640",
+              "start": 10,
+              "url": "https://t.co/JwFzBrDvS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022535246885839356",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 988,
+          "impression_count": 4570507,
+          "like_count": 5259,
+          "quote_count": 79,
+          "reply_count": 156,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "WTF 😬 😳 🐍 https://t.co/JwFzBrDvS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 731,
+          "like_count": 9229,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1754
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-20T10:05:56.000Z",
+        "description": "Umutima nama wawe ni Imana ituye muri wowe ✍️, ba wowe wiba njye kuko nanjye sinteze kuba wowe🙌contact on: Email: manirabosco@gmail.com, 📲 0788446601",
+        "id": "1053588118421561344",
+        "location": "KAYONZA District",
+        "name": "BOMBE YA KAYONZA🚀💣",
+        "pinned_tweet_id": "2022761429439316079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922580277718605824/s5G7ez2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38275,
+          "following_count": 2994,
+          "like_count": 179506,
+          "listed_count": 28,
+          "media_count": 14064,
+          "tweet_count": 179078
+        },
+        "username": "BoscoManirabona",
+        "verified": true
+      }
+    ]
+  }
+}

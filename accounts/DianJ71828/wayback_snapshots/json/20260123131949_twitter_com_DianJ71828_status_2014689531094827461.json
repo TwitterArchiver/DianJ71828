@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2014688847502966872",
+    "created_at": "2026-01-23T13:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014689531094827461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1492455622633086980",
+          "start": 0,
+          "username": "GeorgianaAurum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014689531094827461",
+    "in_reply_to_user_id": "1492455622633086980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014688847502966872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeorgianaAurum 還真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2014688847502966872",
+        "created_at": "2026-01-23T13:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014689531094827461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492455622633086980",
+              "start": 0,
+              "username": "GeorgianaAurum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014689531094827461",
+        "in_reply_to_user_id": "1492455622633086980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014688847502966872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeorgianaAurum 還真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492455622633086980",
+        "conversation_id": "2014688847502966872",
+        "created_at": "2026-01-23T13:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014688847502966872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DianJ71828/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/DianJ71828/status/2014333345250066761",
+              "start": 143,
+              "url": "https://t.co/3QFDWnSsX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014688847502966872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014333345250066761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直以來對男性的看法很極端\n\n當妳讓男人上頭的時候：他們就算賣腎也要得到妳一夜春宵，享受妳本身還要帶妳享受全世界\n當男人覺得妳醜到靠杯時：他們就會無所不用其極告訴妳「妳很醜」，並且他們會用很殘忍的方式告訴妳「妳讓男人覺得醜的下場」\n\n簡單來說男人的本體就是一根屌，後面長出一個人形罷了 https://t.co/3QFDWnSsX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 512,
+          "like_count": 4860,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1064
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T11:08:56.000Z",
+        "description": "Use any｜She｜They｜ISFJ｜30⬆️還很孩子氣的中年少女｜個性是珍珠烏龍🧋｜作息爆炸｜生活｜日記｜碎碎唸｜網路怪人｜謝謝大家｜主推：🧪🥁🍬🤥▲🐺｜主視覺：clibo-你要不要吃哈密呱｜頭像：我｜🔞偶爾會有NSFW發言和圖文🔞｜這裡是個普通動漫電玩宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/imGeorgiana",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/imGeorgiana",
+                "start": 0,
+                "url": "https://t.co/tjVyqE4A5p"
+              }
+            ]
+          }
+        },
+        "id": "1492455622633086980",
+        "location": "About Myself➡️",
+        "name": "✨喬治亞娜🔮怪人系個人不勢Vtuber",
+        "pinned_tweet_id": "1926715495887048970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011529930191081472/7aHDXcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 444,
+          "like_count": 20823,
+          "listed_count": 3,
+          "media_count": 706,
+          "tweet_count": 27557
+        },
+        "url": "https://t.co/tjVyqE4A5p",
+        "username": "GeorgianaAurum",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2014093234364993811",
+    "created_at": "2026-01-21T21:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T22:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014093234364993811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yantanzhang/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/yantanzhang/status/2013660591706251643",
+          "start": 23,
+          "url": "https://t.co/vXCQ4b0Dfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014093234364993811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013660591706251643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刷着刷着看见一个司马大头，还反复出现，已力竭 https://t.co/vXCQ4b0Dfw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2013660376064233486",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_H1cXWWkA4ImNo.jpg",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2014093234364993811",
+        "created_at": "2026-01-21T21:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T22:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014093234364993811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yantanzhang/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yantanzhang/status/2013660591706251643",
+              "start": 23,
+              "url": "https://t.co/vXCQ4b0Dfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014093234364993811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013660591706251643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷着刷着看见一个司马大头，还反复出现，已力竭 https://t.co/vXCQ4b0Dfw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013660376064233486"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2013660591706251643",
+        "created_at": "2026-01-20T17:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T18:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013660591706251643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0cERPrKR6",
+              "end": 147,
+              "expanded_url": "https://x.com/yantanzhang/status/2013660591706251643/photo/1",
+              "media_key": "3_2013660376064233486",
+              "start": 124,
+              "url": "https://t.co/N0cERPrKR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013660591706251643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在的10后小孩有多逆天？分享给各位一个方法：你们可以试试在快手搜索附近的乡镇中学或者相关话题，随便找一个在校学生的快手账号就可以顺着他们的作品评论区和关注列表进入10后小孩的圈子，去看看这些孩子每天都在发些什么，讨论什么吧，一定会惊掉你的下巴。\n\n我觉得信息爆炸带来的内容低门槛+快餐化+碎片化+大数据+信息茧房导致互联网并没有有效提高人们的认知和智力，反而出现了集体降智的情况。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 582269,
+          "like_count": 1014,
+          "quote_count": 11,
+          "reply_count": 125,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "现在的10后小孩有多逆天？分享给各位一个方法：你们可以试试在快手搜索附近的乡镇中学或者相关话题，随便找一个在校学生的快手账号就可以顺着他们的作品评论区和关注列表进入10后小孩的圈子，去看看这些孩子每天都在发些什么，讨论什么吧，一定会惊掉你的下巴。 https://t.co/N0cERPrKR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "1993016842168967331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 506,
+          "like_count": 4746,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1043
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，反感宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者，公众号：反舔狗联盟会 I 网络探长颜克权。",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38508,
+          "following_count": 237,
+          "like_count": 1193,
+          "listed_count": 108,
+          "media_count": 2972,
+          "tweet_count": 3355
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

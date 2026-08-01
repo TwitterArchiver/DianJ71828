@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1961991896412344380",
+    "created_at": "2025-08-31T13:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T14:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962144415977455674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962144415977455674",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961991896412344380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical 说感动了，那还说啥啊，我割下来送你一颗👿👿👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1961991896412344380",
+        "created_at": "2025-08-31T13:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T14:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962144415977455674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962144415977455674",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961991896412344380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2umerical 说感动了，那还说啥啊，我割下来送你一颗👿👿👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1961991896412344380",
+        "created_at": "2025-08-31T03:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T04:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961991896412344380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961991896412344380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6654,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每一个男孩都有一对魔丸，这是每个少男清纯的标志，你可要珍惜不要随意破坏它！魔丸是男孩长大后与最爱的人分享的最珍贵礼物，一旦擦伤损坏，将永远不再拥有，要好好保护魔丸不受到伤害。所以男孩们一定要珍爱自己，保护好自己一生只有一次的可爱— —魔丸，这就是爸爸常说的内在美，明白了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 256,
+          "like_count": 2057,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 464
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "04/养胃男/想到啥发啥/互关请来加我😽 /恩师lii @Lillcuainil /纯净版@ln2umerical1\n\n年卡12r自用VPN\nhttps://t.co/kZHn0UTG3C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Lillcuainil"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "ln2umerical1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "性价比机场.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://xn--6nq44r2uh9rhj7f.com/#/register?code=gsLtgWTi",
+                "start": 71,
+                "url": "https://t.co/kZHn0UTG3C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北（恩师lii）",
+        "pinned_tweet_id": "1960304278259552546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7957,
+          "following_count": 301,
+          "like_count": 34869,
+          "listed_count": 13,
+          "media_count": 557,
+          "tweet_count": 21999
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

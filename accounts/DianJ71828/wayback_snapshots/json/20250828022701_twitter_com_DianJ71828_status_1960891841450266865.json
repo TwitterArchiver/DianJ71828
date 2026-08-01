@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960859279680004108",
+    "created_at": "2025-08-28T02:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T03:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960891841450266865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1101189825976303616",
+          "start": 0,
+          "username": "Ym4Fourth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960891841450266865",
+    "in_reply_to_user_id": "1101189825976303616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960859279680004108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ym4Fourth 好白...(懂了血色显白？☠️)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960859269248770050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZfHcYa4AIu8D9.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960859279680004108",
+        "created_at": "2025-08-28T02:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T03:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960891841450266865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1101189825976303616",
+              "start": 0,
+              "username": "Ym4Fourth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960891841450266865",
+        "in_reply_to_user_id": "1101189825976303616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960859279680004108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ym4Fourth 好白...(懂了血色显白？☠️)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960859269248770050"
+          ]
+        },
+        "author_id": "1101189825976303616",
+        "conversation_id": "1960859279680004108",
+        "created_at": "2025-08-28T00:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T01:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960859279680004108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnjLnahHhF",
+              "end": 38,
+              "expanded_url": "https://x.com/Ym4Fourth/status/1960859279680004108/photo/1",
+              "media_key": "3_1960859269248770050",
+              "start": 15,
+              "url": "https://t.co/bnjLnahHhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960859279680004108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对象是这个世界上最傻逼的东西 https://t.co/bnjLnahHhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 200,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 314
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-28T18:38:08.000Z",
+        "description": "小号:@JiuQi23/身高166体重52公斤，有B+了，无证含糖一年/HRT24年1.27 4.12已经离家出走/超级社恐/内向~/生日7月23/门槛 128/生理性别男生~超级自卑...想变成萝莉。没有人喜欢我提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "JiuQi23"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangxinyumeng1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tangxinyumeng1",
+                "start": 0,
+                "url": "https://t.co/SI99572oeu"
+              }
+            ]
+          }
+        },
+        "id": "1101189825976303616",
+        "location": "距离你1000米",
+        "name": "糖心雨梦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935308151785394176/7Yjx61XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7980,
+          "following_count": 141,
+          "like_count": 747,
+          "listed_count": 22,
+          "media_count": 171,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/SI99572oeu",
+        "username": "Ym4Fourth",
+        "verified": false
+      }
+    ]
+  }
+}

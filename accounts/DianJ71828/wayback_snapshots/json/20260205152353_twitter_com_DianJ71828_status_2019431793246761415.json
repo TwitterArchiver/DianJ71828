@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2019431793246761415",
+    "created_at": "2026-02-05T15:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T16:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019431793246761415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Cldeop/status/2019399193232830585",
+          "start": 2,
+          "url": "https://t.co/hOvq27eIWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019431793246761415",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019399193232830585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "夯 https://t.co/hOvq27eIWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2019399180637327360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZY2wWaUAA_6Xd.jpg",
+        "width": 1107
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2019431793246761415",
+        "created_at": "2026-02-05T15:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019431793246761415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Cldeop/status/2019399193232830585",
+              "start": 2,
+              "url": "https://t.co/hOvq27eIWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019431793246761415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019399193232830585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夯 https://t.co/hOvq27eIWL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019399180637327360"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019399193232830585",
+        "created_at": "2026-02-05T13:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019399193232830585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVLla9GGOZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2019399193232830585/photo/1",
+              "media_key": "3_2019399180637327360",
+              "start": 0,
+              "url": "https://t.co/BVLla9GGOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019399193232830585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 17747,
+          "like_count": 231,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BVLla9GGOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 630,
+          "like_count": 6247,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1358
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99203,
+          "following_count": 693,
+          "like_count": 34039,
+          "listed_count": 281,
+          "media_count": 15708,
+          "tweet_count": 22535
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

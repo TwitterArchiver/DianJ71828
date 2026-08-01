@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2066644140058923010",
+    "created_at": "2026-06-15T22:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T23:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066644140058923010"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066644140058923010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抱歉，我又看到了這種只有藍色的天空，小說剛剛看完，胸口悶悶的，說不清什麼情感，百感交集的。。\n​聽著熟悉的歌，在同一片藍色的天下，像剛住院睡不沉的晨，想拖著咖啡因過量心悸的夜。\n​說不清感慨。通了宵，腦子亂亂的，又一個美好結局，有好多疑問，想不通，道不明。\n​白雲在天上而鬼魂在心裡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2066644140058923010",
+        "created_at": "2026-06-15T22:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T23:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066644140058923010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066644140058923010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉，我又看到了這種只有藍色的天空，小說剛剛看完，胸口悶悶的，說不清什麼情感，百感交集的。。\n​聽著熟悉的歌，在同一片藍色的天下，像剛住院睡不沉的晨，想拖著咖啡因過量心悸的夜。\n​說不清感慨。通了宵，腦子亂亂的，又一個美好結局，有好多疑問，想不通，道不明。\n​白雲在天上而鬼魂在心裡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 517,
+          "like_count": 12757,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 2561
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

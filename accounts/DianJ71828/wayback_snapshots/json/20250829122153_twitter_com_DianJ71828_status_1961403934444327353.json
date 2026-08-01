@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961403931206324227"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1961403934444327353",
+    "created_at": "2025-08-29T12:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961403934444327353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aopDfgrxqp",
+          "end": 58,
+          "expanded_url": "https://x.com/DianJ71828/status/1961403934444327353/photo/1",
+          "media_key": "3_1961403931206324227",
+          "start": 35,
+          "url": "https://t.co/aopDfgrxqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961403934444327353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚到，本着一个新品试用的心\n爽飞了♡🥵🥵🥵\n现在浑身都在抖🥵🥵🥵🥵🥵 https://t.co/aopDfgrxqp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961403931206324227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhOe8SbkAM9PqU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961403931206324227"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1961403934444327353",
+        "created_at": "2025-08-29T12:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961403934444327353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aopDfgrxqp",
+              "end": 58,
+              "expanded_url": "https://x.com/DianJ71828/status/1961403934444327353/photo/1",
+              "media_key": "3_1961403931206324227",
+              "start": 35,
+              "url": "https://t.co/aopDfgrxqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961403934444327353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚到，本着一个新品试用的心\n爽飞了♡🥵🥵🥵\n现在浑身都在抖🥵🥵🥵🥵🥵 https://t.co/aopDfgrxqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 220,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 385
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

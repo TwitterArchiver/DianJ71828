@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960684774416408737",
+    "created_at": "2025-08-27T23:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T00:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960852251309957183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817821126640496640",
+          "start": 0,
+          "username": "MTNEKO123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960852251309957183",
+    "in_reply_to_user_id": "1817821126640496640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960684774416408737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTNEKO123 那这个不敢去上海，刚踏进地界半步 东方明珠的激光就飞过来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1960684762923982852",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXAZ1qa4AQRjsR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960684774416408737",
+        "created_at": "2025-08-27T23:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T00:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960852251309957183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817821126640496640",
+              "start": 0,
+              "username": "MTNEKO123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960852251309957183",
+        "in_reply_to_user_id": "1817821126640496640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960684774416408737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTNEKO123 那这个不敢去上海，刚踏进地界半步 东方明珠的激光就飞过来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960684762923982852"
+          ]
+        },
+        "author_id": "1817821126640496640",
+        "conversation_id": "1960684774416408737",
+        "created_at": "2025-08-27T12:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960684774416408737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dabLllPV7z",
+              "end": 34,
+              "expanded_url": "https://x.com/MTNEKO123/status/1960684774416408737/photo/1",
+              "media_key": "3_1960684762923982852",
+              "start": 11,
+              "url": "https://t.co/dabLllPV7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960684774416408737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 40298,
+          "like_count": 483,
+          "quote_count": 9,
+          "reply_count": 37,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "含金量最高的一本护照 https://t.co/dabLllPV7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 191,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 289
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 53cm 169kg｜面条一定要能吃✍️️✍️️✍️️｜极度社恐 / 社交障碍 / 泛性恋 / 缺爱b / 爱玩抽象 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫｜窝超级超级超级爱的宝宝❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 121,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958605792330096640/47TPiqrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 2012,
+          "like_count": 35460,
+          "listed_count": 6,
+          "media_count": 396,
+          "tweet_count": 4409
+        },
+        "username": "MTNEKO123",
+        "verified": true
+      }
+    ]
+  }
+}

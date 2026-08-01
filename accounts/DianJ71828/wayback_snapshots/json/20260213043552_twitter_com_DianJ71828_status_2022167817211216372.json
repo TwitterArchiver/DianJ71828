@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021664846484582405"
+      ],
+      "media_source_tweet_id": [
+        "2021664913685721312"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022167817211216372",
+    "created_at": "2026-02-13T04:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022167817211216372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1991906743077724160",
+          "start": 3,
+          "username": "RosariaK31449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1X618xUfE6",
+          "end": 131,
+          "expanded_url": "https://x.com/RosariaK31449/status/2021664913685721312/video/1",
+          "media_key": "13_2021664846484582405",
+          "start": 108,
+          "url": "https://t.co/1X618xUfE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022167817211216372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021664913685721312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RosariaK31449: 我的身体在假阳具上来回晃动，屁眼被撑得大开，黏液顺着大腿往下流。虽然最初还有些不适应，但随着动作的加快，我渐渐进入了状态。啊...\"好舒服...我的屁眼...被撕裂了... \" https://t.co/1X618xUfE6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022167817211216372].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022167817211216372",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022167817211216372"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75046,
+        "height": 1050,
+        "media_key": "13_2021664846484582405",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021664846484582405/img/VGXlcl61faxUt10d.jpg",
+        "public_metrics": {
+          "view_count": 1687
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021664846484582405/vid/avc1/328x270/KRWJrbdLkUTA69fv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021664846484582405/vid/avc1/438x360/2WGCUZoGTeO8Wd6u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021664846484582405/vid/avc1/876x720/GgNsk4B_2TRVfpKg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021664846484582405/pl/8cpjnu-EShL_WPO5.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021664846484582405"
+          ]
+        },
+        "author_id": "1991906743077724160",
+        "conversation_id": "2021664913685721312",
+        "created_at": "2026-02-11T19:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021664913685721312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1X618xUfE6",
+              "end": 112,
+              "expanded_url": "https://x.com/RosariaK31449/status/2021664913685721312/video/1",
+              "media_key": "13_2021664846484582405",
+              "start": 89,
+              "url": "https://t.co/1X618xUfE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021664913685721312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 5052,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我的身体在假阳具上来回晃动，屁眼被撑得大开，黏液顺着大腿往下流。虽然最初还有些不适应，但随着动作的加快，我渐渐进入了状态。啊...\"好舒服...我的屁眼...被撕裂了... \" https://t.co/1X618xUfE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 725,
+          "like_count": 8697,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1707
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T16:29:11.000Z",
+        "description": "",
+        "id": "1991906743077724160",
+        "name": "娼小姬",
+        "pinned_tweet_id": "2021656863558053905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021659233054601217/YaRVoUks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "RosariaK31449",
+        "verified": false
+      }
+    ]
+  }
+}

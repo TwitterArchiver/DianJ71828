@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2038451715801010292",
+    "created_at": "2026-03-30T08:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038530113399369736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2036316864838770688",
+          "start": 0,
+          "username": "hyoukaatsuinya"
+        },
+        {
+          "end": 25,
+          "id": "193648759",
+          "start": 16,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038530113399369736",
+    "in_reply_to_user_id": "2036316864838770688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038496253055746380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyoukaatsuinya @ripo0079 冰棍大手子轉世了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2038451715801010292",
+        "created_at": "2026-03-30T08:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038530113399369736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2036316864838770688",
+              "start": 0,
+              "username": "hyoukaatsuinya"
+            },
+            {
+              "end": 25,
+              "id": "193648759",
+              "start": 16,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038530113399369736",
+        "in_reply_to_user_id": "2036316864838770688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038496253055746380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyoukaatsuinya @ripo0079 冰棍大手子轉世了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036316864838770688",
+        "conversation_id": "2038451715801010292",
+        "created_at": "2026-03-30T05:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038496253055746380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038496253055746380",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038451715801010292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 666还有冰棍的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/遣唐使😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 526,
+          "like_count": 12649,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 2431
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T05:39:17.000Z",
+        "description": "📖🖥 大一休学 计算机 / 🗺️📍 坐标上海 / 🍰1989.06.04 / 🧊🔥 冰棍必须是烫的！/ 🍥 断续含糖 / 🏳‍⚧🏳️‍🌈 MTFTX.TransLes / 🦋 INFP-A / 🏴🚩 Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "http://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/lEpjUafUQn"
+              }
+            ]
+          }
+        },
+        "id": "2036316864838770688",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 二世（互fo寻回）",
+        "pinned_tweet_id": "2037123088555610533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037111119853293568/4aK5yhyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 86,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/lEpjUafUQn",
+        "username": "hyoukaatsuinya",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 21-NNT。国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7879,
+          "following_count": 1376,
+          "like_count": 69987,
+          "listed_count": 122,
+          "media_count": 4274,
+          "tweet_count": 53605
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

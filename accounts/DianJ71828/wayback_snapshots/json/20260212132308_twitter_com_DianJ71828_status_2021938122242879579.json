@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961393208564551680"
+      ],
+      "media_source_tweet_id": [
+        "1961393227975856239"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2021938122242879579",
+    "created_at": "2026-02-12T13:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021938122242879579"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "4i"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "四爱"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "第四爱"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "七夕快乐"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "花絮"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1256448513874866177",
+          "start": 3,
+          "username": "lilithba1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rM4CsOcB0u",
+          "end": 69,
+          "expanded_url": "https://x.com/lilithba1/status/1961393227975856239/video/1",
+          "media_key": "13_1961393208564551680",
+          "start": 46,
+          "url": "https://t.co/rM4CsOcB0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021938122242879579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 275
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961393227975856239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilithba1: 当然要按着头吻\n#4i #四爱 #第四爱 #七夕快乐 #花絮 https://t.co/rM4CsOcB0u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021938122242879579].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021938122242879579",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021938122242879579"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4566,
+        "height": 720,
+        "media_key": "13_1961393208564551680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961393208564551680/img/-Im4Df0F6H5hx6n9.jpg",
+        "public_metrics": {
+          "view_count": 155274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961393208564551680/vid/avc1/320x270/YizygEbKRfE7jIv1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961393208564551680/vid/avc1/426x360/6dHccTqGEHfy9qG6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961393208564551680/vid/avc1/854x720/16RTvH-NvYN-beDb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961393208564551680/pl/ubobboqfYjyUYr2x.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961393208564551680"
+          ]
+        },
+        "author_id": "1256448513874866177",
+        "conversation_id": "1961393227975856239",
+        "created_at": "2025-08-29T11:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961393227975856239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "4i"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "四爱"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "第四爱"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "七夕快乐"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "花絮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rM4CsOcB0u",
+              "end": 54,
+              "expanded_url": "https://x.com/lilithba1/status/1961393227975856239/video/1",
+              "media_key": "13_1961393208564551680",
+              "start": 31,
+              "url": "https://t.co/rM4CsOcB0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961393227975856239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 924,
+          "impression_count": 622719,
+          "like_count": 3461,
+          "quote_count": 20,
+          "reply_count": 47,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "当然要按着头吻\n#4i #四爱 #第四爱 #七夕快乐 #花絮 https://t.co/rM4CsOcB0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 722,
+          "like_count": 8186,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1653
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T05:00:53.000Z",
+        "description": "dom/物化/放置/latex",
+        "id": "1256448513874866177",
+        "location": " 🚪520 纯绿 ZheJiang 只回口令",
+        "name": "TigerLily",
+        "pinned_tweet_id": "1961393227975856239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856313009741934593/SkAEOiDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36152,
+          "following_count": 383,
+          "like_count": 1679,
+          "listed_count": 82,
+          "media_count": 53,
+          "tweet_count": 200
+        },
+        "username": "lilithba1",
+        "verified": false
+      }
+    ]
+  }
+}

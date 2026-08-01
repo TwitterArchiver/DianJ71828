@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886859801822400512"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1886859805652050288",
+    "created_at": "2025-02-04T19:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T20:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886859805652050288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I72gFaBk1k",
+          "end": 158,
+          "expanded_url": "https://x.com/DianJ71828/status/1886859805652050288/photo/1",
+          "media_key": "3_1886859801822400512",
+          "start": 135,
+          "url": "https://t.co/I72gFaBk1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886859805652050288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说白了 贱人们\n你知道自己参与了多少场网暴嘛\n就想说你知道一辈子你吃了多少片面包一样\n沙雕人类总是能想出1000种仇视同类的理由\n“贱货，我会踩着你得到高傲”\n事实是，你从来不是拿破仑\n生命是平等的，没有什么东西有资格审判者她\n罪人们的惩罚会刻进骨子里，让你亲吻大地！ https://t.co/I72gFaBk1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1886859801822400512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi94_iSWkAAVgoo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886859801822400512"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1886859805652050288",
+        "created_at": "2025-02-04T19:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T20:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886859805652050288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I72gFaBk1k",
+              "end": 158,
+              "expanded_url": "https://x.com/DianJ71828/status/1886859805652050288/photo/1",
+              "media_key": "3_1886859801822400512",
+              "start": 135,
+              "url": "https://t.co/I72gFaBk1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886859805652050288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说白了 贱人们\n你知道自己参与了多少场网暴嘛\n就想说你知道一辈子你吃了多少片面包一样\n沙雕人类总是能想出1000种仇视同类的理由\n“贱货，我会踩着你得到高傲”\n事实是，你从来不是拿破仑\n生命是平等的，没有什么东西有资格审判者她\n罪人们的惩罚会刻进骨子里，让你亲吻大地！ https://t.co/I72gFaBk1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 163,
+          "like_count": 1331,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 182
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

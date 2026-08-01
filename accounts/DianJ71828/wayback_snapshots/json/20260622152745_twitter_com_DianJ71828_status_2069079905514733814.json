@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2069079905514733814",
+    "created_at": "2026-06-22T15:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069079905514733814"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069079905514733814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "痛苦是神圣的，应忏悔\n快乐是神圣的，应感激\n为什么每个人都如此痛苦，这里是天堂，这里是地狱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2069079905514733814",
+        "created_at": "2026-06-22T15:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069079905514733814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069079905514733814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛苦是神圣的，应忏悔\n快乐是神圣的，应感激\n为什么每个人都如此痛苦，这里是天堂，这里是地狱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 525,
+          "like_count": 12832,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2595
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

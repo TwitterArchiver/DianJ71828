@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2022833905569796560",
+    "created_at": "2026-02-15T00:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022833905569796560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1844996851134758913",
+          "start": 3,
+          "username": "kissbb_0520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022833905569796560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022273895865385445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kissbb_0520: 人一旦玩过入体玩具之后..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2022833905569796560",
+        "created_at": "2026-02-15T00:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022833905569796560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1844996851134758913",
+              "start": 3,
+              "username": "kissbb_0520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022833905569796560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022273895865385445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kissbb_0520: 人一旦玩过入体玩具之后..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844996851134758913",
+        "conversation_id": "2022273895865385445",
+        "created_at": "2026-02-13T11:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022273895865385445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022273895865385445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 347667,
+          "like_count": 663,
+          "quote_count": 3,
+          "reply_count": 91,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "人一旦玩过入体玩具之后..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 729,
+          "like_count": 8979,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1741
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T07:02:00.000Z",
+        "description": "我要稳稳的幸福 能用双手去碰触 ／ 弱智和没礼貌的私信不回 ／不约 无🚪 仅推 ／ 谢谢你们跟我玩☺️🤲",
+        "id": "1844996851134758913",
+        "location": "我的小世界",
+        "name": "那亲亲吧",
+        "pinned_tweet_id": "1869603970567860241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004766022839275520/RtbQSE2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 80,
+          "like_count": 4716,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1311
+        },
+        "username": "kissbb_0520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2047871515912479148",
+    "created_at": "2026-04-25T15:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048066213935493248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1355099238540009478",
+          "start": 0,
+          "username": "CD33852723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048066213935493248",
+    "in_reply_to_user_id": "1355099238540009478",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047925350680977442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CD33852723 我草。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2047871515912479148",
+        "created_at": "2026-04-25T15:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048066213935493248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1355099238540009478",
+              "start": 0,
+              "username": "CD33852723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048066213935493248",
+        "in_reply_to_user_id": "1355099238540009478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047925350680977442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CD33852723 我草。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355099238540009478",
+        "conversation_id": "2047871515912479148",
+        "created_at": "2026-04-25T06:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047925350680977442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047925350680977442",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047871515912479148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 有个朋友辅导员给她找了个单独的寝室"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 537,
+          "like_count": 12944,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2506
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T10:23:40.000Z",
+        "description": "简单点才能幸福！！！\n铁子 @yuyuyuyou0830 \n饭搭子@Liangyue5500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "yuyuyuyou0830"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "Liangyue5500"
+              }
+            ]
+          }
+        },
+        "id": "1355099238540009478",
+        "name": "婧婕🏳️‍⚧️",
+        "pinned_tweet_id": "2046808355726078447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029437885200707584/_G4kCWu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 259,
+          "like_count": 399,
+          "listed_count": 11,
+          "media_count": 172,
+          "tweet_count": 997
+        },
+        "username": "CD33852723",
+        "verified": false
+      }
+    ]
+  }
+}

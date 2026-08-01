@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1960964418478715093",
+    "created_at": "2025-08-28T15:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T16:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961095145727967491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692055372318773250",
+          "start": 0,
+          "username": "yjX1637538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961095145727967491",
+    "in_reply_to_user_id": "1692055372318773250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960964418478715093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yjX1637538 日内瓦条约被废弃后be like"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_1960964415681126402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gza-vxXa4AI-0EV.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1960964418478715093",
+        "created_at": "2025-08-28T15:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T16:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961095145727967491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692055372318773250",
+              "start": 0,
+              "username": "yjX1637538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961095145727967491",
+        "in_reply_to_user_id": "1692055372318773250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960964418478715093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yjX1637538 日内瓦条约被废弃后be like"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960964415681126402"
+          ]
+        },
+        "author_id": "1692055372318773250",
+        "conversation_id": "1960964418478715093",
+        "created_at": "2025-08-28T07:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960964418478715093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hO9M5hgGXh",
+              "end": 27,
+              "expanded_url": "https://x.com/yjX1637538/status/1960964418478715093/photo/1",
+              "media_key": "3_1960964415681126402",
+              "start": 4,
+              "url": "https://t.co/hO9M5hgGXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960964418478715093",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤯🤯🤯 https://t.co/hO9M5hgGXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 213,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 346
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T06:07:14.000Z",
+        "description": "骂我的折戟把酒诗出声，美蝶美暮美佳人😹😹😹",
+        "id": "1692055372318773250",
+        "location": "距离0.1公里",
+        "name": "0721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824574771281137668/Mwztkqe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 495,
+          "like_count": 83898,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 6802
+        },
+        "username": "yjX1637538",
+        "verified": false
+      }
+    ]
+  }
+}

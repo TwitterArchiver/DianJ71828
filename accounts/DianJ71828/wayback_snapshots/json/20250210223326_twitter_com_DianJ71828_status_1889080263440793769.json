@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1888491278440001674",
+    "created_at": "2025-02-10T22:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T23:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889080263440793769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769594666977210368",
+          "start": 0,
+          "username": "aiaijiango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889080263440793769",
+    "in_reply_to_user_id": "1769594666977210368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888637400660001024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaijiango 喵喵喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1888491278440001674",
+        "created_at": "2025-02-10T22:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T23:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889080263440793769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769594666977210368",
+              "start": 0,
+              "username": "aiaijiango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889080263440793769",
+        "in_reply_to_user_id": "1769594666977210368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888637400660001024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaijiango 喵喵喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769594666977210368",
+        "conversation_id": "1888491278440001674",
+        "created_at": "2025-02-09T17:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T18:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888637400660001024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888637400660001024",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888619065561792849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 cnm我要给你家🚪口贴纸人放花圈😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n🚪52",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 175,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 187
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T05:21:16.000Z",
+        "description": "06年mtx 无证含糖已炸柜 177/67kg 肉肉系 坐标：重庆市 泛性恋偏4i/INTJ药娘，绝赞私信请直接入门 专业情感解说员 私信过🚪52口令红包 支持Btc ETH打赏",
+        "id": "1769594666977210368",
+        "location": "重庆市",
+        "name": "爱爱酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1865614660667674704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837481333725286400/NofvTVn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6802,
+          "following_count": 104,
+          "like_count": 223,
+          "listed_count": 25,
+          "media_count": 97,
+          "tweet_count": 735
+        },
+        "username": "aiaijiango",
+        "verified": true
+      }
+    ]
+  }
+}

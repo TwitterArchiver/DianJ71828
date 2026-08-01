@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026136429538218203",
+    "created_at": "2026-02-24T03:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026136429538218203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akui1121/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/akui1121/status/2025961993807839257",
+          "start": 4,
+          "url": "https://t.co/kP8T6D2S56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026136429538218203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025961993807839257",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是 https://t.co/kP8T6D2S56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025961985935130624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2psTQbwAAZFMv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026136429538218203",
+        "created_at": "2026-02-24T03:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026136429538218203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akui1121/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/akui1121/status/2025961993807839257",
+              "start": 4,
+              "url": "https://t.co/kP8T6D2S56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026136429538218203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025961993807839257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/kP8T6D2S56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025961985935130624"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "2025961993807839257",
+        "created_at": "2026-02-23T15:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025961993807839257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXiN2ktXjr",
+              "end": 101,
+              "expanded_url": "https://x.com/akui1121/status/2025961993807839257/photo/1",
+              "media_key": "3_2025961985935130624",
+              "start": 78,
+              "url": "https://t.co/nXiN2ktXjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025961993807839257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6135,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别老资历深夜说点\n最开始都是一群在很努力变回原生性别的可爱女生互相交流讨论生活的群体，但是现在好像是一个圈子，就，妖魔鬼怪😁，👎\n（放个五年前老照片） https://t.co/nXiN2ktXjr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 738,
+          "like_count": 10070,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1910
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是 #男娘 ！你知道乌托邦吗，是存在的🥰 🚪120不接推广，致歉，僵尸！我！男生还是女生？机车！理想？！我会有自己的家🚬纯享推 @jiangshi1121 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "1965chich"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1840302665340989578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008191911446888448/B9dNkp8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28891,
+          "following_count": 1249,
+          "like_count": 20697,
+          "listed_count": 79,
+          "media_count": 1143,
+          "tweet_count": 14516
+        },
+        "username": "akui1121",
+        "verified": true
+      }
+    ]
+  }
+}

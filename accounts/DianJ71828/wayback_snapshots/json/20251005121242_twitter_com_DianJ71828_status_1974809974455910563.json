@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1974809974455910563",
+    "created_at": "2025-10-05T12:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974809974455910563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cavaradossi100…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Cavaradossi1008/status/1974375928018186255",
+          "start": 7,
+          "url": "https://t.co/CPZq3bvJcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974809974455910563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974375928018186255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伟大的雌激素 https://t.co/CPZq3bvJcN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1974809974455910563",
+        "created_at": "2025-10-05T12:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974809974455910563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cavaradossi100…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Cavaradossi1008/status/1974375928018186255",
+              "start": 7,
+              "url": "https://t.co/CPZq3bvJcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974809974455910563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974375928018186255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伟大的雌激素 https://t.co/CPZq3bvJcN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682687182375636992",
+        "conversation_id": "1974375928018186255",
+        "created_at": "2025-10-04T07:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T08:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974375928018186255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974375928018186255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11226,
+          "like_count": 144,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "伟大的雌激素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 444,
+          "like_count": 3420,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 809
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "If God assigns to me my place in Hell, I do not know why I should aspire to Heaven. He knows best what is for my welfare.🔱🕉️ 我要做一位宗教徒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MajheMaherPand…",
+                "end": 23,
+                "expanded_url": "https://t.me/MajheMaherPandhari",
+                "start": 0,
+                "url": "https://t.co/bNqhFL4qFx"
+              }
+            ]
+          }
+        },
+        "id": "1682687182375636992",
+        "location": "रामसेतु",
+        "name": "MerryMerryHearn🔱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965158889051357184/JPMBAJ2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 1488,
+          "like_count": 153202,
+          "listed_count": 11,
+          "media_count": 1076,
+          "tweet_count": 15451
+        },
+        "url": "https://t.co/bNqhFL4qFx",
+        "username": "Cavaradossi1008",
+        "verified": false
+      }
+    ]
+  }
+}

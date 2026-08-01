@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2019357616921801138",
+    "created_at": "2026-02-05T15:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T16:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019426876872401240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        },
+        {
+          "end": 27,
+          "id": "1896175390005342208",
+          "start": 17,
+          "username": "Chufeinya"
+        },
+        {
+          "end": 41,
+          "id": "1659866844550037504",
+          "start": 28,
+          "username": "AvagueFuture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019426876872401240",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019363302531637380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina @Chufeinya @AvagueFuture 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2019357616921801138",
+        "created_at": "2026-02-05T15:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019426876872401240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            },
+            {
+              "end": 27,
+              "id": "1896175390005342208",
+              "start": 17,
+              "username": "Chufeinya"
+            },
+            {
+              "end": 41,
+              "id": "1659866844550037504",
+              "start": 28,
+              "username": "AvagueFuture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019426876872401240",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019363302531637380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina @Chufeinya @AvagueFuture 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "2019357616921801138",
+        "created_at": "2026-02-05T10:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019363302531637380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896175390005342208",
+              "start": 0,
+              "username": "Chufeinya"
+            },
+            {
+              "end": 24,
+              "id": "1659866844550037504",
+              "start": 11,
+              "username": "AvagueFuture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019363302531637380",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019362964604875264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinya @AvagueFuture 跨女同最棒了！大猫小猫贴贴不比用丢弃自己的主权来换别人的虚情假意来的好？⭐😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 629,
+          "like_count": 6206,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1354
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 清江海畔 古城高川",
+        "name": "⛩️摇光的市隐日记⭐ || 旅者星辰",
+        "pinned_tweet_id": "2018980542759498141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 978,
+          "like_count": 3230,
+          "listed_count": 4,
+          "media_count": 571,
+          "tweet_count": 4298
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "em chuyển và les | 连夜梦觉 Liên Dạ Mộng Giác | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | @Chufeinyax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Chufeinyax"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "2017581360836448473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019178027608154112/XHDsOrrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 1900,
+          "like_count": 17082,
+          "listed_count": 5,
+          "media_count": 49,
+          "tweet_count": 1317
+        },
+        "username": "Chufeinya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T10:21:28.000Z",
+        "description": "08年生/大只yn/176cm/65kg/INFJ-T/🏳️‍⚧️MtF/2023.4炸柜/无证含糖/HRT:2025.11/好朋友@123nhh_awa/舞萌痴/想和大家做朋友👉👈/可以叫我鱼鱼🫠/长不大的小孩/接线下/同类互fo😙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "123nhh_awa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nmkkkkmmk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nmkkkkmmk",
+                "start": 0,
+                "url": "https://t.co/eQiIB7OrqR"
+              }
+            ]
+          }
+        },
+        "id": "1659866844550037504",
+        "location": "距离你 5 km",
+        "name": "鱼✘🍥",
+        "pinned_tweet_id": "2018257489092063621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015287105447227392/SwQJViYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 376,
+          "like_count": 2223,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/eQiIB7OrqR",
+        "username": "AvagueFuture",
+        "verified": false
+      }
+    ]
+  }
+}

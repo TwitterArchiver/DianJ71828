@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033757560680206336",
+        "3_2033757560692736000"
+      ],
+      "media_source_tweet_id": [
+        "2033757568250876235",
+        "2033757568250876235"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2035589529227473182",
+    "created_at": "2026-03-22T05:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035589529227473182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2007357281160278017",
+          "start": 3,
+          "username": "EliFoca5201314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NPC3Q8upzS",
+          "end": 54,
+          "expanded_url": "https://x.com/EliFoca5201314/status/2033757568250876235/photo/1",
+          "media_key": "3_2033757560680206336",
+          "start": 31,
+          "url": "https://t.co/NPC3Q8upzS"
+        },
+        {
+          "display_url": "pic.x.com/NPC3Q8upzS",
+          "end": 54,
+          "expanded_url": "https://x.com/EliFoca5201314/status/2033757568250876235/photo/1",
+          "media_key": "3_2033757560692736000",
+          "start": 31,
+          "url": "https://t.co/NPC3Q8upzS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035589529227473182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033757568250876235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EliFoca5201314: 在外面 VS 在家里 https://t.co/NPC3Q8upzS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035589529227473182].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035589529227473182",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035589529227473182"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2033757560680206336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlbueOb0AAucqT.jpg",
+        "width": 1560
+      },
+      {
+        "height": 1121,
+        "media_key": "3_2033757560692736000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlbueRbAAA6HM5.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033757560680206336",
+            "3_2033757560692736000"
+          ]
+        },
+        "author_id": "2007357281160278017",
+        "conversation_id": "2033757568250876235",
+        "created_at": "2026-03-17T04:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033757568250876235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPC3Q8upzS",
+              "end": 34,
+              "expanded_url": "https://x.com/EliFoca5201314/status/2033757568250876235/photo/1",
+              "media_key": "3_2033757560680206336",
+              "start": 11,
+              "url": "https://t.co/NPC3Q8upzS"
+            },
+            {
+              "display_url": "pic.x.com/NPC3Q8upzS",
+              "end": 34,
+              "expanded_url": "https://x.com/EliFoca5201314/status/2033757568250876235/photo/1",
+              "media_key": "3_2033757560692736000",
+              "start": 11,
+              "url": "https://t.co/NPC3Q8upzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033757568250876235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12535,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "在外面 VS 在家里 https://t.co/NPC3Q8upzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/遣唐使😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 521,
+          "like_count": 12534,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 2392
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T07:44:15.000Z",
+        "description": "🏳️‍⚧️身高158🏳️‍🌈/ #男娘 / #娼年 / #正太 #萝莉 /🚪52 /娼年系神侍美少年❤️/常驻重庆/我一定会成为登峰造极的娼年系的【】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "男娘"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "娼年"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "正太"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "萝莉"
+              }
+            ]
+          }
+        },
+        "id": "2007357281160278017",
+        "location": "投喂52r🉑➕好友",
+        "name": "千葉芙卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007453964460273667/-37A4lME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 84,
+          "like_count": 20,
+          "listed_count": 12,
+          "media_count": 18,
+          "tweet_count": 32
+        },
+        "username": "EliFoca5201314",
+        "verified": true
+      }
+    ]
+  }
+}

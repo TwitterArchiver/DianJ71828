@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962717201892548608",
+        "3_1962717204451074051"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1962717210713170195",
+    "created_at": "2025-09-02T03:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T04:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962717210713170195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qflFMQET3o",
+          "end": 57,
+          "expanded_url": "https://x.com/DianJ71828/status/1962717210713170195/photo/1",
+          "media_key": "3_1962717201892548608",
+          "start": 34,
+          "url": "https://t.co/qflFMQET3o"
+        },
+        {
+          "display_url": "pic.x.com/qflFMQET3o",
+          "end": 57,
+          "expanded_url": "https://x.com/DianJ71828/status/1962717210713170195/photo/1",
+          "media_key": "3_1962717204451074051",
+          "start": 34,
+          "url": "https://t.co/qflFMQET3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962717210713170195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜呜，劳青岛我讨厌你，青岛坏，根本没有易性症的门诊呜呜呜😭😭😭😭 https://t.co/qflFMQET3o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962717201892548608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzz45W1aoAA0K0L.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962717204451074051",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzz45gXaoAM5-2Y.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962717201892548608",
+            "3_1962717204451074051"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962717210713170195",
+        "created_at": "2025-09-02T03:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962717210713170195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qflFMQET3o",
+              "end": 57,
+              "expanded_url": "https://x.com/DianJ71828/status/1962717210713170195/photo/1",
+              "media_key": "3_1962717201892548608",
+              "start": 34,
+              "url": "https://t.co/qflFMQET3o"
+            },
+            {
+              "display_url": "pic.x.com/qflFMQET3o",
+              "end": 57,
+              "expanded_url": "https://x.com/DianJ71828/status/1962717210713170195/photo/1",
+              "media_key": "3_1962717204451074051",
+              "start": 34,
+              "url": "https://t.co/qflFMQET3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962717210713170195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜，劳青岛我讨厌你，青岛坏，根本没有易性症的门诊呜呜呜😭😭😭😭 https://t.co/qflFMQET3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 271,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 520
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

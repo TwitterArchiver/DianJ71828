@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1941159203625947136"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1926673156246233441",
+    "created_at": "2025-07-04T15:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T16:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941159303429423183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697930558859563008",
+          "start": 0,
+          "username": "Chilang258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f5qJxWAENA",
+          "end": 35,
+          "expanded_url": "https://x.com/DianJ71828/status/1941159303429423183/video/1",
+          "media_key": "7_1941159203625947136",
+          "start": 12,
+          "url": "https://t.co/f5qJxWAENA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941159303429423183",
+    "in_reply_to_user_id": "1697930558859563008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932824572543578485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chilang258 https://t.co/f5qJxWAENA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38821,
+        "height": 848,
+        "media_key": "7_1941159203625947136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1941159203625947136/pu/img/p5RjKJXAPF4NM8hX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941159203625947136/pu/vid/avc1/320x706/61wUK7WUy09nLz_5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941159203625947136/pu/vid/avc1/384x848/HUeybjWXcywN-1tp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1941159203625947136/pu/pl/NkK5q0u7WdIi2Khe.m3u8?tag=12"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1941159203625947136"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1926673156246233441",
+        "created_at": "2025-07-04T15:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T16:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941159303429423183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697930558859563008",
+              "start": 0,
+              "username": "Chilang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5qJxWAENA",
+              "end": 35,
+              "expanded_url": "https://x.com/DianJ71828/status/1941159303429423183/video/1",
+              "media_key": "7_1941159203625947136",
+              "start": 12,
+              "url": "https://t.co/f5qJxWAENA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941159303429423183",
+        "in_reply_to_user_id": "1697930558859563008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932824572543578485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chilang258 https://t.co/f5qJxWAENA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697930558859563008",
+        "conversation_id": "1926673156246233441",
+        "created_at": "2025-06-11T15:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T16:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932824572543578485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932824572543578485",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926673156246233441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 我日常不看推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "生活分享\n顺便发发电\n顺嘴的事～\n我是卡密",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 178,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 246
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:12:56.000Z",
+        "description": "",
+        "id": "1697930558859563008",
+        "location": "逼里",
+        "name": "炽郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887880418298589185/uNTJEzPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "Chilang258",
+        "verified": false
+      }
+    ]
+  }
+}

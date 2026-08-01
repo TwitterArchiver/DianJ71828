@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2027572669420540224",
+    "created_at": "2026-02-28T02:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027572669420540224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EliFoca5201314…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/EliFoca5201314/status/2026161620536492384",
+          "start": 29,
+          "url": "https://t.co/ijqw2RYkXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027572669420540224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026161620536492384",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真是慷慨，我要把我主页的片都找回来了。再也不跟别人对线了 https://t.co/ijqw2RYkXY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7960,
+        "height": 640,
+        "media_key": "13_2026161563292639232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026161563292639232/img/doyRGWR2via7v1zp.jpg",
+        "public_metrics": {
+          "view_count": 3116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026161563292639232/vid/avc1/540x270/v_9bJi6A2GuALf33.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026161563292639232/vid/avc1/720x360/oblr2T-UK5nRJNdW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026161563292639232/vid/avc1/1280x640/WrzBgm2N8eqYk9l7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026161563292639232/pl/Ql6hPYTHiSjJ18ur.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2027572669420540224",
+        "created_at": "2026-02-28T02:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027572669420540224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EliFoca5201314…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/EliFoca5201314/status/2026161620536492384",
+              "start": 29,
+              "url": "https://t.co/ijqw2RYkXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027572669420540224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026161620536492384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是慷慨，我要把我主页的片都找回来了。再也不跟别人对线了 https://t.co/ijqw2RYkXY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026161563292639232"
+          ]
+        },
+        "author_id": "2007357281160278017",
+        "conversation_id": "2026161620536492384",
+        "created_at": "2026-02-24T05:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026161620536492384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8PSiDfNap",
+              "end": 38,
+              "expanded_url": "https://x.com/EliFoca5201314/status/2026161620536492384/video/1",
+              "media_key": "13_2026161563292639232",
+              "start": 15,
+              "url": "https://t.co/p8PSiDfNap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026161620536492384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12051,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "穷玩车富玩表，没钱我就玩自己 https://t.co/p8PSiDfNap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 502,
+          "like_count": 11103,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2130
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T07:44:15.000Z",
+        "description": "🏳️‍⚧️身高158🏳️‍🌈/ #男娘 / #娼年 / #正太 #萝莉 /🚪52 /娼年系神侍美少年❤️/我一定会成为登峰造极的娼年系的【】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "男娘"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "娼年"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "正太"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "萝莉"
+              }
+            ]
+          }
+        },
+        "id": "2007357281160278017",
+        "location": "投喂52r🉑➕好友",
+        "name": "千葉芙卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007453964460273667/-37A4lME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 63,
+          "like_count": 13,
+          "listed_count": 9,
+          "media_count": 15,
+          "tweet_count": 25
+        },
+        "username": "EliFoca5201314",
+        "verified": true
+      }
+    ]
+  }
+}

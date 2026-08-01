@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2026960456737579061",
+    "created_at": "2026-02-26T17:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027079308964233284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951710526628876289",
+          "start": 0,
+          "username": "ai_ye98251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027079308964233284",
+    "in_reply_to_user_id": "1951710526628876289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027061957447369023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai_ye98251 登基！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2026960456737579061",
+        "created_at": "2026-02-26T17:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027079308964233284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951710526628876289",
+              "start": 0,
+              "username": "ai_ye98251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027079308964233284",
+        "in_reply_to_user_id": "1951710526628876289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027061957447369023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai_ye98251 登基！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951710526628876289",
+        "conversation_id": "2026960456737579061",
+        "created_at": "2026-02-26T16:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027061957447369023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027061957447369023",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026960456737579061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 老大直接登基吧！支持喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 746,
+          "like_count": 10711,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2041
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T18:24:53.000Z",
+        "description": "永远喜欢奥特曼，永远热爱繁星。\n丨身高178体重120 丨为什么不能矮一点呢...",
+        "id": "1951710526628876289",
+        "location": "America",
+        "name": "星壷star",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970504660177076224/rgoDFaw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 303,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 79
+        },
+        "username": "ai_ye98251",
+        "verified": false
+      }
+    ]
+  }
+}

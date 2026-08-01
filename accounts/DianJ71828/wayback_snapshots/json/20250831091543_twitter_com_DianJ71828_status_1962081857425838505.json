@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1961800038230999047",
+    "created_at": "2025-08-31T09:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T10:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962081857425838505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingRuoovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962081857425838505",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961800038230999047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingRuoovo 存在感➕1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1961800033881456640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzm2vJvagAA4XLp.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1961800038230999047",
+        "created_at": "2025-08-31T09:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T10:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962081857425838505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingRuoovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962081857425838505",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961800038230999047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingRuoovo 存在感➕1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961800033881456640"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961800038230999047",
+        "created_at": "2025-08-30T14:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961800038230999047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ia8zJd76UF",
+              "end": 58,
+              "expanded_url": "https://x.com/LingRuoovo/status/1961800038230999047/photo/1",
+              "media_key": "3_1961800033881456640",
+              "start": 35,
+              "url": "https://t.co/Ia8zJd76UF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961800038230999047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3938,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看我不顺眼趁早互block就行了，没必要跑到我的评论区刷存在感哦😂🤣 https://t.co/Ia8zJd76UF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 248,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 438
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "支黑\n抖m/Enfp-T/左倾自由主义/08\n笨蛋芙芙@JadezKayoko 最好的姐姐@mizuki_liang\n没事就刷推，高强度在线粉红不论大小看到一律block",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "JadezKayoko"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "mizuki_liang"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "未来的未来",
+        "name": "凌老师不是您老师🍥",
+        "pinned_tweet_id": "1959225462976331909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945059470653923328/zA_eLM9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 398,
+          "like_count": 2664,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 1263
+        },
+        "username": "LingRuoovo",
+        "verified": false
+      }
+    ]
+  }
+}

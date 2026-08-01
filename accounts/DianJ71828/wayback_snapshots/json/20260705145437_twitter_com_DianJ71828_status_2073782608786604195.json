@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2073782608786604195",
+    "created_at": "2026-07-05T14:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073782608786604195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2073743016242958657",
+          "start": 14,
+          "url": "https://t.co/ZMp5FRtkPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073782608786604195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073743016242958657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我希望，成为，一只，触手怪 https://t.co/ZMp5FRtkPL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2073782608786604195",
+        "created_at": "2026-07-05T14:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073782608786604195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2073743016242958657",
+              "start": 14,
+              "url": "https://t.co/ZMp5FRtkPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073782608786604195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073743016242958657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我希望，成为，一只，触手怪 https://t.co/ZMp5FRtkPL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2073743016242958657",
+        "created_at": "2026-07-05T12:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073743016242958657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073743016242958657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当猫自诩为猫自认为当猫更可爱更女生的那些“猫粮”喵\n实际上是一种自我逃避喵\n当现实一压力大的时候当猫其实是一种想要逃避成人责任的幻想喵\n是不可取的喵🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 540,
+          "like_count": 12954,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2638
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 1005,
+          "like_count": 275,
+          "listed_count": 19,
+          "media_count": 3327,
+          "tweet_count": 14921
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

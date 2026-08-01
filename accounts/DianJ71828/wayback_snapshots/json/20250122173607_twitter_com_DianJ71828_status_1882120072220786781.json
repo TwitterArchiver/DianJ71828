@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "1882120072220786781",
+    "created_at": "2025-01-22T17:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T18:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882120072220786781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnAnzonHH/stat…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/AnAnzonHH/status/1881854571313778853",
+          "start": 107,
+          "url": "https://t.co/JbVaKyGkWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882120072220786781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881854571313778853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那有那么多“社会垃圾”如果因为一个人患有精神疾病就是社会垃圾应当丧失人权的话。那干脆集中送往毒气室。下一个为什么不会是我？总归，侵害了别人的人应当得到惩罚。不破不立，总会有新的，正当的避难所\n而不应该是所谓后宫。 https://t.co/JbVaKyGkWp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "1882120072220786781",
+        "created_at": "2025-01-22T17:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T18:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882120072220786781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnAnzonHH/stat…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/AnAnzonHH/status/1881854571313778853",
+              "start": 107,
+              "url": "https://t.co/JbVaKyGkWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882120072220786781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881854571313778853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那有那么多“社会垃圾”如果因为一个人患有精神疾病就是社会垃圾应当丧失人权的话。那干脆集中送往毒气室。下一个为什么不会是我？总归，侵害了别人的人应当得到惩罚。不破不立，总会有新的，正当的避难所\n而不应该是所谓后宫。 https://t.co/JbVaKyGkWp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881854553941004288",
+            "3_1881854553940987904",
+            "3_1881854554209456128",
+            "3_1881854555018915840"
+          ]
+        },
+        "author_id": "1752648024453738496",
+        "conversation_id": "1881854571313778853",
+        "created_at": "2025-01-22T00:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T01:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881854571313778853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dccJXUgXdK",
+              "end": 158,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1881854571313778853/photo/1",
+              "media_key": "3_1881854553941004288",
+              "start": 135,
+              "url": "https://t.co/dccJXUgXdK"
+            },
+            {
+              "display_url": "pic.x.com/dccJXUgXdK",
+              "end": 158,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1881854571313778853/photo/1",
+              "media_key": "3_1881854553940987904",
+              "start": 135,
+              "url": "https://t.co/dccJXUgXdK"
+            },
+            {
+              "display_url": "pic.x.com/dccJXUgXdK",
+              "end": 158,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1881854571313778853/photo/1",
+              "media_key": "3_1881854554209456128",
+              "start": 135,
+              "url": "https://t.co/dccJXUgXdK"
+            },
+            {
+              "display_url": "pic.x.com/dccJXUgXdK",
+              "end": 158,
+              "expanded_url": "https://x.com/AnAnzonHH/status/1881854571313778853/photo/1",
+              "media_key": "3_1881854555018915840",
+              "start": 135,
+              "url": "https://t.co/dccJXUgXdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881854571313778853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 18862,
+          "like_count": 85,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "寒涟漪塌房几乎是意料之中的事情，虽然有很多孝子一直在维护，可不可否认的是，他不应该拿慈善来做生意，更不应该将避难所发展成后宫。\n\n不过也有人觉得他做的对，不然这些“社会垃圾”怎么办？把他们圈养在一个地方，省不少麻烦，省的出来祸害社会，20块钱的挂壁房住到永久，到此为止 https://t.co/dccJXUgXdK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 131,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 98
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T11:01:10.000Z",
+        "description": "我不知道我丟失了個什麽東西，我傷心了很久，我哭了很久，然後我給忘了，只是我知道那個東西很重要。\n后来我才知道我的内心已经破碎，还有什么能拯救我支离破碎的我呢，原来我丢失的，是我自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1989.64.com",
+                "end": 23,
+                "expanded_url": "http://1989.64.com",
+                "start": 0,
+                "url": "https://t.co/3D6ylYFOwn"
+              }
+            ]
+          }
+        },
+        "id": "1752648024453738496",
+        "location": "手枪星 ",
+        "name": "「暗中坏坏」🍥 🔪",
+        "pinned_tweet_id": "1871444039914144179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874775620129001472/51hEzyPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 425,
+          "like_count": 75,
+          "listed_count": 14,
+          "media_count": 556,
+          "tweet_count": 2819
+        },
+        "url": "https://t.co/3D6ylYFOwn",
+        "username": "AnAnzonHH",
+        "verified": false
+      }
+    ]
+  }
+}

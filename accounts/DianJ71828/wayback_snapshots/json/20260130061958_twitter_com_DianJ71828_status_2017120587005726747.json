@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017120584363364355"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017120587005726747",
+    "created_at": "2026-01-30T06:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017120587005726747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7GtLCmnier",
+          "end": 46,
+          "expanded_url": "https://x.com/DianJ71828/status/2017120587005726747/photo/1",
+          "media_key": "3_2017120584363364355",
+          "start": 23,
+          "url": "https://t.co/7GtLCmnier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017120587005726747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈，给我看笑了，当代互联网是这样的 https://t.co/7GtLCmnier"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017120584363364355",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5Ae_wbUAMSt3i.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017120584363364355"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017120587005726747",
+        "created_at": "2026-01-30T06:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017120587005726747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GtLCmnier",
+              "end": 46,
+              "expanded_url": "https://x.com/DianJ71828/status/2017120587005726747/photo/1",
+              "media_key": "3_2017120584363364355",
+              "start": 23,
+              "url": "https://t.co/7GtLCmnier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017120587005726747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈，给我看笑了，当代互联网是这样的 https://t.co/7GtLCmnier"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/🚪52/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 550,
+          "like_count": 5517,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1195
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}
