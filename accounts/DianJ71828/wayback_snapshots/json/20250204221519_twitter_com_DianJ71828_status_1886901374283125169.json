@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886901370696986624"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "1886901374283125169",
+    "created_at": "2025-02-04T22:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T23:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886901374283125169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DaDUETDkIA",
+          "end": 30,
+          "expanded_url": "https://x.com/DianJ71828/status/1886901374283125169/photo/1",
+          "media_key": "3_1886901370696986624",
+          "start": 7,
+          "url": "https://t.co/DaDUETDkIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886901374283125169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就是卡密！ https://t.co/DaDUETDkIA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886901370696986624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi-ezKaXcAA4E1i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886901370696986624"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1886901374283125169",
+        "created_at": "2025-02-04T22:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T23:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886901374283125169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaDUETDkIA",
+              "end": 30,
+              "expanded_url": "https://x.com/DianJ71828/status/1886901374283125169/photo/1",
+              "media_key": "3_1886901370696986624",
+              "start": 7,
+              "url": "https://t.co/DaDUETDkIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886901374283125169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是卡密！ https://t.co/DaDUETDkIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "喵喵喵，可爱捏～\n已经完全把这里当推推空间了",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 163,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 198
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}
