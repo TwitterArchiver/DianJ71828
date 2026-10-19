@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2108418661505782126",
+    "created_at": "2026-10-09T04:45:56.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108418661505782126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/adliye101/stat…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/adliye101/status/2107781349260120139",
+          "start": 78,
+          "url": "https://t.co/Y6tYMDMFBF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108418661505782126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107781349260120139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Gerçekten de, mağdurun suçlu olduğu teorisi ölmeyi hak ediyor.\n还真是，受害者有罪论最该死了 https://t.co/Y6tYMDMFBF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2108418661505782126",
+        "created_at": "2026-10-09T04:45:56.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108418661505782126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/adliye101/stat…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/adliye101/status/2107781349260120139",
+              "start": 78,
+              "url": "https://t.co/Y6tYMDMFBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108418661505782126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107781349260120139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gerçekten de, mağdurun suçlu olduğu teorisi ölmeyi hak ediyor.\n还真是，受害者有罪论最该死了 https://t.co/Y6tYMDMFBF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260983333",
+        "conversation_id": "2107781349260120139",
+        "created_at": "2026-10-07T10:33:29.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107781349260120139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107781349260120139",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1135,
+          "impression_count": 1294653,
+          "like_count": 96179,
+          "quote_count": 111,
+          "reply_count": 215,
+          "retweet_count": 9562
+        },
+        "reply_settings": "everyone",
+        "text": "Bir kadın sarhoş ve yarı çıplak olabilir ve odada tecavüzcü yoksa tecavüze uğramaz. İçki ve giyim tecavüze neden olmaz, tecavüzcüler neden olur."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "is_identity_verified": false,
+        "location": "火星～",
+        "most_recent_tweet_id": "2108418661505782126",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2030900435788410966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880140645454725120/1756860447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 570,
+          "like_count": 13205,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-03-05T00:50:10.000Z",
+        "description": "TWITTER BAROLAR BİRLİĞİ BAŞKANI",
+        "id": "260983333",
+        "is_identity_verified": false,
+        "location": "Antalya, Türkiye",
+        "most_recent_tweet_id": "2108303761798258838",
+        "name": "Avukat Hanım",
+        "pinned_tweet_id": "1577538982208212993",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/260983333/1731232574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578000030371401730/YUYJ93R0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37068,
+          "following_count": 281,
+          "like_count": 60691,
+          "listed_count": 34,
+          "media_count": 1537,
+          "tweet_count": 17763
+        },
+        "url": "",
+        "username": "adliye101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

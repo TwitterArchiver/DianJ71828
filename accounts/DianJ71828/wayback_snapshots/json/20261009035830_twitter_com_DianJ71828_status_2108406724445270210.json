@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2096633167335555541",
+    "created_at": "2026-10-09T03:58:30.000Z",
+    "display_text_range": [
+      31,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T04:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108406724445270210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "350588996",
+          "start": 0,
+          "username": "membroahtututah"
+        },
+        {
+          "end": 30,
+          "id": "1436854206992949248",
+          "start": 17,
+          "username": "renleimiejue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108406724445270210",
+    "in_reply_to_user_id": "350588996",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096704059331822037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@membroahtututah @renleimiejue It looks like the Paper House app has multi-language versions now"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2096633167335555541",
+        "created_at": "2026-10-09T03:58:30.000Z",
+        "display_text_range": [
+          31,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T04:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108406724445270210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "350588996",
+              "start": 0,
+              "username": "membroahtututah"
+            },
+            {
+              "end": 30,
+              "id": "1436854206992949248",
+              "start": 17,
+              "username": "renleimiejue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108406724445270210",
+        "in_reply_to_user_id": "350588996",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096704059331822037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@membroahtututah @renleimiejue It looks like the Paper House app has multi-language versions now"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "350588996",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2096633167335555541",
+        "created_at": "2026-09-06T20:56:17.000Z",
+        "display_text_range": [
+          14,
+          225
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096704059331822037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436854206992949248",
+              "start": 0,
+              "username": "renleimiejue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096704059331822037",
+        "in_reply_to_user_id": "1436854206992949248",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16750,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096633167335555541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renleimiejue Si el juego estuviera mínimamente en inglés me pensaría en guardarlo en mi wishlist de steam, odio cuando las novelas gráficas las cuales su única mecánica en el juego es leer, solamente está en un solo idioma 😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "is_identity_verified": false,
+        "location": "火星～",
+        "most_recent_tweet_id": "2108406724445270210",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880140645454725120/1756860447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 554,
+          "like_count": 13058,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 2712
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-08T00:59:00.000Z",
+        "description": "Fan of videogames and yuri 💮",
+        "id": "350588996",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108384484785594681",
+        "name": "LechugaLIfe",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/350588996/1788397751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025220412116783104/yCNYMTwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 1675,
+          "like_count": 22489,
+          "listed_count": 0,
+          "media_count": 689,
+          "tweet_count": 8507
+        },
+        "url": "",
+        "username": "membroahtututah",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-12T00:48:51.000Z",
+        "description": "",
+        "id": "1436854206992949248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103318170182496418",
+        "name": "以太",
+        "pinned_tweet_id": "2096633167335555541",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436854206992949248/1776915924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047159874161872896/GomvRQXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 72,
+          "like_count": 2376,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "renleimiejue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

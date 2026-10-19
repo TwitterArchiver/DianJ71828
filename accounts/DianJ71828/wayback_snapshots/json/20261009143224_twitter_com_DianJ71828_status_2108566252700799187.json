@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2108566252700799187",
+    "created_at": "2026-10-09T14:32:24.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T15:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108566252700799187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/strssdyt/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/strssdyt/status/2108283420887376259",
+          "start": 15,
+          "url": "https://t.co/fykIysOE7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108566252700799187",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108283420887376259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✔️✔️✔️✔️✔️✔️✔️ https://t.co/fykIysOE7n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2108566252700799187",
+        "created_at": "2026-10-09T14:32:24.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T15:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108566252700799187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/strssdyt/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/strssdyt/status/2108283420887376259",
+              "start": 15,
+              "url": "https://t.co/fykIysOE7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108566252700799187",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108283420887376259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✔️✔️✔️✔️✔️✔️✔️ https://t.co/fykIysOE7n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984371885216579586",
+        "conversation_id": "2108283420887376259",
+        "created_at": "2026-10-08T19:48:32.000Z",
+        "display_text_range": [
+          0,
+          200
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T20:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108283420887376259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108283420887376259",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1130,
+          "impression_count": 132680,
+          "like_count": 13214,
+          "quote_count": 273,
+          "reply_count": 28,
+          "retweet_count": 3099
+        },
+        "reply_settings": "everyone",
+        "text": "hugs are actually so underrated especially those hugs that are so tight you can literally feel the other person's heartbeat and for a moment everything feels so calm and safe like nothing can hurt you"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "is_identity_verified": false,
+        "location": "火星～",
+        "most_recent_tweet_id": "2108566252700799187",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2030900435788410966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880140645454725120/1756860447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 570,
+          "like_count": 13170,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2471
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-31T21:28:54.000Z",
+        "description": "",
+        "id": "1984371885216579586",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108470283300409577",
+        "name": "່",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984371885216579586/1787277022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090609927211405313/sCSby3bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 28,
+          "like_count": 5888,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1864
+        },
+        "url": "",
+        "username": "strssdyt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

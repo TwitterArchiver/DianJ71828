@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2108420200328814792",
+    "created_at": "2026-10-09T04:52:02.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108420200328814792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fff154718/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fff154718/status/2108189929637642717",
+          "start": 5,
+          "url": "https://t.co/fiGuOpu8yN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108420200328814792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108189929637642717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并不小众 https://t.co/fiGuOpu8yN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2108420200328814792",
+        "created_at": "2026-10-09T04:52:02.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108420200328814792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fff154718/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fff154718/status/2108189929637642717",
+              "start": 5,
+              "url": "https://t.co/fiGuOpu8yN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108420200328814792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108189929637642717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并不小众 https://t.co/fiGuOpu8yN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976550788077072384",
+        "conversation_id": "2108189929637642717",
+        "created_at": "2026-10-08T13:37:02.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108189929637642717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108189929637642717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 85499,
+          "like_count": 2674,
+          "quote_count": 5,
+          "reply_count": 202,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个小众的易怒点：看片的时候 看到男的肚子大的跟猪头一样难看 我真服了 一看到性欲瞬间都没了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "is_identity_verified": false,
+        "location": "火星～",
+        "most_recent_tweet_id": "2108420200328814792",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2030900435788410966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880140645454725120/1756860447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 570,
+          "like_count": 13214,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 2632
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T07:30:15.000Z",
+        "description": "…",
+        "id": "1976550788077072384",
+        "is_identity_verified": false,
+        "location": "纯绿🚪52",
+        "most_recent_tweet_id": "2108270461755015261",
+        "name": "Fiona.",
+        "pinned_tweet_id": "2088164394370810106",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976550788077072384/1787155564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086830666956537857/yKu6FjeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 41,
+          "like_count": 2971,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "fff154718",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

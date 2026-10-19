@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108409619920158721"
+      ]
+    },
+    "author_id": "1880140645454725120",
+    "conversation_id": "2106971549039554694",
+    "created_at": "2026-10-09T04:10:31.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108409748773327033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921893239629717504",
+          "start": 0,
+          "username": "adachiru_11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gqWnyEkynV",
+          "end": 54,
+          "expanded_url": "https://x.com/DianJ71828/status/2108409748773327033/photo/1",
+          "media_key": "3_2108409619920158721",
+          "start": 31,
+          "url": "https://t.co/gqWnyEkynV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108409748773327033",
+    "in_reply_to_user_id": "1921893239629717504",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2108409619920158721"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106971549039554694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adachiru_11 ネズミの愛、本当に超かわいいね。。 https://t.co/gqWnyEkynV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 803,
+        "media_key": "3_2108409619920158721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUKTYORbgAENLpB.jpg",
+        "width": 783
+      },
+      {
+        "height": 1431,
+        "media_key": "3_2106970881646120960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT122oib0AAnVg8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108409619920158721"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2106971549039554694",
+        "created_at": "2026-10-09T04:10:31.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108409748773327033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921893239629717504",
+              "start": 0,
+              "username": "adachiru_11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqWnyEkynV",
+              "end": 54,
+              "expanded_url": "https://x.com/DianJ71828/status/2108409748773327033/photo/1",
+              "media_key": "3_2108409619920158721",
+              "start": 31,
+              "url": "https://t.co/gqWnyEkynV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108409748773327033",
+        "in_reply_to_user_id": "1921893239629717504",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108409619920158721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106971549039554694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adachiru_11 ネズミの愛、本当に超かわいいね。。 https://t.co/gqWnyEkynV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106970881646120960"
+          ]
+        },
+        "author_id": "1921893239629717504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2106971549039554694",
+        "created_at": "2026-10-05T04:55:37.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106971549039554694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYV90lBt2a",
+              "end": 76,
+              "expanded_url": "https://x.com/adachiru_11/status/2106971549039554694/photo/1",
+              "media_key": "3_2106970881646120960",
+              "start": 53,
+              "url": "https://t.co/BYV90lBt2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106971549039554694",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106970881646120960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 879,
+          "impression_count": 89306,
+          "like_count": 2981,
+          "quote_count": 22,
+          "reply_count": 8,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "百合暴力マジで好きだからここ興奮止まらんかった\nこの台詞が本家から出てるのヤバすぎるだろ 同人誌にするぞ https://t.co/BYV90lBt2a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "is_identity_verified": false,
+        "location": "火星～",
+        "most_recent_tweet_id": "2108409748773327033",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880140645454725120/1756860447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 555,
+          "like_count": 13099,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 2723
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-12T11:41:30.000Z",
+        "description": "雑にいろいろ 好きなもの描きます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/9e94tm8mw…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/9e94tm8mw1dty93k",
+                "start": 0,
+                "url": "https://t.co/yJhw0hX5Pm"
+              }
+            ]
+          }
+        },
+        "id": "1921893239629717504",
+        "is_identity_verified": false,
+        "location": "Do not repost",
+        "most_recent_tweet_id": "2107786895887573009",
+        "name": "徒立る",
+        "pinned_tweet_id": "2073716337130766616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921893239629717504/1772679075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006681930067226625/YnhW5OkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 35,
+          "like_count": 4143,
+          "listed_count": 8,
+          "media_count": 114,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/yJhw0hX5Pm",
+        "username": "adachiru_11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

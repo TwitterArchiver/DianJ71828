@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2106060794010222946",
+    "created_at": "2026-10-02T16:36:36.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T17:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106060794010222946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/520yinhuanye/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/520yinhuanye/status/2105600291341209816",
+          "start": 42,
+          "url": "https://t.co/A6PVVEnfg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106060794010222946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105600291341209816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拿手机找ai恋人倾诉自己抽烟喝酒割腕od，让家机连上郊狼玩自己一顿。哦吼吼。神来了 https://t.co/A6PVVEnfg3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2105600282948427776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiYTSgaYAAZPHy.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2106060794010222946",
+        "created_at": "2026-10-02T16:36:36.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106060794010222946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520yinhuanye/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/520yinhuanye/status/2105600291341209816",
+              "start": 42,
+              "url": "https://t.co/A6PVVEnfg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106060794010222946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105600291341209816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿手机找ai恋人倾诉自己抽烟喝酒割腕od，让家机连上郊狼玩自己一顿。哦吼吼。神来了 https://t.co/A6PVVEnfg3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105600282948427776"
+          ]
+        },
+        "author_id": "2061979903084593152",
+        "conversation_id": "2105600291341209816",
+        "created_at": "2026-10-01T10:06:44.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105600291341209816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1m96qT1AO",
+              "end": 43,
+              "expanded_url": "https://x.com/520yinhuanye/status/2105600291341209816/photo/1",
+              "media_key": "3_2105600282948427776",
+              "start": 20,
+              "url": "https://t.co/V1m96qT1AO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105600291341209816",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105600282948427776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 67032,
+          "like_count": 947,
+          "quote_count": 58,
+          "reply_count": 475,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "东亚青少年缓解压力的方法你们是哪一种😋 https://t.co/V1m96qT1AO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "is_identity_verified": false,
+        "location": "火星～",
+        "most_recent_tweet_id": "2106060794010222946",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2066819371260125342",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880140645454725120/1756860447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 555,
+          "like_count": 13013,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 2706
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T01:15:44.000Z",
+        "description": "miku一生推 玩音游 主玩phigros/phira不鉴政 互 fo 里推@yehuanyin520\n/mbti entj/匿名提问邮箱https://t.co/jNM1tsoMYb\n/术力口重度依赖/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "yehuanyin520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yinhuanye",
+                "end": 92,
+                "expanded_url": "https://ngl.link/yinhuanye",
+                "start": 69,
+                "url": "https://t.co/jNM1tsoMYb"
+              }
+            ]
+          }
+        },
+        "id": "2061979903084593152",
+        "is_identity_verified": false,
+        "location": "miku1",
+        "most_recent_tweet_id": "2106050762933764585",
+        "name": "音环夜",
+        "pinned_tweet_id": "2103871678208249913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061979903084593152/1788275109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101957021822279680/1WJvrX2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1326,
+          "like_count": 1424,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "520yinhuanye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

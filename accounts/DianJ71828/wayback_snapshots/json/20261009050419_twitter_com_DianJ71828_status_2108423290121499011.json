@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880140645454725120",
+    "conversation_id": "2108423290121499011",
+    "created_at": "2026-10-09T05:04:19.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T06:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108423290121499011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AWAWOLFF/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/AWAWOLFF/status/2067195319658688985",
+          "start": 7,
+          "url": "https://t.co/ypnfTkvjPq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108423290121499011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067195319658688985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好杀，有力气 https://t.co/ypnfTkvjPq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2108423290121499011",
+        "created_at": "2026-10-09T05:04:19.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T06:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108423290121499011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AWAWOLFF/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/AWAWOLFF/status/2067195319658688985",
+              "start": 7,
+              "url": "https://t.co/ypnfTkvjPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108423290121499011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067195319658688985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好杀，有力气 https://t.co/ypnfTkvjPq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055818247661072384",
+        "conversation_id": "2067195319658688985",
+        "created_at": "2026-06-17T10:39:05.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067195319658688985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067195319658688985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 680493,
+          "like_count": 24065,
+          "quote_count": 190,
+          "reply_count": 100,
+          "retweet_count": 3613
+        },
+        "reply_settings": "following",
+        "text": "敢在百合中间夹个男的我就杀了你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wenxing, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.88333,
+                  28.66667
+                ],
+                "type": "Point"
+              },
+              "locality": "Wenxing",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "is_identity_verified": false,
+        "location": "火星～",
+        "most_recent_tweet_id": "2108423290121499011",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2030900435788410966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880140645454725120/1756860447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 570,
+          "like_count": 13258,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 2635
+        },
+        "url": "",
+        "username": "DianJ71828",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:12:09.000Z",
+        "description": "太性压抑了所以什么都说，不要见怪\n因为曾经是避难用账号所以什么都说\n\n20↑而且一天到晚只想看色情的成年人",
+        "id": "2055818247661072384",
+        "is_identity_verified": false,
+        "location": "放飞的自我@AWwww8000",
+        "most_recent_tweet_id": "2108384215163347212",
+        "name": "AW",
+        "pinned_tweet_id": "2067201922277499166",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055818247661072384/1778981304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094278890856603648/ffz_5PCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 279,
+          "like_count": 27416,
+          "listed_count": 11,
+          "media_count": 406,
+          "tweet_count": 15479
+        },
+        "url": "",
+        "username": "AWAWOLFF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
